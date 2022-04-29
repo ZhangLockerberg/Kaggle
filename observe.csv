@@ -1,0 +1,1393 @@
+,PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt,ShoppingMall,Spa,VRDeck,Name,Transported,TotalSpended,id,num,cum,Status,Consumption,A,B,C
+2,0003_01,Europa,False,A/0/S,TRAPPIST-1e,58.0,True,43.0,3576.0,0.0,6715.0,49.0,Altark Susent,False,10383.0,0003,01,2,0,1,A,0,S
+3,0003_02,Europa,False,A/0/S,TRAPPIST-1e,33.0,False,0.0,1283.0,371.0,3329.0,193.0,Solam Susent,False,5176.0,0003,02,2,0,1,A,0,S
+9,0008_01,Europa,True,B/1/P,55 Cancri e,14.0,False,0.0,0.0,0.0,0.0,0.0,Erraiam Flatic,True,0.0,0008,01,3,0,0,B,1,P
+10,0008_02,Europa,True,B/1/P,TRAPPIST-1e,34.0,False,0.0,0.0,,0.0,0.0,Altardr Flatic,True,,0008,02,3,0,0,B,1,P
+11,0008_03,Europa,False,B/1/P,55 Cancri e,45.0,False,39.0,7295.0,589.0,110.0,124.0,Wezena Flatic,True,8157.0,0008,03,3,0,1,B,1,P
+52,0056_01,Europa,False,A/1/S,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,Okulas Tractive,True,0.0,0056,01,3,0,0,A,1,S
+53,0056_02,Europa,True,A/1/S,TRAPPIST-1e,38.0,False,0.0,0.0,0.0,0.0,0.0,Instab Tractive,True,0.0,0056,02,3,0,0,A,1,S
+54,0056_03,Europa,False,A/1/S,TRAPPIST-1e,27.0,False,279.0,605.0,3374.0,286.0,3.0,Zinoces Tractive,True,4547.0,0056,03,3,0,1,A,1,S
+103,0110_01,Europa,False,,TRAPPIST-1e,32.0,False,0.0,410.0,6.0,3929.0,764.0,Graviph Aloubtled,False,5109.0,0110,01,4,0,1,,,
+104,0110_02,Europa,,B/5/P,TRAPPIST-1e,40.0,False,0.0,331.0,0.0,0.0,1687.0,Aldeba Bootious,False,2018.0,0110,02,4,0,1,B,5,P
+105,0110_03,Europa,False,B/5/P,TRAPPIST-1e,42.0,False,2209.0,11418.0,0.0,1868.0,445.0,Alaratz Aloubtled,True,15940.0,0110,03,4,0,1,B,5,P
+106,0110_04,Europa,True,B/5/P,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,Izark Aloubtled,True,0.0,0110,04,4,0,0,B,5,P
+114,0119_02,Europa,True,A/0/P,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,Kleeiak Coning,True,0.0,0119,02,2,0,0,A,0,P
+141,0163_01,Europa,True,B/8/P,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,Kabiton Hetforhaft,True,0.0,0163,01,2,0,0,B,8,P
+142,0163_02,Europa,True,B/8/P,TRAPPIST-1e,17.0,False,0.0,0.0,0.0,0.0,0.0,Scharab Hetforhaft,True,0.0,0163,02,2,0,0,B,8,P
+178,0201_01,Europa,True,B/3/S,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,Kaffias Bacistion,True,0.0,0201,01,2,0,0,B,3,S
+179,0201_02,Europa,True,B/3/S,TRAPPIST-1e,47.0,False,0.0,0.0,0.0,0.0,0.0,Edaruma Bacistion,True,0.0,0201,02,2,0,0,B,3,S
+180,0202_01,Europa,True,B/9/P,55 Cancri e,45.0,False,0.0,0.0,0.0,0.0,0.0,Pomera Embleng,True,0.0,0202,01,2,0,0,B,9,P
+181,0202_02,Europa,False,A/2/P,55 Cancri e,,False,0.0,2433.0,,878.0,443.0,Vegas Embleng,True,,0202,02,2,0,0,A,2,P
+229,0245_01,Europa,False,C/6/P,55 Cancri e,46.0,False,0.0,3571.0,0.0,0.0,7.0,Glueba Repumparte,True,3578.0,0245,01,2,0,1,C,6,P
+230,0245_02,Europa,False,C/6/P,TRAPPIST-1e,33.0,False,0.0,86.0,796.0,584.0,10912.0,Anchib Repumparte,False,12378.0,0245,02,2,0,1,C,6,P
+257,0285_01,Europa,True,E/16/P,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,Krabik Invebodene,True,0.0,0285,01,2,0,0,E,16,P
+258,0285_02,Europa,True,E/16/P,55 Cancri e,42.0,False,0.0,0.0,0.0,0.0,0.0,Grasath Invebodene,True,0.0,0285,02,2,0,0,E,16,P
+260,0287_01,Europa,True,,55 Cancri e,39.0,False,0.0,0.0,0.0,0.0,0.0,Tetra Bootty,True,0.0,0287,01,2,0,0,,,
+261,0287_02,Europa,False,B/12/P,TRAPPIST-1e,28.0,False,0.0,587.0,32.0,6.0,1460.0,Alasym Bootty,False,2085.0,0287,02,2,0,1,B,12,P
+264,0290_01,Europa,False,B/7/S,55 Cancri e,26.0,False,0.0,4458.0,0.0,1157.0,262.0,Skaton Excialing,True,5877.0,0290,01,4,0,1,B,7,S
+265,0290_02,Europa,True,B/7/S,TRAPPIST-1e,17.0,False,0.0,0.0,0.0,0.0,0.0,Algor Excialing,True,0.0,0290,02,4,0,0,B,7,S
+266,0290_03,Europa,,B/7/S,TRAPPIST-1e,43.0,False,0.0,0.0,0.0,0.0,0.0,Dhenar Excialing,True,0.0,0290,03,4,0,0,B,7,S
+267,0290_04,Europa,False,B/7/S,55 Cancri e,9.0,False,0.0,0.0,0.0,0.0,0.0,Atino Excialing,True,0.0,0290,04,4,0,0,B,7,S
+287,0316_01,Europa,False,B/9/S,TRAPPIST-1e,24.0,False,0.0,2628.0,,170.0,0.0,Hallah Sorbitter,True,,0316,01,2,0,0,B,9,S
+288,0316_02,Europa,True,B/9/S,TRAPPIST-1e,20.0,False,0.0,0.0,0.0,0.0,,Beneba Sorbitter,True,,0316,02,2,0,0,B,9,S
+296,0330_01,Europa,False,C/14/S,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,Bellah Siveduced,True,0.0,0330,01,3,0,0,C,14,S
+297,0330_02,Europa,False,C/14/S,TRAPPIST-1e,32.0,False,247.0,4651.0,0.0,46.0,202.0,,True,5146.0,0330,02,3,0,1,C,14,S
+298,0330_03,Europa,False,C/14/S,TRAPPIST-1e,33.0,False,443.0,317.0,0.0,148.0,1260.0,Hekaton Siveduced,False,2168.0,0330,03,3,0,1,C,14,S
+336,0378_01,Europa,False,B/11/S,55 Cancri e,18.0,False,17.0,215.0,4.0,5132.0,697.0,Bram Pirejus,False,6065.0,0378,01,7,0,1,B,11,S
+337,0378_02,Europa,True,B/11/S,55 Cancri e,21.0,False,0.0,0.0,0.0,0.0,0.0,Marfak Pirejus,True,0.0,0378,02,7,0,0,B,11,S
+338,0378_03,Europa,False,B/11/S,TRAPPIST-1e,79.0,False,5649.0,235.0,7.0,2579.0,2175.0,Naslon Pirejus,False,10645.0,0378,03,7,0,1,B,11,S
+339,0378_04,Europa,True,B/11/S,TRAPPIST-1e,56.0,False,0.0,0.0,0.0,0.0,0.0,Muonons Pirejus,True,0.0,0378,04,7,0,0,B,11,S
+340,0378_05,Europa,True,B/11/S,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,Polaton Pirejus,True,0.0,0378,05,7,0,0,B,11,S
+341,0378_06,Europa,False,B/11/S,TRAPPIST-1e,33.0,False,0.0,2491.0,6.0,1173.0,1059.0,Sollum Pirejus,False,4729.0,0378,06,7,0,1,B,11,S
+342,0378_07,Europa,True,B/11/S,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,0.0,Achib Pirejus,True,0.0,0378,07,7,0,0,B,11,S
+345,0381_01,Europa,True,B/16/P,55 Cancri e,18.0,False,0.0,0.0,0.0,0.0,0.0,Mesatan Mosteraked,True,0.0,0381,01,2,0,0,B,16,P
+346,0381_02,Europa,True,B/16/P,55 Cancri e,38.0,False,0.0,0.0,,0.0,0.0,Aston Mosteraked,True,,0381,02,2,0,0,B,16,P
+358,0395_01,Europa,False,B/17/P,55 Cancri e,31.0,True,0.0,11003.0,552.0,8157.0,5688.0,Meropus Hervel,False,25400.0,0395,01,2,0,1,B,17,P
+359,0395_02,Europa,False,B/17/P,55 Cancri e,61.0,False,1.0,608.0,0.0,3835.0,1.0,Hadyon Hervel,False,4445.0,0395,02,2,0,1,B,17,P
+378,0417_01,Europa,True,B/18/P,55 Cancri e,68.0,False,0.0,0.0,0.0,0.0,0.0,Lesatik Poicaptic,True,0.0,0417,01,3,0,0,B,18,P
+379,0417_02,Europa,False,B/18/P,55 Cancri e,22.0,False,0.0,1170.0,0.0,5467.0,1241.0,Mirark Unhearfus,False,7878.0,0417,02,3,0,1,B,18,P
+380,0417_03,Europa,True,B/18/P,TRAPPIST-1e,59.0,False,0.0,0.0,0.0,0.0,0.0,Enifik Unhearfus,True,0.0,0417,03,3,0,0,B,18,P
+387,0429_01,Europa,False,A/5/S,55 Cancri e,20.0,False,2.0,10116.0,0.0,2.0,225.0,Aino Ineysive,True,10345.0,0429,01,2,0,1,A,5,S
+388,0429_02,Europa,True,A/5/S,55 Cancri e,46.0,False,0.0,0.0,0.0,0.0,0.0,Taurak Ineysive,True,0.0,0429,02,2,0,0,A,5,S
+392,0433_01,Europa,,B/20/P,55 Cancri e,27.0,False,0.0,0.0,0.0,0.0,0.0,Hekark Mormonized,True,0.0,0433,01,2,0,0,B,20,P
+393,0433_02,Europa,False,B/20/P,TRAPPIST-1e,47.0,False,4.0,891.0,0.0,2962.0,3656.0,Naosura Mormonized,False,7513.0,0433,02,2,0,1,B,20,P
+414,0453_01,Europa,True,B/14/S,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,Aldun Taptiritty,True,0.0,0453,01,3,0,0,B,14,S
+415,0453_02,Europa,True,,55 Cancri e,34.0,False,0.0,0.0,0.0,0.0,0.0,Minopus Taptiritty,True,0.0,0453,02,3,0,0,,,
+416,0453_03,Europa,True,B/14/S,TRAPPIST-1e,74.0,False,0.0,0.0,0.0,0.0,0.0,Wezena Taptiritty,True,0.0,0453,03,3,0,0,B,14,S
+417,0454_01,Europa,,B/15/S,55 Cancri e,28.0,True,5.0,4288.0,0.0,745.0,5.0,Tabius Geoconne,True,5043.0,0454,01,3,0,1,B,15,S
+418,0454_02,Europa,True,B/15/S,TRAPPIST-1e,42.0,False,0.0,0.0,0.0,0.0,0.0,Etair Fushausive,True,0.0,0454,02,3,0,0,B,15,S
+419,0454_03,Europa,True,B/15/S,TRAPPIST-1e,43.0,False,0.0,0.0,0.0,0.0,0.0,Hallux Geoconne,True,0.0,0454,03,3,0,0,B,15,S
+439,0471_01,Europa,False,B/22/P,TRAPPIST-1e,16.0,False,0.0,45.0,2.0,5183.0,170.0,Astab Fuelisent,False,5400.0,0471,01,2,0,1,B,22,P
+440,0471_02,Europa,False,B/22/P,55 Cancri e,30.0,False,0.0,7972.0,0.0,0.0,4.0,Izarino Fuelisent,True,7976.0,0471,02,2,0,1,B,22,P
+456,0498_01,Europa,True,,55 Cancri e,27.0,False,0.0,,0.0,0.0,0.0,Batomam Preent,True,,0498,01,2,0,0,,,
+457,0498_02,Europa,True,B/18/S,55 Cancri e,46.0,False,0.0,0.0,0.0,,0.0,Kastrak Preent,True,,0498,02,2,0,0,B,18,S
+466,0504_01,Europa,True,B/19/S,55 Cancri e,18.0,False,0.0,0.0,0.0,0.0,0.0,Thabius Unpasine,True,0.0,0504,01,6,0,0,B,19,S
+467,0504_02,Europa,True,B/19/S,55 Cancri e,54.0,False,0.0,0.0,0.0,0.0,0.0,Mirfar Unpasine,True,0.0,0504,02,6,0,0,B,19,S
+468,0504_03,Europa,True,B/19/S,,24.0,False,0.0,0.0,0.0,0.0,0.0,Sterops Unpasine,True,0.0,0504,03,6,0,0,B,19,S
+469,0504_04,Europa,False,B/19/S,TRAPPIST-1e,64.0,False,0.0,1737.0,11.0,401.0,752.0,Tauria Unpasine,False,2901.0,0504,04,6,0,1,B,19,S
+470,0504_05,Europa,True,B/19/S,55 Cancri e,18.0,False,0.0,0.0,0.0,0.0,0.0,Azharga Unpasine,True,0.0,0504,05,6,0,0,B,19,S
+475,0512_01,Europa,False,D/18/S,55 Cancri e,32.0,False,0.0,5755.0,0.0,59.0,122.0,Sadirak Nateansive,True,5936.0,0512,01,2,0,1,D,18,S
+476,0512_02,Europa,True,D/18/S,TRAPPIST-1e,55.0,False,0.0,0.0,0.0,0.0,0.0,Ankalik Nateansive,True,0.0,0512,02,2,0,0,D,18,S
+495,0534_01,Europa,False,B/23/P,TRAPPIST-1e,34.0,False,98.0,715.0,29.0,5732.0,1902.0,Asellux Parbage,False,8476.0,0534,01,2,0,1,B,23,P
+496,0534_02,Europa,False,B/23/P,TRAPPIST-1e,49.0,False,3573.0,1308.0,316.0,641.0,25.0,Weia Parbage,False,5863.0,0534,02,2,0,1,B,23,P
+499,0539_01,Europa,True,C/18/P,TRAPPIST-1e,,False,0.0,0.0,,0.0,0.0,Tard Nalanet,True,,0539,01,5,0,0,C,18,P
+500,0539_02,Europa,True,C/18/P,55 Cancri e,36.0,False,0.0,0.0,0.0,0.0,0.0,Achyon Nalanet,True,0.0,0539,02,5,0,0,C,18,P
+502,0539_04,Europa,True,C/18/P,TRAPPIST-1e,49.0,False,0.0,0.0,0.0,0.0,0.0,Betenif Nalanet,True,0.0,0539,04,5,0,0,C,18,P
+503,0539_05,Europa,False,C/18/P,TRAPPIST-1e,38.0,False,0.0,1793.0,479.0,9.0,4987.0,Mardyon Nalanet,False,7268.0,0539,05,5,0,1,C,18,P
+516,0553_01,Europa,True,C/19/P,TRAPPIST-1e,40.0,False,0.0,0.0,0.0,0.0,0.0,Tope Valindle,True,0.0,0553,01,2,0,0,C,19,P
+517,0553_02,Europa,False,C/19/P,TRAPPIST-1e,37.0,False,0.0,6506.0,0.0,764.0,0.0,Gluinol Valindle,True,7270.0,0553,02,2,0,1,C,19,P
+518,0555_01,Europa,True,C/20/P,55 Cancri e,61.0,False,0.0,0.0,0.0,0.0,0.0,Alraixa Graciansus,True,0.0,0555,01,2,0,0,C,20,P
+519,0555_02,Europa,False,C/20/P,TRAPPIST-1e,33.0,False,0.0,165.0,1.0,2525.0,0.0,Alhain Graciansus,False,2691.0,0555,02,2,0,1,C,20,P
+527,0564_01,Europa,True,B/24/P,55 Cancri e,32.0,False,0.0,0.0,0.0,0.0,0.0,Bath Dinsprody,True,0.0,0564,01,3,0,0,B,24,P
+528,0564_02,Europa,True,B/24/P,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,Taura Dinsprody,True,0.0,0564,02,3,0,0,B,24,P
+529,0564_03,Europa,False,B/24/P,,28.0,False,0.0,410.0,2.0,1354.0,3695.0,Aldibi Dinsprody,False,5461.0,0564,03,3,0,1,B,24,P
+533,0568_01,Europa,,D/20/S,TRAPPIST-1e,33.0,False,1908.0,33.0,0.0,1.0,4.0,Enibik Baciffhaut,False,1946.0,0568,01,2,0,1,D,20,S
+534,0568_02,Europa,True,D/20/S,55 Cancri e,,False,0.0,0.0,0.0,0.0,,Pentard Baciffhaut,True,,0568,02,2,0,0,D,20,S
+537,0571_01,Europa,True,C/21/P,55 Cancri e,22.0,False,0.0,0.0,0.0,0.0,0.0,Branev Ousious,True,0.0,0571,01,7,0,0,C,21,P
+538,0571_02,Europa,True,C/21/P,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,Alchium Ousious,False,0.0,0571,02,7,0,0,C,21,P
+539,0571_03,Europa,True,C/21/P,TRAPPIST-1e,42.0,False,0.0,0.0,0.0,0.0,0.0,Bahoton Ousious,True,0.0,0571,03,7,0,0,C,21,P
+540,0571_04,Europa,True,C/21/P,,30.0,False,0.0,0.0,0.0,0.0,,Izark Hednigic,True,,0571,04,7,0,0,C,21,P
+541,0571_05,Europa,True,C/21/P,55 Cancri e,16.0,False,0.0,0.0,0.0,0.0,0.0,Polam Ousious,True,0.0,0571,05,7,0,0,C,21,P
+542,0571_06,Europa,False,C/21/P,TRAPPIST-1e,55.0,False,0.0,1542.0,0.0,1814.0,1568.0,Hasich Ousious,False,4924.0,0571,06,7,0,1,C,21,P
+543,0571_07,Europa,True,C/21/P,TRAPPIST-1e,55.0,False,0.0,0.0,0.0,0.0,0.0,Isoton Ousious,True,0.0,0571,07,7,0,0,C,21,P
+582,0607_01,Europa,False,C/22/P,TRAPPIST-1e,37.0,,27.0,654.0,10.0,881.0,9568.0,Dyonium Hontichre,False,11140.0,0607,01,3,0,1,C,22,P
+583,0607_02,Europa,False,C/22/P,55 Cancri e,44.0,False,434.0,3113.0,19.0,,892.0,Mino Hontichre,False,,0607,02,3,0,0,C,22,P
+584,0607_03,Europa,False,C/22/P,TRAPPIST-1e,43.0,False,4.0,1111.0,118.0,1852.0,,Pola Hontichre,False,,0607,03,3,0,0,C,22,P
+596,0619_01,Europa,True,C/24/S,TRAPPIST-1e,39.0,,0.0,0.0,0.0,0.0,0.0,Scellus Holatirint,True,0.0,0619,01,2,0,0,C,24,S
+597,0619_02,Europa,True,C/24/S,55 Cancri e,43.0,False,0.0,0.0,0.0,0.0,0.0,Ankabit Holatirint,True,0.0,0619,02,2,0,0,C,24,S
+613,0642_01,Europa,False,C/25/S,55 Cancri e,29.0,False,0.0,3344.0,0.0,118.0,972.0,Dilatik Kiling,True,4434.0,0642,01,5,0,1,C,25,S
+614,0642_02,Europa,False,C/25/S,55 Cancri e,36.0,False,0.0,4967.0,82.0,1517.0,575.0,Aviton Kiling,True,7141.0,0642,02,5,0,1,C,25,S
+615,0642_03,Europa,False,C/25/S,TRAPPIST-1e,79.0,False,0.0,0.0,0.0,2210.0,2.0,Chabik Kiling,False,2212.0,0642,03,5,0,1,C,25,S
+616,0642_04,Europa,True,C/25/S,55 Cancri e,30.0,False,0.0,0.0,0.0,0.0,0.0,Tachir Kiling,True,0.0,0642,04,5,0,0,C,25,S
+617,0642_05,Europa,True,C/25/S,55 Cancri e,30.0,False,0.0,0.0,0.0,0.0,0.0,Duhrk Kiling,True,0.0,0642,05,5,0,0,C,25,S
+665,0693_01,Europa,True,,55 Cancri e,35.0,False,0.0,0.0,0.0,,0.0,Mothab Dedometeel,True,,0693,01,2,0,0,,,
+666,0693_02,Europa,False,C/27/S,TRAPPIST-1e,34.0,False,0.0,3488.0,0.0,4343.0,38.0,Tetraix Dedometeel,False,7869.0,0693,02,2,0,1,C,27,S
+677,0709_01,Europa,False,A/7/S,55 Cancri e,25.0,False,0.0,4949.0,0.0,452.0,15.0,Astorux Missefle,True,5416.0,0709,01,3,0,1,A,7,S
+678,0709_02,Europa,True,A/7/S,55 Cancri e,25.0,,0.0,,0.0,0.0,0.0,Thaban Missefle,True,,0709,02,3,0,0,A,7,S
+679,0709_03,Europa,True,,55 Cancri e,23.0,False,0.0,0.0,,0.0,0.0,Props Missefle,True,,0709,03,3,0,0,,,
+705,0740_01,Europa,False,C/24/P,55 Cancri e,67.0,False,76.0,16.0,0.0,2247.0,1166.0,Dyonevi Sageng,False,3505.0,0740,01,3,0,1,C,24,P
+706,0740_02,Europa,True,C/24/P,55 Cancri e,14.0,False,0.0,0.0,0.0,0.0,0.0,Zaurah Sageng,True,0.0,0740,02,3,0,0,C,24,P
+707,0740_03,Europa,False,C/24/P,TRAPPIST-1e,41.0,False,3594.0,3425.0,0.0,0.0,58.0,Thab Sageng,False,7077.0,0740,03,3,0,1,C,24,P
+711,0753_01,Europa,True,A/4/P,,34.0,False,0.0,0.0,0.0,0.0,0.0,Mesarix Ennalve,True,0.0,0753,01,3,0,0,A,4,P
+712,0753_02,Europa,False,A/4/P,55 Cancri e,65.0,False,19.0,1344.0,4.0,3190.0,8.0,,False,4565.0,0753,02,3,0,1,A,4,P
+713,0753_03,Europa,True,,55 Cancri e,42.0,False,0.0,0.0,0.0,0.0,0.0,Matan Ennalve,True,0.0,0753,03,3,0,0,,,
+715,0756_01,Europa,True,B/27/S,55 Cancri e,54.0,False,0.0,0.0,0.0,0.0,0.0,Ashelik Ainserfle,True,0.0,0756,01,3,0,0,B,27,S
+716,0756_02,Europa,False,B/27/S,TRAPPIST-1e,34.0,False,47.0,287.0,0.0,4302.0,0.0,Ranon Geraing,False,4636.0,0756,02,3,0,1,B,27,S
+717,0756_03,Europa,True,B/27/S,TRAPPIST-1e,27.0,False,0.0,0.0,,0.0,0.0,Hadalm Ainserfle,True,,0756,03,3,0,0,B,27,S
+725,0768_01,Europa,False,B/32/P,55 Cancri e,36.0,False,29.0,12180.0,0.0,93.0,17306.0,Maiam Oilloody,False,29608.0,0768,01,2,0,1,B,32,P
+726,0768_02,Europa,True,B/32/P,TRAPPIST-1e,31.0,False,0.0,0.0,0.0,,0.0,Arix Oilloody,True,,0768,02,2,0,0,B,32,P
+735,0772_01,Europa,False,E/56/S,55 Cancri e,37.0,False,0.0,16.0,325.0,4476.0,1359.0,Minoton Hednigic,False,6176.0,0772,01,4,0,1,E,56,S
+736,0772_02,Europa,True,E/56/S,55 Cancri e,15.0,False,0.0,0.0,0.0,0.0,0.0,Halleth Plegred,True,0.0,0772,02,4,0,0,E,56,S
+738,0772_04,Europa,False,E/56/S,55 Cancri e,7.0,False,0.0,0.0,0.0,0.0,0.0,Arrain Hednigic,True,0.0,0772,04,4,0,0,E,56,S
+750,0789_01,Europa,False,A/8/S,TRAPPIST-1e,31.0,True,0.0,166.0,4.0,2177.0,342.0,Mesath Imprank,False,2689.0,0789,01,3,0,1,A,8,S
+751,0789_02,Europa,False,A/8/S,TRAPPIST-1e,30.0,False,0.0,142.0,870.0,89.0,3497.0,Auvan Frolestty,False,4598.0,0789,02,3,0,1,A,8,S
+752,0789_03,Europa,True,A/8/S,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,Zaninon Frolestty,True,0.0,0789,03,3,0,0,A,8,S
+803,0849_01,Europa,False,B/32/S,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,0.0,0.0,Cellum Oidederval,True,0.0,0849,01,2,0,0,B,32,S
+804,0849_02,Europa,True,B/32/S,55 Cancri e,32.0,False,0.0,0.0,0.0,0.0,0.0,Tareson Oidederval,True,0.0,0849,02,2,0,0,B,32,S
+813,0865_01,Europa,True,B/35/S,55 Cancri e,36.0,False,0.0,,0.0,0.0,0.0,,True,,0865,01,2,0,0,B,35,S
+814,0865_02,Europa,True,B/35/S,55 Cancri e,22.0,False,0.0,0.0,0.0,0.0,0.0,Neutria Sandul,True,0.0,0865,02,2,0,0,B,35,S
+831,0889_01,Europa,False,C/32/P,TRAPPIST-1e,48.0,False,0.0,0.0,0.0,0.0,0.0,Marfak Polksy,False,0.0,0889,01,2,0,0,C,32,P
+832,0889_02,Europa,False,C/32/P,55 Cancri e,27.0,,1.0,12804.0,0.0,10.0,52.0,Izaron Polksy,True,12867.0,0889,02,2,0,1,C,32,P
+844,0907_01,Europa,False,B/34/P,55 Cancri e,41.0,False,0.0,5738.0,7.0,9038.0,28.0,Achah Cassiding,False,14811.0,0907,01,2,0,1,B,34,P
+845,0907_02,Europa,False,B/34/P,TRAPPIST-1e,28.0,False,0.0,1736.0,,145.0,634.0,Marinon Cassiding,False,,0907,02,2,0,0,B,34,P
+855,0922_01,Europa,True,B/35/P,55 Cancri e,33.0,False,0.0,0.0,0.0,0.0,,Shaiam Obedaming,True,,0922,01,2,0,0,B,35,P
+856,0922_02,Europa,False,B/35/P,55 Cancri e,31.0,False,0.0,1095.0,0.0,169.0,1226.0,Achyon Obedaming,False,2490.0,0922,02,2,0,1,B,35,P
+857,0923_01,Europa,False,C/38/S,55 Cancri e,,False,0.0,7767.0,0.0,15.0,2453.0,Hadaron Stiviorad,True,10235.0,0923,01,2,0,1,C,38,S
+858,0923_02,Europa,True,B/38/S,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,Alpha Stiviorad,True,0.0,0923,02,2,0,0,B,38,S
+863,0926_01,Europa,False,B/39/S,55 Cancri e,30.0,False,0.0,7992.0,0.0,507.0,25.0,Minchib Asticit,True,8524.0,0926,01,2,0,1,B,39,S
+864,0926_02,Europa,False,B/39/S,TRAPPIST-1e,30.0,False,0.0,760.0,234.0,2761.0,81.0,Alkeson Asticit,False,3836.0,0926,02,2,0,1,B,39,S
+871,0933_01,Europa,False,C/35/P,TRAPPIST-1e,30.0,False,14.0,12045.0,0.0,2121.0,0.0,,True,14180.0,0933,01,2,0,1,C,35,P
+872,0933_02,Europa,False,C/35/P,TRAPPIST-1e,29.0,False,0.0,1127.0,0.0,1867.0,1070.0,Astorux Fawnsive,False,4064.0,0933,02,2,0,1,C,35,P
+894,0964_01,Europa,True,B/36/P,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,,Alderak Platch,True,,0964,01,2,0,0,B,36,P
+895,0964_02,Europa,True,B/36/P,TRAPPIST-1e,48.0,False,0.0,0.0,0.0,0.0,0.0,Weidus Platch,True,0.0,0964,02,2,0,0,B,36,P
+925,0992_01,Europa,False,D/35/S,TRAPPIST-1e,49.0,False,31.0,2727.0,0.0,184.0,135.0,Zino Kiling,True,3077.0,0992,01,6,0,1,D,35,S
+926,0992_02,Europa,False,D/35/S,TRAPPIST-1e,29.0,False,387.0,942.0,0.0,9927.0,1341.0,Tareson Kiling,False,12597.0,0992,02,6,0,1,D,35,S
+927,0992_03,Europa,False,D/35/S,55 Cancri e,46.0,False,1192.0,1736.0,17.0,21.0,0.0,Matan Herpumble,True,2966.0,0992,03,6,0,1,D,35,S
+928,0992_04,Europa,False,,55 Cancri e,35.0,True,8030.0,300.0,0.0,0.0,1436.0,Naosa Herpumble,False,9766.0,0992,04,6,0,1,,,
+929,0992_05,Europa,True,D/35/S,55 Cancri e,17.0,False,0.0,0.0,0.0,0.0,0.0,Sinon Kiling,True,0.0,0992,05,6,0,0,D,35,S
+930,0992_06,Europa,False,D/35/S,55 Cancri e,37.0,False,4301.0,791.0,0.0,1748.0,91.0,Weidus Kiling,False,6931.0,0992,06,6,0,1,D,35,S
+947,1008_01,Europa,True,C/39/S,55 Cancri e,39.0,False,0.0,0.0,0.0,0.0,0.0,Wasatz Spistory,True,0.0,1008,01,2,0,0,C,39,S
+948,1008_02,Europa,True,C/39/S,TRAPPIST-1e,60.0,False,0.0,0.0,0.0,0.0,0.0,Wimpha Spistory,True,0.0,1008,02,2,0,0,C,39,S
+982,1045_01,Europa,False,C/38/P,TRAPPIST-1e,37.0,False,0.0,0.0,0.0,0.0,0.0,Halsham Unteckery,False,0.0,1045,01,2,0,0,C,38,P
+983,1045_02,Europa,False,C/38/P,TRAPPIST-1e,44.0,False,0.0,2349.0,7.0,815.0,10896.0,Shail Unteckery,False,14067.0,1045,02,2,0,1,C,38,P
+1000,1063_02,Europa,True,B/38/P,TRAPPIST-1e,15.0,False,0.0,,0.0,0.0,0.0,Aldebah Ingwhed,True,,1063,02,2,0,0,B,38,P
+1005,1075_01,Europa,True,B/41/S,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,Teron Objeciane,True,0.0,1075,01,2,0,0,B,41,S
+1006,1075_02,Europa,True,B/41/S,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,0.0,0.0,Duhra Objeciane,True,0.0,1075,02,2,0,0,B,41,S
+1025,1089_02,Europa,False,D/41/P,TRAPPIST-1e,26.0,False,0.0,565.0,1.0,677.0,794.0,Gacrab Pronfraked,False,2037.0,1089,02,2,0,1,D,41,P
+1041,1110_01,Europa,False,C/42/S,TRAPPIST-1e,23.0,False,0.0,24.0,0.0,55.0,7516.0,Auvara Ennalve,False,7595.0,1110,01,2,0,1,C,42,S
+1042,1110_02,Europa,False,C/42/S,55 Cancri e,26.0,False,8.0,6138.0,0.0,3.0,754.0,Batomam Ennalve,True,6903.0,1110,02,2,0,1,C,42,S
+1062,1140_01,Europa,False,B/46/S,TRAPPIST-1e,53.0,False,0.0,143.0,1632.0,3.0,756.0,Scelava Sofraten,True,2534.0,1140,01,3,0,1,B,46,S
+1063,1140_02,Europa,True,B/46/S,TRAPPIST-1e,34.0,False,0.0,0.0,0.0,0.0,0.0,Mergas Sofraten,True,0.0,1140,02,3,0,0,B,46,S
+1064,1140_03,Europa,True,B/46/S,55 Cancri e,42.0,False,0.0,0.0,0.0,0.0,0.0,Wasaleh Sofraten,True,0.0,1140,03,3,0,0,B,46,S
+1072,1148_01,Europa,True,C/42/P,55 Cancri e,22.0,False,0.0,,0.0,0.0,0.0,Bosonon Clugete,True,,1148,01,7,0,0,C,42,P
+1073,1148_02,Europa,False,C/42/P,55 Cancri e,,False,0.0,122.0,2138.0,7368.0,1213.0,Axinon Clugete,False,10841.0,1148,02,7,0,1,C,42,P
+1074,1148_03,Europa,False,C/42/P,TRAPPIST-1e,30.0,False,0.0,5225.0,0.0,8.0,1933.0,Caia Clugete,False,7166.0,1148,03,7,0,1,C,42,P
+1075,1148_04,Europa,False,,55 Cancri e,39.0,False,0.0,5212.0,2.0,118.0,61.0,Azet Clugete,True,5393.0,1148,04,7,0,1,,,
+1076,1148_05,Europa,True,C/42/P,,14.0,False,0.0,0.0,0.0,0.0,0.0,Halleth Clugete,True,0.0,1148,05,7,0,0,C,42,P
+1077,1148_06,Europa,True,C/42/P,TRAPPIST-1e,29.0,False,0.0,0.0,,0.0,0.0,Batares Clugete,True,,1148,06,7,0,0,C,42,P
+1078,1148_07,Europa,False,C/42/P,55 Cancri e,34.0,False,2386.0,841.0,76.0,26.0,1693.0,Edaron Clugete,False,5022.0,1148,07,7,0,1,C,42,P
+1087,1154_01,Europa,True,B/43/P,TRAPPIST-1e,25.0,False,0.0,,0.0,,0.0,Celeb Ingascomet,True,,1154,01,3,0,0,B,43,P
+1088,1154_02,Europa,True,B/43/P,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,0.0,Bahyon Ingascomet,True,0.0,1154,02,3,0,0,B,43,P
+1089,1154_03,Europa,True,B/43/P,55 Cancri e,26.0,False,0.0,0.0,0.0,0.0,0.0,Cella Ingascomet,True,0.0,1154,03,3,0,0,B,43,P
+1092,1156_01,Europa,False,B/47/S,TRAPPIST-1e,27.0,False,0.0,2987.0,2.0,3072.0,67.0,Sterfik Motter,False,6128.0,1156,01,2,0,1,B,47,S
+1093,1156_02,Europa,True,B/47/S,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,Kocha Motter,True,0.0,1156,02,2,0,0,B,47,S
+1094,1161_01,Europa,False,B/48/S,55 Cancri e,28.0,False,0.0,11330.0,72.0,43.0,461.0,Zanino Anderking,True,11906.0,1161,01,2,0,1,B,48,S
+1095,1161_02,Europa,False,B/48/S,55 Cancri e,19.0,False,0.0,1291.0,0.0,16139.0,687.0,Mirfark Anderking,False,18117.0,1161,02,2,0,1,B,48,S
+1098,1165_01,Europa,False,B/44/P,55 Cancri e,46.0,False,0.0,7201.0,0.0,32.0,2587.0,Azhah Heermy,False,9820.0,1165,01,4,0,1,B,44,P
+1099,1165_02,Europa,False,B/44/P,TRAPPIST-1e,37.0,False,636.0,333.0,0.0,205.0,67.0,Kumark Heermy,False,1241.0,1165,02,4,0,1,B,44,P
+1100,1165_03,Europa,True,B/44/P,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,Nusakab Waring,True,0.0,1165,03,4,0,0,B,44,P
+1101,1165_04,Europa,True,B/44/P,TRAPPIST-1e,17.0,False,0.0,0.0,0.0,0.0,0.0,Okulas Waring,True,0.0,1165,04,4,0,0,B,44,P
+1130,1193_01,Europa,True,B/50/S,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,Eleonon Presstic,True,0.0,1193,01,2,0,0,B,50,S
+1131,1193_02,Europa,True,B/50/S,55 Cancri e,25.0,False,0.0,0.0,0.0,0.0,0.0,Solam Presstic,True,0.0,1193,02,2,0,0,B,50,S
+1165,1232_01,Europa,True,C/49/S,TRAPPIST-1e,36.0,False,0.0,0.0,0.0,0.0,0.0,Sarthim Geraing,True,0.0,1232,01,2,0,0,C,49,S
+1166,1232_02,Europa,False,C/49/S,55 Cancri e,29.0,False,0.0,42.0,0.0,4651.0,661.0,Tope Geraing,False,5354.0,1232,02,2,0,1,C,49,S
+1171,1238_01,Europa,False,C/50/S,TRAPPIST-1e,26.0,False,0.0,1026.0,3301.0,831.0,356.0,Merops Pronfraked,True,5514.0,1238,01,2,0,1,C,50,S
+1172,1238_02,Europa,True,B/53/S,TRAPPIST-1e,61.0,False,0.0,0.0,0.0,0.0,0.0,,True,0.0,1238,02,2,0,0,B,53,S
+1176,1243_01,Europa,False,A/9/P,TRAPPIST-1e,41.0,False,0.0,4224.0,0.0,1374.0,1281.0,Tautrix Drivery,False,6879.0,1243,01,2,0,1,A,9,P
+1177,1243_02,Europa,False,A/9/P,TRAPPIST-1e,32.0,False,8168.0,69.0,11.0,371.0,0.0,Geno Oderient,False,8619.0,1243,02,2,0,1,A,9,P
+1213,1292_01,Europa,False,B/55/S,55 Cancri e,31.0,True,0.0,27723.0,3.0,202.0,3146.0,Scharab Conale,True,31074.0,1292,01,2,0,1,B,55,S
+1214,1292_02,Europa,False,B/55/S,TRAPPIST-1e,43.0,False,105.0,368.0,268.0,842.0,13.0,Izarino Conale,True,1596.0,1292,02,2,0,1,B,55,S
+1216,1294_01,Europa,True,A/14/S,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,Aldhib Gulcepusy,True,0.0,1294,01,3,0,0,A,14,S
+1217,1294_02,Europa,True,A/14/S,PSO J318.5-22,30.0,False,0.0,0.0,0.0,0.0,0.0,Chamak Plegred,True,0.0,1294,02,3,0,0,A,14,S
+1218,1294_03,Europa,False,A/14/S,TRAPPIST-1e,28.0,True,,0.0,,0.0,0.0,Dscheat Gulcepusy,False,,1294,03,3,0,0,A,14,S
+1229,1306_01,Europa,False,B/56/S,TRAPPIST-1e,44.0,False,0.0,3863.0,1.0,1010.0,514.0,Zaurah Irintious,True,5388.0,1306,01,2,0,1,B,56,S
+1230,1306_02,Europa,False,B/56/S,55 Cancri e,11.0,False,0.0,0.0,0.0,0.0,0.0,Alsham Irintious,True,0.0,1306,02,2,0,0,B,56,S
+1232,1308_01,Europa,True,,55 Cancri e,40.0,False,0.0,0.0,0.0,0.0,0.0,Diram Plegred,True,0.0,1308,01,4,0,0,,,
+1233,1308_02,Europa,False,E/94/S,55 Cancri e,30.0,False,278.0,3300.0,0.0,8145.0,2519.0,Tachba Plegred,False,14242.0,1308,02,4,0,1,E,94,S
+1234,1308_03,Europa,False,E/94/S,55 Cancri e,37.0,False,0.0,439.0,0.0,3198.0,6.0,Grafi Plegred,False,3643.0,1308,03,4,0,1,E,94,S
+1235,1308_04,Europa,True,E/94/S,55 Cancri e,26.0,False,0.0,0.0,0.0,0.0,0.0,Medib Plegred,True,0.0,1308,04,4,0,0,E,94,S
+1242,1316_01,Europa,True,E/95/S,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,Sadrus Quelfly,True,0.0,1316,01,2,0,0,E,95,S
+1243,1316_02,Europa,False,E/95/S,55 Cancri e,36.0,False,0.0,847.0,,4664.0,89.0,Arion Quelfly,False,,1316,02,2,0,0,E,95,S
+1268,1348_01,Europa,False,B/57/S,TRAPPIST-1e,22.0,False,0.0,1531.0,0.0,369.0,2969.0,Batan Balightal,False,4869.0,1348,01,2,0,1,B,57,S
+1269,1348_02,Europa,True,B/57/S,TRAPPIST-1e,,False,0.0,0.0,0.0,0.0,0.0,Aske Balightal,True,0.0,1348,02,2,0,0,B,57,S
+1285,1365_01,Europa,False,B/58/S,55 Cancri e,33.0,False,77.0,2381.0,0.0,3656.0,150.0,Alkeson Exnutch,False,6264.0,1365,01,2,0,1,B,58,S
+1286,1365_02,Europa,True,B/58/S,TRAPPIST-1e,20.0,False,0.0,0.0,0.0,0.0,0.0,Anchird Exnutch,True,0.0,1365,02,2,0,0,B,58,S
+1326,1404_01,Europa,False,B/60/S,TRAPPIST-1e,47.0,False,1.0,734.0,28.0,78.0,3471.0,Alaton Mornaned,False,4312.0,1404,01,2,0,1,B,60,S
+1327,1404_02,Europa,False,,TRAPPIST-1e,42.0,False,0.0,51.0,0.0,4170.0,13.0,Arkard Mornaned,False,4234.0,1404,02,2,0,1,,,
+1343,1423_01,Europa,True,B/61/S,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,Seginon Asoppor,True,0.0,1423,01,3,0,0,B,61,S
+1344,1423_02,Europa,True,B/61/S,TRAPPIST-1e,39.0,False,0.0,0.0,0.0,0.0,0.0,Beneb Asoppor,True,0.0,1423,02,3,0,0,B,61,S
+1345,1423_03,Europa,True,B/61/S,55 Cancri e,59.0,False,0.0,0.0,0.0,0.0,0.0,Sadra Rodwative,True,0.0,1423,03,3,0,0,B,61,S
+1346,1424_01,Europa,True,B/47/P,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,0.0,Sarid Sageng,True,0.0,1424,01,5,0,0,B,47,P
+1347,1424_02,Europa,False,B/47/P,55 Cancri e,29.0,False,2988.0,2147.0,0.0,0.0,1779.0,Goros Sageng,False,6914.0,1424,02,5,0,1,B,47,P
+1348,1424_03,Europa,False,B/47/P,TRAPPIST-1e,8.0,False,0.0,0.0,0.0,0.0,0.0,Elebola Sageng,True,0.0,1424,03,5,0,0,B,47,P
+1349,1424_04,Europa,False,B/47/P,55 Cancri e,28.0,False,0.0,4380.0,0.0,692.0,0.0,Proxima Sageng,True,5072.0,1424,04,5,0,1,B,47,P
+1350,1424_05,Europa,True,B/47/P,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,Weia Sageng,True,0.0,1424,05,5,0,0,B,47,P
+1374,1450_01,Europa,True,D/53/S,55 Cancri e,43.0,False,0.0,0.0,0.0,0.0,0.0,Tabih Ailled,True,0.0,1450,01,2,0,0,D,53,S
+1375,1450_02,Europa,False,D/53/S,55 Cancri e,30.0,False,0.0,138.0,0.0,5467.0,112.0,Cella Ailled,False,5717.0,1450,02,2,0,1,D,53,S
+1376,1451_01,Europa,False,C/56/S,55 Cancri e,46.0,False,202.0,484.0,0.0,3208.0,2485.0,Zinor Proorbeng,False,6379.0,1451,01,2,0,1,C,56,S
+1377,1451_02,Europa,True,C/56/S,TRAPPIST-1e,39.0,False,0.0,0.0,0.0,0.0,0.0,Unukath Proorbeng,True,0.0,1451,02,2,0,0,C,56,S
+1378,1452_01,Europa,False,C/53/P,TRAPPIST-1e,21.0,False,5.0,251.0,10.0,26.0,3384.0,Arkar Distured,False,3676.0,1452,01,5,0,1,C,53,P
+1379,1452_02,Europa,True,,TRAPPIST-1e,70.0,False,0.0,0.0,0.0,0.0,0.0,Gorab Distured,True,0.0,1452,02,5,0,0,,,
+1380,1452_03,Europa,False,C/53/P,55 Cancri e,34.0,False,0.0,1646.0,0.0,51.0,1462.0,Alzird Distured,False,3159.0,1452,03,5,0,1,C,53,P
+1381,1452_04,Europa,False,C/53/P,TRAPPIST-1e,33.0,False,0.0,774.0,0.0,6255.0,6.0,Hamak Distured,False,7035.0,1452,04,5,0,1,C,53,P
+1382,1452_05,Europa,True,C/53/P,55 Cancri e,44.0,False,0.0,0.0,0.0,0.0,0.0,Gimph Distured,True,0.0,1452,05,5,0,0,C,53,P
+1386,1455_01,Europa,True,B/62/S,55 Cancri e,29.0,False,0.0,0.0,0.0,0.0,0.0,Markton Wassird,True,0.0,1455,01,5,0,0,B,62,S
+1387,1455_02,Europa,False,B/62/S,TRAPPIST-1e,29.0,False,0.0,2509.0,0.0,16.0,698.0,Teronan Conaly,True,3223.0,1455,02,5,0,1,B,62,S
+1388,1455_03,Europa,True,B/62/S,55 Cancri e,22.0,False,0.0,0.0,0.0,0.0,0.0,Rotanin Wassird,True,0.0,1455,03,5,0,0,B,62,S
+1389,1455_04,Europa,False,B/62/S,TRAPPIST-1e,26.0,False,0.0,533.0,2119.0,10.0,504.0,Rasaleh Wassird,True,3166.0,1455,04,5,0,1,B,62,S
+1390,1455_05,Europa,False,B/62/S,55 Cancri e,76.0,False,0.0,2732.0,422.0,16594.0,330.0,Antino Wassird,False,20078.0,1455,05,5,0,1,B,62,S
+1433,1511_01,Europa,False,B/63/S,TRAPPIST-1e,40.0,False,1006.0,,0.0,284.0,329.0,Ancham Spandisket,True,,1511,01,4,0,0,B,63,S
+1434,1511_02,Europa,True,B/63/S,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,Diram Whealeed,True,0.0,1511,02,4,0,0,B,63,S
+1435,1511_03,Europa,False,B/63/S,TRAPPIST-1e,36.0,False,0.0,2345.0,0.0,1966.0,27.0,Maham Spandisket,False,4338.0,1511,03,4,0,1,B,63,S
+1436,1511_04,Europa,False,B/63/S,55 Cancri e,31.0,False,65.0,2121.0,0.0,6431.0,1.0,Winon Whealeed,False,8618.0,1511,04,4,0,1,B,63,S
+1440,1523_01,Europa,True,B/64/S,55 Cancri e,41.0,False,0.0,,0.0,0.0,0.0,Izares Waring,True,,1523,01,2,0,0,B,64,S
+1441,1523_02,Europa,True,B/64/S,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,Baton Waring,True,0.0,1523,02,2,0,0,B,64,S
+1445,1527_01,Europa,True,D/49/P,55 Cancri e,22.0,False,0.0,0.0,0.0,0.0,0.0,Dirius Boderbint,True,0.0,1527,01,2,0,0,D,49,P
+1446,1527_02,Europa,False,D/49/P,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,Anchird Boderbint,True,0.0,1527,02,2,0,0,D,49,P
+1448,1529_01,Europa,False,A/16/S,PSO J318.5-22,25.0,True,0.0,7069.0,0.0,45.0,282.0,Almino Slable,True,7396.0,1529,01,2,0,1,A,16,S
+1449,1529_02,Europa,False,A/16/S,TRAPPIST-1e,30.0,False,0.0,0.0,0.0,0.0,0.0,Krab Slable,True,0.0,1529,02,2,0,0,A,16,S
+1455,1540_01,Europa,False,C/55/P,TRAPPIST-1e,32.0,False,1.0,470.0,0.0,1440.0,2114.0,Shamak Clumshangs,False,4025.0,1540,01,3,0,1,C,55,P
+1456,1540_02,Europa,False,C/55/P,TRAPPIST-1e,33.0,True,0.0,7139.0,22.0,0.0,553.0,Duhratz Clumshangs,True,7714.0,1540,02,3,0,1,C,55,P
+1457,1540_03,Europa,False,C/55/P,TRAPPIST-1e,26.0,False,0.0,170.0,0.0,3718.0,0.0,Bahoton Clumshangs,False,3888.0,1540,03,3,0,1,C,55,P
+1464,1548_01,Europa,True,B/50/P,55 Cancri e,51.0,,0.0,0.0,0.0,0.0,0.0,Okulk Unicting,True,0.0,1548,01,2,0,0,B,50,P
+1465,1548_02,Europa,True,B/50/P,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,Sarid Stivelte,True,0.0,1548,02,2,0,0,B,50,P
+1466,1550_01,Europa,False,C/58/S,TRAPPIST-1e,26.0,False,1.0,230.0,0.0,42.0,4030.0,Marin Supiensive,False,4303.0,1550,01,2,0,1,C,58,S
+1467,1550_02,Europa,False,,55 Cancri e,53.0,True,5022.0,2376.0,0.0,0.0,235.0,Coxaton Supiensive,False,7633.0,1550,02,2,0,1,,,
+1495,1588_01,Europa,True,E/99/P,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,Errima Fullous,True,0.0,1588,01,2,0,0,E,99,P
+1496,1588_02,Europa,False,E/99/P,55 Cancri e,35.0,False,0.0,17394.0,0.0,724.0,0.0,Hyaduma Fullous,True,18118.0,1588,02,2,0,1,E,99,P
+1497,1590_01,Europa,False,D/57/S,TRAPPIST-1e,37.0,False,0.0,1336.0,2.0,12.0,7.0,Neutrin Crakenecal,True,1357.0,1590,01,2,0,1,D,57,S
+1498,1590_02,Europa,False,D/57/S,55 Cancri e,33.0,False,0.0,26.0,1.0,33.0,2439.0,Ankark Crakenecal,False,2499.0,1590,02,2,0,1,D,57,S
+1499,1592_01,Europa,False,C/60/S,TRAPPIST-1e,35.0,False,305.0,3621.0,0.0,320.0,341.0,Ankabih Idivent,True,4587.0,1592,01,2,0,1,C,60,S
+1500,1592_02,Europa,False,C/60/S,55 Cancri e,47.0,False,16.0,2127.0,1487.0,0.0,196.0,Arid Idivent,True,3826.0,1592,02,2,0,1,C,60,S
+1506,1599_01,Europa,True,C/58/P,TRAPPIST-1e,19.0,False,0.0,0.0,,0.0,0.0,Giedion Drelcate,True,,1599,01,2,0,0,C,58,P
+1507,1599_02,Europa,True,C/58/P,55 Cancri e,53.0,False,0.0,0.0,0.0,0.0,0.0,Enifak Drelcate,True,0.0,1599,02,2,0,0,C,58,P
+1517,1612_01,Europa,False,E/101/P,TRAPPIST-1e,49.0,False,0.0,3750.0,0.0,2.0,341.0,Furuson Entenedy,True,4093.0,1612,01,2,0,1,E,101,P
+1518,1612_02,Europa,True,E/101/P,TRAPPIST-1e,47.0,False,0.0,0.0,0.0,0.0,0.0,Arraid Entenedy,True,0.0,1612,02,2,0,0,E,101,P
+1532,1625_01,Europa,True,C/59/P,55 Cancri e,19.0,False,0.0,0.0,0.0,0.0,0.0,Weznif Patimonne,True,0.0,1625,01,2,0,0,C,59,P
+1533,1625_02,Europa,False,C/59/P,TRAPPIST-1e,29.0,False,0.0,930.0,0.0,2113.0,98.0,Dabik Patimonne,False,3141.0,1625,02,2,0,1,C,59,P
+1566,1661_01,Europa,False,A/20/S,TRAPPIST-1e,56.0,False,0.0,0.0,0.0,0.0,0.0,Arin Fringh,False,0.0,1661,01,4,0,0,A,20,S
+1567,1661_02,Europa,False,A/20/S,TRAPPIST-1e,57.0,False,0.0,62.0,0.0,2136.0,178.0,Almino Earmeter,False,2376.0,1661,02,4,0,1,A,20,S
+1568,1661_03,Europa,True,A/20/S,TRAPPIST-1e,48.0,False,0.0,0.0,0.0,0.0,0.0,Quarkib Fringh,True,0.0,1661,03,4,0,0,A,20,S
+1569,1661_04,Europa,False,A/20/S,TRAPPIST-1e,37.0,False,0.0,2390.0,0.0,1306.0,,Branev Fringh,False,,1661,04,4,0,0,A,20,S
+1602,1700_01,Europa,True,B/74/S,TRAPPIST-1e,17.0,False,0.0,0.0,0.0,0.0,0.0,Zavior Waring,True,0.0,1700,01,2,0,0,B,74,S
+1603,1700_02,Europa,False,B/74/S,TRAPPIST-1e,64.0,False,0.0,4.0,0.0,6200.0,622.0,Solaron Waring,False,6826.0,1700,02,2,0,1,B,74,S
+1665,1767_01,Europa,True,C/65/S,55 Cancri e,14.0,False,0.0,0.0,0.0,0.0,0.0,Hekaron Gleroling,True,0.0,1767,01,4,0,0,C,65,S
+1666,1767_02,Europa,False,C/65/S,TRAPPIST-1e,50.0,False,3677.0,782.0,0.0,6.0,1168.0,Decruxa Stewder,True,5633.0,1767,02,4,0,1,C,65,S
+1667,1767_03,Europa,False,C/65/S,TRAPPIST-1e,32.0,False,2973.0,3368.0,124.0,57.0,42.0,Coxatik Gleroling,True,6564.0,1767,03,4,0,1,C,65,S
+1668,1767_04,Europa,True,C/65/S,TRAPPIST-1e,46.0,False,0.0,0.0,0.0,0.0,0.0,Coxah Gleroling,True,0.0,1767,04,4,0,0,C,65,S
+1708,1816_01,Europa,False,C/68/S,TRAPPIST-1e,60.0,True,1891.0,640.0,0.0,360.0,52.0,Naosura Dicomeng,True,2943.0,1816,01,2,0,1,C,68,S
+1709,1816_02,Europa,False,C/68/S,TRAPPIST-1e,41.0,False,0.0,2334.0,1.0,6.0,23.0,Shail Tertchty,True,2364.0,1816,02,2,0,1,C,68,S
+1718,1829_01,Europa,False,D/56/P,55 Cancri e,48.0,False,0.0,3578.0,80.0,123.0,,,True,,1829,01,6,0,0,D,56,P
+1719,1829_02,Europa,False,D/56/P,TRAPPIST-1e,30.0,False,1.0,6398.0,0.0,2.0,295.0,Propsh Clumshangs,True,6696.0,1829,02,6,0,1,D,56,P
+1720,1829_03,Europa,False,D/56/P,TRAPPIST-1e,22.0,False,0.0,8882.0,21.0,2204.0,19.0,Luxion Clumshangs,True,11126.0,1829,03,6,0,1,D,56,P
+1721,1829_04,Europa,False,D/56/P,TRAPPIST-1e,28.0,True,0.0,4424.0,3.0,207.0,1572.0,Hadiram Gloother,True,6206.0,1829,04,6,0,1,D,56,P
+1722,1829_05,Europa,True,D/56/P,55 Cancri e,23.0,False,0.0,0.0,0.0,0.0,0.0,Atrinon Persed,True,0.0,1829,05,6,0,0,D,56,P
+1723,1829_06,Europa,False,D/56/P,TRAPPIST-1e,29.0,False,0.0,699.0,0.0,0.0,1955.0,Ankark Persed,False,2654.0,1829,06,6,0,1,D,56,P
+1746,1860_01,Europa,False,A/13/P,TRAPPIST-1e,35.0,True,0.0,1.0,0.0,0.0,3156.0,Caiah Headfair,False,3157.0,1860,01,2,0,1,A,13,P
+1747,1860_02,Europa,False,A/13/P,55 Cancri e,35.0,False,95.0,3441.0,0.0,391.0,318.0,Krazet Headfair,False,4245.0,1860,02,2,0,1,A,13,P
+1770,1882_01,Europa,,C/71/S,55 Cancri e,18.0,False,0.0,16263.0,72.0,0.0,15.0,Magnon Antcal,True,16350.0,1882,01,2,0,1,C,71,S
+1771,1882_02,Europa,True,,55 Cancri e,17.0,False,0.0,0.0,0.0,0.0,0.0,Phonons Antcal,True,0.0,1882,02,2,0,0,,,
+1780,1892_01,Europa,False,D/59/P,TRAPPIST-1e,50.0,False,5.0,809.0,0.0,309.0,731.0,Coxark Couseced,True,1854.0,1892,01,3,0,1,D,59,P
+1781,1892_02,Europa,False,,TRAPPIST-1e,29.0,False,4.0,841.0,0.0,363.0,1107.0,Ashira Stpingepid,True,2315.0,1892,02,3,0,1,,,
+1782,1892_03,Europa,False,D/59/P,55 Cancri e,19.0,False,0.0,748.0,158.0,5037.0,44.0,Schird Stpingepid,False,5987.0,1892,03,3,0,1,D,59,P
+1783,1897_01,Europa,False,C/72/S,55 Cancri e,39.0,False,0.0,10153.0,1.0,78.0,5063.0,Zaurion Gocent,True,15295.0,1897,01,2,0,1,C,72,S
+1784,1897_02,Europa,False,C/72/S,TRAPPIST-1e,38.0,False,0.0,354.0,0.0,1806.0,0.0,Arino Gocent,True,2160.0,1897,02,2,0,1,C,72,S
+1787,1901_01,Europa,True,A/14/P,55 Cancri e,42.0,False,0.0,0.0,0.0,0.0,0.0,Castork Tractive,True,0.0,1901,01,2,0,0,A,14,P
+1788,1901_02,Europa,True,A/14/P,55 Cancri e,36.0,False,0.0,0.0,0.0,0.0,0.0,Neshath Tractive,True,0.0,1901,02,2,0,0,A,14,P
+1797,1916_01,Europa,True,D/61/P,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,Cheddin Castery,True,0.0,1916,01,2,0,0,D,61,P
+1798,1916_02,Europa,False,D/61/P,55 Cancri e,22.0,False,1744.0,79.0,0.0,12.0,1514.0,,False,3349.0,1916,02,2,0,1,D,61,P
+1799,1918_01,Europa,True,A/23/S,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,Nesham Assibler,False,0.0,1918,01,3,0,0,A,23,S
+1800,1918_02,Europa,True,A/23/S,TRAPPIST-1e,52.0,False,0.0,0.0,0.0,0.0,0.0,Sheleb Assibler,True,0.0,1918,02,3,0,0,A,23,S
+1801,1918_03,Europa,False,A/23/S,TRAPPIST-1e,38.0,False,34.0,2043.0,0.0,1339.0,0.0,Hallux Assibler,True,3416.0,1918,03,3,0,1,A,23,S
+1804,1923_01,Europa,False,C/65/P,TRAPPIST-1e,63.0,False,0.0,4286.0,18.0,4.0,872.0,Wasaleh Dister,True,5180.0,1923,01,2,0,1,C,65,P
+1805,1923_02,Europa,True,C/65/P,55 Cancri e,24.0,False,0.0,0.0,0.0,0.0,0.0,Ranan Dister,True,0.0,1923,02,2,0,0,C,65,P
+1829,1959_01,Europa,True,C/66/P,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,Weion Exibuctich,True,0.0,1959,01,3,0,0,C,66,P
+1830,1959_02,Europa,False,C/66/P,TRAPPIST-1e,40.0,False,0.0,382.0,0.0,1.0,3822.0,,False,4205.0,1959,02,3,0,1,C,66,P
+1831,1959_03,Europa,False,C/66/P,55 Cancri e,29.0,False,0.0,433.0,4899.0,393.0,260.0,Menchah Exibuctich,True,5985.0,1959,03,3,0,1,C,66,P
+1847,1976_01,Europa,False,B/82/S,55 Cancri e,23.0,False,0.0,8037.0,,1.0,2.0,Sadirab Craleve,True,,1976,01,7,0,0,B,82,S
+1848,1976_02,Europa,False,B/82/S,TRAPPIST-1e,34.0,False,15.0,3578.0,0.0,,473.0,Alam Lansuffle,True,,1976,02,7,0,0,B,82,S
+1849,1976_03,Europa,True,B/82/S,55 Cancri e,26.0,True,0.0,0.0,0.0,0.0,0.0,Cellah Lansuffle,True,0.0,1976,03,7,0,0,B,82,S
+1850,1976_04,Europa,False,B/82/S,TRAPPIST-1e,39.0,False,1.0,2972.0,0.0,3175.0,1.0,Zinoth Lansuffle,False,6149.0,1976,04,7,0,1,B,82,S
+1851,1976_05,Europa,True,B/82/S,55 Cancri e,15.0,False,0.0,0.0,0.0,0.0,0.0,Plas Lansuffle,True,0.0,1976,05,7,0,0,B,82,S
+1852,1976_06,Europa,True,B/82/S,TRAPPIST-1e,64.0,False,0.0,0.0,0.0,0.0,0.0,Wasaleh Lansuffle,True,0.0,1976,06,7,0,0,B,82,S
+1853,1976_07,Europa,True,B/82/S,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,Alaslon Craleve,True,0.0,1976,07,7,0,0,B,82,S
+1881,2009_01,Europa,False,B/59/P,TRAPPIST-1e,31.0,False,0.0,0.0,0.0,0.0,0.0,Aldibah Contery,False,0.0,2009,01,3,0,0,B,59,P
+1882,2009_02,Europa,True,B/59/P,TRAPPIST-1e,17.0,False,0.0,0.0,0.0,0.0,0.0,Cheliak Contery,True,0.0,2009,02,3,0,0,B,59,P
+1883,2009_03,Europa,True,B/59/P,55 Cancri e,40.0,False,0.0,0.0,0.0,0.0,0.0,Gluebah Contery,True,0.0,2009,03,3,0,0,B,59,P
+1889,2019_01,Europa,False,B/83/S,55 Cancri e,22.0,False,0.0,5183.0,0.0,1080.0,2.0,Dirfak Oppressive,True,6265.0,2019,01,2,0,1,B,83,S
+1890,2019_02,Europa,,B/83/S,55 Cancri e,20.0,False,0.0,162.0,0.0,148.0,7619.0,Okulus Oppressive,False,7929.0,2019,02,2,0,1,B,83,S
+1903,2040_01,Europa,True,B/85/S,TRAPPIST-1e,50.0,False,0.0,0.0,0.0,0.0,0.0,Lesaten Stiven,True,0.0,2040,01,2,0,0,B,85,S
+1904,2040_02,Europa,True,B/85/S,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,Alramak Stiven,True,0.0,2040,02,2,0,0,B,85,S
+1932,2067_01,Europa,True,C/70/P,TRAPPIST-1e,30.0,False,0.0,0.0,0.0,0.0,0.0,Alatrin Sprender,True,0.0,2067,01,2,0,0,C,70,P
+1933,2067_02,Europa,False,C/70/P,TRAPPIST-1e,27.0,True,0.0,0.0,72.0,668.0,2713.0,Asellan Sprender,False,3453.0,2067,02,2,0,1,C,70,P
+1935,2071_01,Europa,False,C/78/S,55 Cancri e,45.0,False,0.0,3559.0,0.0,3615.0,163.0,Zaninon Subateful,False,7337.0,2071,01,2,0,1,C,78,S
+1936,2071_02,Europa,False,C/78/S,55 Cancri e,28.0,False,167.0,2406.0,71.0,283.0,650.0,Alduson Subateful,True,3577.0,2071,02,2,0,1,C,78,S
+1938,2074_01,Europa,False,D/69/S,TRAPPIST-1e,24.0,False,1289.0,3343.0,0.0,4996.0,729.0,Sadir Alaring,False,10357.0,2074,01,2,0,1,D,69,S
+1939,2074_02,Europa,False,D/69/S,TRAPPIST-1e,23.0,False,9.0,4081.0,0.0,0.0,16.0,Mergas Alaring,True,4106.0,2074,02,2,0,1,D,69,S
+1945,2084_01,Europa,False,A/16/P,TRAPPIST-1e,40.0,False,19.0,10.0,1.0,4759.0,6007.0,Aston Boltund,False,10796.0,2084,01,2,0,1,A,16,P
+1946,2084_02,Europa,True,A/16/P,TRAPPIST-1e,,False,0.0,0.0,0.0,0.0,0.0,Dyonon Boltund,True,0.0,2084,02,2,0,0,A,16,P
+1948,2086_01,Europa,False,A/26/S,TRAPPIST-1e,65.0,False,51.0,4451.0,0.0,20.0,397.0,Marf Wasterivel,True,4919.0,2086,01,2,0,1,A,26,S
+1949,2086_02,Europa,False,A/26/S,TRAPPIST-1e,19.0,False,0.0,1342.0,0.0,152.0,556.0,Aldera Wasterivel,True,2050.0,2086,02,2,0,1,A,26,S
+2050,2196_01,Europa,False,B/65/P,TRAPPIST-1e,47.0,False,,32.0,0.0,4027.0,1440.0,Muonin Veriedeezy,False,,2196,01,4,0,0,B,65,P
+2051,2196_02,Europa,False,B/65/P,55 Cancri e,26.0,False,26.0,4587.0,0.0,102.0,0.0,Zinonon Veriedeezy,True,4715.0,2196,02,4,0,1,B,65,P
+2052,2196_03,Europa,True,B/65/P,TRAPPIST-1e,37.0,False,0.0,0.0,0.0,0.0,0.0,Genubi Veriedeezy,True,0.0,2196,03,4,0,0,B,65,P
+2053,2196_04,Europa,False,B/65/P,55 Cancri e,42.0,False,0.0,1180.0,0.0,2677.0,283.0,Alrairk Veriedeezy,False,4140.0,2196,04,4,0,1,B,65,P
+2067,2215_01,Europa,False,A/27/S,55 Cancri e,41.0,True,0.0,29813.0,0.0,1257.0,6.0,Pulchib Quidedbolt,True,31076.0,2215,01,4,0,1,A,27,S
+2068,2215_02,Europa,False,A/27/S,TRAPPIST-1e,43.0,False,2.0,2229.0,33.0,6.0,198.0,,True,2468.0,2215,02,4,0,1,A,27,S
+2069,2215_03,Europa,True,A/27/S,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,0.0,Grafi Quidedbolt,True,0.0,2215,03,4,0,0,A,27,S
+2070,2215_04,Europa,False,A/27/S,,36.0,False,0.0,3206.0,0.0,698.0,72.0,Ranons Ingent,False,3976.0,2215,04,4,0,1,A,27,S
+2091,2237_01,Europa,False,C/83/S,55 Cancri e,28.0,False,0.0,162.0,741.0,3733.0,99.0,Skatik Fushausive,True,4735.0,2237,01,2,0,1,C,83,S
+2092,2237_02,Europa,True,C/83/S,TRAPPIST-1e,41.0,False,0.0,0.0,0.0,0.0,0.0,Ruchban Fushausive,True,0.0,2237,02,2,0,0,C,83,S
+2097,2251_01,Europa,False,A/29/S,55 Cancri e,62.0,False,320.0,1179.0,756.0,4996.0,85.0,Yilduno Hoodjuded,False,7336.0,2251,01,2,0,1,A,29,S
+2098,2251_02,Europa,False,A/29/S,TRAPPIST-1e,58.0,False,2.0,1.0,14.0,2.0,1153.0,Zaurion Hoodjuded,False,1172.0,2251,02,2,0,1,A,29,S
+2102,2255_01,Europa,True,C/75/P,55 Cancri e,44.0,False,0.0,0.0,0.0,0.0,0.0,Tabdhib Spadicage,True,0.0,2255,01,2,0,0,C,75,P
+2103,2255_02,Europa,True,C/75/P,TRAPPIST-1e,34.0,False,0.0,0.0,0.0,0.0,0.0,Polah Spadicage,True,0.0,2255,02,2,0,0,C,75,P
+2105,2257_01,Europa,False,C/76/P,TRAPPIST-1e,27.0,True,0.0,3341.0,,80.0,654.0,Atonea Diateous,True,,2257,01,2,0,0,C,76,P
+2106,2257_02,Europa,True,B/66/P,55 Cancri e,22.0,False,0.0,0.0,0.0,0.0,0.0,Nasliak Diateous,True,0.0,2257,02,2,0,0,B,66,P
+2121,2274_01,Europa,True,C/79/P,55 Cancri e,27.0,False,0.0,0.0,0.0,0.0,0.0,Alrairk Proorbeng,True,0.0,2274,01,2,0,0,C,79,P
+2122,2274_02,Europa,True,C/79/P,55 Cancri e,28.0,False,0.0,0.0,0.0,0.0,0.0,Mino Shoeweely,True,0.0,2274,02,2,0,0,C,79,P
+2142,2300_01,Europa,False,C/81/P,55 Cancri e,19.0,False,0.0,,0.0,0.0,8195.0,Genubik Alcemblery,False,,2300,01,2,0,0,C,81,P
+2143,2300_02,Europa,False,C/81/P,55 Cancri e,34.0,False,0.0,22.0,,3028.0,3768.0,Arid Alcemblery,False,,2300,02,2,0,0,C,81,P
+2150,2306_01,Europa,False,C/82/P,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,0.0,Batenar Colensid,True,0.0,2306,01,6,0,0,C,82,P
+2151,2306_02,Europa,False,C/82/P,TRAPPIST-1e,,False,0.0,0.0,0.0,0.0,0.0,Gomeron Colensid,True,0.0,2306,02,6,0,0,C,82,P
+2152,2306_03,Europa,False,C/82/P,TRAPPIST-1e,22.0,False,0.0,297.0,3.0,676.0,2924.0,Asellum Colensid,False,3900.0,2306,03,6,0,1,C,82,P
+2153,2306_04,Europa,False,C/82/P,55 Cancri e,27.0,False,0.0,12077.0,0.0,75.0,0.0,Izarkab Ticiontral,True,12152.0,2306,04,6,0,1,C,82,P
+2154,2306_05,Europa,True,C/82/P,55 Cancri e,48.0,False,0.0,0.0,0.0,0.0,0.0,Bram Colensid,True,0.0,2306,05,6,0,0,C,82,P
+2155,2306_06,Europa,False,C/82/P,55 Cancri e,47.0,False,1320.0,428.0,4.0,24.0,0.0,Luxons Colensid,False,1776.0,2306,06,6,0,1,C,82,P
+2156,2308_01,Europa,True,D/77/S,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,Plas Pringrous,True,0.0,2308,01,4,0,0,D,77,S
+2157,2308_02,Europa,False,D/77/S,55 Cancri e,49.0,False,9.0,2426.0,95.0,1249.0,168.0,Beten Pringrous,False,3947.0,2308,02,4,0,1,D,77,S
+2158,2308_03,Europa,False,D/77/S,TRAPPIST-1e,33.0,False,0.0,2012.0,1.0,9124.0,4.0,Asellum Pringrous,False,11141.0,2308,03,4,0,1,D,77,S
+2159,2308_04,Europa,False,D/77/S,TRAPPIST-1e,67.0,False,0.0,4715.0,0.0,599.0,6.0,Polluma Pringrous,True,5320.0,2308,04,4,0,1,D,77,S
+2161,2310_01,Europa,True,D/68/P,55 Cancri e,60.0,False,0.0,0.0,0.0,0.0,0.0,Alaron Holiabler,True,0.0,2310,01,4,0,0,D,68,P
+2162,2310_02,Europa,True,D/68/P,TRAPPIST-1e,56.0,False,0.0,0.0,0.0,0.0,0.0,Geons Holiabler,True,0.0,2310,02,4,0,0,D,68,P
+2163,2310_03,Europa,False,D/68/P,TRAPPIST-1e,59.0,False,0.0,2210.0,0.0,4085.0,11.0,Elebara Pleele,False,6306.0,2310,03,4,0,1,D,68,P
+2164,2310_04,Europa,True,D/68/P,TRAPPIST-1e,44.0,False,0.0,0.0,0.0,0.0,0.0,Enibah Pleele,True,0.0,2310,04,4,0,0,D,68,P
+2181,2336_01,Europa,True,A/30/S,55 Cancri e,45.0,False,0.0,0.0,0.0,0.0,0.0,Alhail Fulatorly,True,0.0,2336,01,2,0,0,A,30,S
+2182,2336_02,Europa,False,A/30/S,TRAPPIST-1e,44.0,True,1409.0,910.0,17.0,1452.0,3782.0,Wezna Fulatorly,False,7570.0,2336,02,2,0,1,A,30,S
+2243,2404_01,Europa,False,C/86/S,TRAPPIST-1e,29.0,False,0.0,544.0,7.0,2650.0,1561.0,Scharab Disheract,False,4762.0,2404,01,4,0,1,C,86,S
+2244,2404_02,Europa,True,C/86/S,TRAPPIST-1e,17.0,False,0.0,0.0,0.0,0.0,0.0,Alatik Disheract,True,0.0,2404,02,4,0,0,C,86,S
+2245,2404_03,Europa,False,C/86/S,55 Cancri e,36.0,False,828.0,5553.0,130.0,47.0,1171.0,Girtan Oilpuring,True,7729.0,2404,03,4,0,1,C,86,S
+2302,2477_01,Europa,True,C/86/P,TRAPPIST-1e,21.0,False,0.0,,0.0,0.0,0.0,Nunkib Suptibler,True,,2477,01,2,0,0,C,86,P
+2303,2477_02,Europa,True,C/86/P,55 Cancri e,50.0,False,0.0,0.0,0.0,0.0,0.0,Hasich Suptibler,True,0.0,2477,02,2,0,0,C,86,P
+2325,2506_02,Europa,True,A/19/P,55 Cancri e,39.0,False,0.0,0.0,0.0,0.0,0.0,Mariton Apenelexy,True,0.0,2506,02,3,0,0,A,19,P
+2326,2506_03,Europa,False,A/19/P,55 Cancri e,23.0,False,36.0,2467.0,0.0,381.0,803.0,Alchird Apenelexy,False,3687.0,2506,03,3,0,1,A,19,P
+2327,2508_01,Europa,True,D/86/S,55 Cancri e,57.0,False,0.0,,0.0,0.0,0.0,Preonon Switud,True,,2508,01,2,0,0,D,86,S
+2328,2508_02,Europa,True,D/86/S,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,Phacton Switud,True,0.0,2508,02,2,0,0,D,86,S
+2331,2512_01,Europa,False,C/91/S,55 Cancri e,33.0,False,0.0,8759.0,0.0,2788.0,4513.0,Sabiton Parymider,False,16060.0,2512,01,2,0,1,C,91,S
+2332,2512_02,Europa,True,C/91/S,55 Cancri e,37.0,False,0.0,0.0,0.0,0.0,0.0,Winork Parymider,True,0.0,2512,02,2,0,0,C,91,S
+2334,2515_01,Europa,False,B/96/S,55 Cancri e,28.0,True,2.0,2144.0,0.0,435.0,5872.0,Zauri Forous,False,8453.0,2515,01,2,0,1,B,96,S
+2335,2515_02,Europa,True,B/96/S,55 Cancri e,18.0,False,0.0,0.0,0.0,0.0,0.0,Keidus Forous,True,0.0,2515,02,2,0,0,B,96,S
+2337,2518_01,Europa,True,C/87/P,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,Minon Fouseding,True,0.0,2518,01,2,0,0,C,87,P
+2338,2518_02,Europa,True,C/87/P,55 Cancri e,28.0,False,0.0,0.0,0.0,0.0,0.0,Alsafik Fouseding,True,0.0,2518,02,2,0,0,C,87,P
+2352,2534_01,Europa,False,B/75/P,55 Cancri e,20.0,False,0.0,646.0,0.0,,1425.0,Dhena Sorbitter,False,,2534,01,2,0,0,B,75,P
+2353,2534_02,Europa,True,B/75/P,55 Cancri e,18.0,False,0.0,0.0,0.0,0.0,0.0,Mahamak Sorbitter,True,0.0,2534,02,2,0,0,B,75,P
+2359,2544_01,Europa,False,B/97/S,55 Cancri e,6.0,False,0.0,0.0,0.0,0.0,0.0,Majoth Sernator,True,0.0,2544,01,2,0,0,B,97,S
+2360,2544_02,Europa,False,B/97/S,TRAPPIST-1e,42.0,False,41.0,1912.0,0.0,1899.0,43.0,Alinon Sernator,False,3895.0,2544,02,2,0,1,B,97,S
+2363,2547_01,Europa,False,,55 Cancri e,37.0,False,0.0,100.0,0.0,1402.0,1462.0,Alatrix Sometery,False,2964.0,2547,01,2,0,1,,,
+2364,2547_02,Europa,False,A/20/P,55 Cancri e,41.0,False,0.0,12809.0,2.0,2835.0,1514.0,Coxak Sometery,True,17160.0,2547,02,2,0,1,A,20,P
+2375,2555_01,Europa,True,B/78/P,55 Cancri e,24.0,False,0.0,0.0,0.0,0.0,0.0,Branasl Glisormal,True,0.0,2555,01,2,0,0,B,78,P
+2376,2555_02,Europa,True,B/78/P,TRAPPIST-1e,34.0,False,0.0,0.0,0.0,0.0,0.0,Aldera Glisormal,True,0.0,2555,02,2,0,0,B,78,P
+2393,2572_01,Europa,True,C/93/S,55 Cancri e,21.0,False,0.0,0.0,0.0,0.0,0.0,Sheratz Suptibler,True,0.0,2572,01,2,0,0,C,93,S
+2394,2572_02,Europa,True,C/93/S,55 Cancri e,56.0,True,0.0,0.0,0.0,0.0,0.0,Spuri Suptibler,True,0.0,2572,02,2,0,0,C,93,S
+2404,2589_01,Europa,True,C/91/P,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,Alasmon Meteet,True,0.0,2589,01,5,0,0,C,91,P
+2405,2589_02,Europa,True,C/91/P,55 Cancri e,50.0,False,0.0,0.0,0.0,0.0,0.0,Alphact Meteet,True,0.0,2589,02,5,0,0,C,91,P
+2406,2589_03,Europa,False,C/91/P,TRAPPIST-1e,26.0,False,0.0,8150.0,0.0,3508.0,99.0,,False,11757.0,2589,03,5,0,1,C,91,P
+2407,2589_04,Europa,False,C/91/P,TRAPPIST-1e,30.0,True,0.0,632.0,0.0,673.0,2272.0,Weias Meteet,False,3577.0,2589,04,5,0,1,C,91,P
+2408,2589_05,Europa,True,C/91/P,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,Duhra Meteet,True,0.0,2589,05,5,0,0,C,91,P
+2435,2607_01,Europa,True,B/99/S,TRAPPIST-1e,63.0,False,0.0,0.0,0.0,0.0,0.0,Homamin Brakepined,True,0.0,2607,01,4,0,0,B,99,S
+2436,2607_02,Europa,True,B/99/S,TRAPPIST-1e,17.0,False,0.0,0.0,0.0,0.0,0.0,Zedark Brakepined,True,0.0,2607,02,4,0,0,B,99,S
+2437,2607_03,Europa,False,B/99/S,55 Cancri e,35.0,False,0.0,1471.0,2.0,445.0,533.0,Hekaron Brakepined,True,2451.0,2607,03,4,0,1,B,99,S
+2438,2607_04,Europa,False,B/99/S,TRAPPIST-1e,12.0,False,0.0,0.0,0.0,0.0,0.0,Ainoxa Plattering,True,0.0,2607,04,4,0,0,B,99,S
+2450,2628_01,Europa,True,A/21/P,55 Cancri e,25.0,False,0.0,0.0,0.0,0.0,0.0,Graviph Amoutake,True,0.0,2628,01,2,0,0,A,21,P
+2451,2628_02,Europa,False,A/21/P,55 Cancri e,51.0,False,0.0,6.0,0.0,2085.0,67.0,Sadlam Amoutake,False,2158.0,2628,02,2,0,1,A,21,P
+2463,2645_01,Europa,False,C/95/S,TRAPPIST-1e,55.0,False,0.0,815.0,1558.0,3.0,1334.0,Alrais Fordulgaug,True,3710.0,2645,01,5,0,1,C,95,S
+2464,2645_02,Europa,False,C/95/S,TRAPPIST-1e,42.0,False,3.0,2174.0,0.0,10860.0,2564.0,Tach Improus,False,15601.0,2645,02,5,0,1,C,95,S
+2465,2645_03,Europa,True,C/95/S,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,Mariton Improus,True,0.0,2645,03,5,0,0,C,95,S
+2466,2645_04,Europa,False,C/95/S,55 Cancri e,28.0,False,0.0,3053.0,0.0,839.0,2153.0,Meratz Improus,True,6045.0,2645,04,5,0,1,C,95,S
+2467,2645_05,Europa,True,C/95/S,55 Cancri e,26.0,False,0.0,0.0,0.0,0.0,0.0,Mesonon Improus,True,0.0,2645,05,5,0,0,C,95,S
+2506,2693_01,Europa,False,A/22/P,TRAPPIST-1e,57.0,False,0.0,1514.0,0.0,72.0,1393.0,Krab Pentical,False,2979.0,2693,01,4,0,1,A,22,P
+2507,2693_02,Europa,False,A/22/P,55 Cancri e,36.0,True,11.0,79.0,0.0,210.0,1895.0,Jabbab Geousty,False,2195.0,2693,02,4,0,1,A,22,P
+2508,2693_03,Europa,False,A/22/P,TRAPPIST-1e,55.0,False,0.0,846.0,0.0,263.0,2024.0,Castram Geousty,False,3133.0,2693,03,4,0,1,A,22,P
+2509,2693_04,Europa,True,A/22/P,55 Cancri e,,False,0.0,0.0,0.0,0.0,0.0,Mirfark Geousty,False,0.0,2693,04,4,0,0,A,22,P
+2519,2707_01,Europa,False,B/103/S,TRAPPIST-1e,58.0,False,1113.0,1650.0,0.0,194.0,510.0,Ziba Belstrut,True,3467.0,2707,01,2,0,1,B,103,S
+2520,2707_02,Europa,True,B/103/S,PSO J318.5-22,29.0,False,0.0,0.0,0.0,0.0,0.0,Misa Belstrut,True,0.0,2707,02,2,0,0,B,103,S
+2536,2723_01,Europa,True,C/99/S,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,Bosonan Boderbint,True,0.0,2723,01,2,0,0,C,99,S
+2537,2723_02,Europa,False,C/99/S,TRAPPIST-1e,54.0,False,0.0,5876.0,0.0,0.0,914.0,Dabiton Boderbint,True,6790.0,2723,02,2,0,1,C,99,S
+2551,2737_01,Europa,False,C/100/S,55 Cancri e,45.0,False,0.0,726.0,0.0,281.0,1257.0,Naschab Forous,True,2264.0,2737,01,2,0,1,C,100,S
+2552,2737_02,Europa,False,C/100/S,TRAPPIST-1e,26.0,False,2381.0,1772.0,0.0,0.0,2618.0,Giedia Arterate,False,6771.0,2737,02,2,0,1,C,100,S
+2595,2783_01,Europa,True,D/83/P,55 Cancri e,21.0,False,0.0,0.0,0.0,0.0,0.0,Alteron Emetillove,True,0.0,2783,01,2,0,0,D,83,P
+2596,2783_02,Europa,False,D/83/P,55 Cancri e,29.0,False,2.0,8.0,0.0,2864.0,155.0,Gatrin Emetillove,False,3029.0,2783,02,2,0,1,D,83,P
+2603,2790_01,Europa,True,B/86/P,55 Cancri e,23.0,,0.0,0.0,0.0,0.0,0.0,Asch Simous,True,0.0,2790,01,5,0,0,B,86,P
+2604,2790_02,Europa,False,B/86/P,55 Cancri e,41.0,False,0.0,320.0,4333.0,1313.0,51.0,Cheliak Simous,False,6017.0,2790,02,5,0,1,B,86,P
+2605,2790_03,Europa,False,B/86/P,TRAPPIST-1e,29.0,False,3.0,933.0,0.0,674.0,731.0,Izarino Simous,False,2341.0,2790,03,5,0,1,B,86,P
+2606,2790_04,Europa,False,B/86/P,55 Cancri e,54.0,False,0.0,37.0,0.0,4689.0,0.0,Tarrak Simous,False,4726.0,2790,04,5,0,1,B,86,P
+2607,2790_05,Europa,False,B/86/P,55 Cancri e,43.0,False,0.0,9923.0,660.0,10.0,266.0,Zaninon Simous,True,10859.0,2790,05,5,0,1,B,86,P
+2610,2795_01,Europa,False,C/103/S,TRAPPIST-1e,34.0,False,10.0,5659.0,15.0,3.0,0.0,Genons Brantcable,True,5687.0,2795,01,2,0,1,C,103,S
+2611,2795_02,Europa,False,C/103/S,TRAPPIST-1e,42.0,False,0.0,802.0,0.0,2622.0,671.0,Bottom Brantcable,False,4095.0,2795,02,2,0,1,C,103,S
+2614,2798_01,Europa,False,A/23/P,TRAPPIST-1e,37.0,False,6.0,437.0,,54.0,3030.0,Furudra Timleplet,False,,2798,01,2,0,0,A,23,P
+2615,2798_02,Europa,True,A/23/P,55 Cancri e,38.0,False,0.0,0.0,0.0,0.0,0.0,Menchah Timleplet,True,0.0,2798,02,2,0,0,A,23,P
+2646,2826_01,Europa,False,C/96/P,55 Cancri e,28.0,False,1581.0,213.0,0.0,18.0,3051.0,Teron Pabler,False,4863.0,2826,01,2,0,1,C,96,P
+2647,2826_02,Europa,False,C/96/P,TRAPPIST-1e,49.0,False,20.0,6807.0,174.0,3538.0,2473.0,Terops Pabler,False,13012.0,2826,02,2,0,1,C,96,P
+2648,2831_01,Europa,False,D/86/P,TRAPPIST-1e,23.0,False,0.0,824.0,0.0,495.0,1479.0,Weznif Fandomatty,True,2798.0,2831,01,2,0,1,D,86,P
+2649,2831_02,Europa,False,D/86/P,TRAPPIST-1e,19.0,False,0.0,1.0,0.0,2085.0,55.0,Naviton Impress,False,2141.0,2831,02,2,0,1,D,86,P
+2665,2858_01,Europa,True,C/109/S,TRAPPIST-1e,36.0,False,0.0,0.0,0.0,0.0,0.0,Iononus Fictful,True,0.0,2858,01,3,0,0,C,109,S
+2666,2858_02,Europa,True,C/109/S,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,Mesatik Fictful,True,0.0,2858,02,3,0,0,C,109,S
+2667,2858_03,Europa,True,C/109/S,TRAPPIST-1e,40.0,False,0.0,,0.0,0.0,0.0,Dilath Fictful,True,,2858,03,3,0,0,C,109,S
+2680,2871_01,Europa,True,B/88/P,TRAPPIST-1e,17.0,False,0.0,0.0,0.0,,0.0,Acruxon Unregul,True,,2871,01,2,0,0,B,88,P
+2681,2871_02,Europa,True,B/88/P,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,0.0,0.0,Sarthim Unregul,True,0.0,2871,02,2,0,0,B,88,P
+2695,2890_01,Europa,False,B/89/P,TRAPPIST-1e,44.0,False,0.0,351.0,0.0,3.0,3447.0,Jabbab Cattyried,False,3801.0,2890,01,2,0,1,B,89,P
+2696,2890_02,Europa,True,B/89/P,TRAPPIST-1e,36.0,False,0.0,0.0,0.0,0.0,0.0,Suhain Cattyried,True,0.0,2890,02,2,0,0,B,89,P
+2728,2928_01,Europa,False,B/92/P,55 Cancri e,54.0,True,0.0,2062.0,2.0,19.0,1618.0,Menkibi Mander,False,3701.0,2928,01,3,0,1,B,92,P
+2729,2928_02,Europa,True,B/92/P,TRAPPIST-1e,51.0,False,0.0,0.0,,0.0,0.0,Photope Caltilter,True,,2928,02,3,0,0,B,92,P
+2730,2928_03,Europa,True,B/92/P,TRAPPIST-1e,44.0,False,0.0,0.0,0.0,0.0,0.0,Gluinol Mander,True,0.0,2928,03,3,0,0,B,92,P
+2776,2995_01,Europa,True,B/94/P,55 Cancri e,26.0,False,0.0,0.0,0.0,0.0,0.0,Minus Roforhauge,True,0.0,2995,01,2,0,0,B,94,P
+2777,2995_02,Europa,True,B/94/P,55 Cancri e,40.0,False,0.0,0.0,0.0,0.0,0.0,Marinon Roforhauge,True,0.0,2995,02,2,0,0,B,94,P
+2781,3001_01,Europa,False,C/101/P,55 Cancri e,38.0,True,0.0,1577.0,0.0,425.0,4359.0,Phecca Shming,False,6361.0,3001,01,2,0,1,C,101,P
+2782,3001_02,Europa,False,C/101/P,55 Cancri e,33.0,False,0.0,1001.0,2280.0,,29.0,Dirfak Shming,True,,3001,02,2,0,0,C,101,P
+2799,3022_01,Europa,False,C/102/P,TRAPPIST-1e,38.0,False,0.0,3331.0,270.0,2.0,3510.0,Ankab Speating,False,7113.0,3022,01,2,0,1,C,102,P
+2800,3022_02,Europa,False,C/102/P,55 Cancri e,19.0,False,0.0,329.0,0.0,3154.0,312.0,Hadirah Speating,False,3795.0,3022,02,2,0,1,C,102,P
+2807,3029_01,Europa,False,C/103/P,55 Cancri e,21.0,False,0.0,878.0,82.0,360.0,1784.0,Geno Disgul,False,3104.0,3029,01,2,0,1,C,103,P
+2808,3029_02,Europa,,C/103/P,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,Charga Disgul,True,0.0,3029,02,2,0,0,C,103,P
+2809,3030_01,Europa,False,B/97/P,55 Cancri e,30.0,False,728.0,2551.0,0.0,48.0,1804.0,Cellum Alaring,True,5131.0,3030,01,2,0,1,B,97,P
+2810,3030_02,Europa,True,B/97/P,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,Wezena Alaring,True,0.0,3030,02,2,0,0,B,97,P
+2846,3071_01,Europa,True,B/113/S,TRAPPIST-1e,16.0,False,,0.0,0.0,0.0,0.0,Saiphda Cracionfic,True,,3071,01,2,0,0,B,113,S
+2847,3071_02,Europa,False,B/113/S,TRAPPIST-1e,26.0,False,0.0,,8.0,21.0,6023.0,Alballa Cracionfic,False,,3071,02,2,0,0,B,113,S
+2852,3081_01,Europa,False,C/118/S,55 Cancri e,50.0,False,0.0,1547.0,0.0,1784.0,1.0,Gollux Reedall,True,3332.0,3081,01,2,0,1,C,118,S
+2853,3081_02,Europa,True,C/118/S,TRAPPIST-1e,57.0,False,0.0,0.0,0.0,0.0,0.0,Sadirak Reedall,True,0.0,3081,02,2,0,0,C,118,S
+2861,3091_01,Europa,False,,TRAPPIST-1e,14.0,False,0.0,946.0,0.0,7860.0,384.0,Kitakan Wingcoling,False,9190.0,3091,01,2,0,1,,,
+2862,3091_02,Europa,True,D/102/S,TRAPPIST-1e,26.0,False,,0.0,0.0,0.0,0.0,Shaiaz Wingcoling,True,,3091,02,2,0,0,D,102,S
+2892,3126_01,Europa,False,B/116/S,55 Cancri e,31.0,False,139.0,4018.0,13.0,232.0,1140.0,Zedares Foraud,True,5542.0,3126,01,2,0,1,B,116,S
+2893,3126_02,Europa,False,B/116/S,TRAPPIST-1e,36.0,False,0.0,0.0,0.0,0.0,0.0,Okulas Foraud,True,0.0,3126,02,2,0,0,B,116,S
+2935,3184_01,Europa,False,B/117/S,55 Cancri e,10.0,False,0.0,0.0,0.0,0.0,0.0,Arkard Sechausive,True,0.0,3184,01,2,0,0,B,117,S
+2936,3184_02,Europa,True,B/117/S,55 Cancri e,34.0,False,0.0,0.0,0.0,0.0,0.0,Tarmus Sechausive,True,0.0,3184,02,2,0,0,B,117,S
+2955,3204_01,Europa,False,A/27/P,TRAPPIST-1e,26.0,False,,1653.0,7.0,227.0,1457.0,Sadra Wirdley,False,,3204,01,3,0,0,A,27,P
+2956,3204_02,Europa,False,A/27/P,TRAPPIST-1e,47.0,False,3865.0,3810.0,0.0,12.0,196.0,Alphah Wirdley,False,7883.0,3204,02,3,0,1,A,27,P
+2957,3204_03,Europa,False,A/27/P,TRAPPIST-1e,46.0,False,0.0,131.0,,8873.0,469.0,Matan Wirdley,False,,3204,03,3,0,0,A,27,P
+2961,3210_01,Europa,False,E/211/S,55 Cancri e,17.0,False,454.0,19.0,0.0,,3219.0,Charda Heeroling,False,,3210,01,3,0,0,E,211,S
+2962,3210_02,Europa,False,E/211/S,55 Cancri e,20.0,False,11.0,596.0,0.0,3583.0,266.0,Aldun Clugeadry,False,4456.0,3210,02,3,0,1,E,211,S
+2963,3210_03,Europa,False,E/211/S,TRAPPIST-1e,37.0,False,76.0,2804.0,0.0,1287.0,1229.0,Axionif Heeroling,False,5396.0,3210,03,3,0,1,E,211,S
+2982,3225_01,Europa,True,C/120/S,55 Cancri e,17.0,False,0.0,0.0,0.0,0.0,0.0,Minoton Surind,True,0.0,3225,01,2,0,0,C,120,S
+2983,3225_02,Europa,False,C/120/S,TRAPPIST-1e,28.0,False,0.0,3281.0,0.0,68.0,341.0,Bosoneb Surind,True,3690.0,3225,02,2,0,1,C,120,S
+3024,3279_01,Europa,False,C/123/S,55 Cancri e,9.0,False,0.0,0.0,0.0,0.0,0.0,Mard Whifounrew,True,0.0,3279,01,4,0,0,C,123,S
+3025,3279_02,Europa,True,C/123/S,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,,0.0,Grafik Whifounrew,True,,3279,02,4,0,0,C,123,S
+3026,3279_03,Europa,True,C/123/S,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,Antinon Whifounrew,True,0.0,3279,03,4,0,0,C,123,S
+3027,3279_04,Europa,True,C/123/S,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,Kabiak Whifounrew,True,0.0,3279,04,4,0,0,C,123,S
+3030,3282_01,Europa,True,B/120/S,55 Cancri e,43.0,False,0.0,0.0,0.0,0.0,0.0,Nasl Prighty,True,0.0,3282,01,3,0,0,B,120,S
+3031,3282_02,Europa,True,B/120/S,TRAPPIST-1e,60.0,,0.0,0.0,0.0,0.0,0.0,Alzird Prighty,True,0.0,3282,02,3,0,0,B,120,S
+3032,3282_03,Europa,False,B/120/S,TRAPPIST-1e,43.0,False,0.0,1440.0,0.0,85.0,150.0,Sheratz Prighty,True,1675.0,3282,03,3,0,1,B,120,S
+3043,3292_01,Europa,True,B/121/S,TRAPPIST-1e,52.0,False,0.0,0.0,0.0,0.0,0.0,Sarino Dianket,True,0.0,3292,01,5,0,0,B,121,S
+3044,3292_02,Europa,False,,55 Cancri e,52.0,False,13.0,6074.0,0.0,10385.0,299.0,Auvab Dianket,False,16771.0,3292,02,5,0,1,,,
+3045,3292_03,Europa,True,B/121/S,55 Cancri e,14.0,False,,0.0,0.0,,0.0,Coxak Brakepined,True,,3292,03,5,0,0,B,121,S
+3046,3292_04,Europa,False,B/121/S,TRAPPIST-1e,25.0,True,0.0,0.0,0.0,0.0,0.0,Acruxon Discuous,True,0.0,3292,04,5,0,0,B,121,S
+3047,3292_05,Europa,True,B/121/S,TRAPPIST-1e,34.0,False,0.0,0.0,0.0,0.0,0.0,Golaron Dianket,True,0.0,3292,05,5,0,0,B,121,S
+3074,3318_01,Europa,False,B/123/S,TRAPPIST-1e,39.0,False,0.0,957.0,0.0,22.0,401.0,Acrabih Openduave,True,1380.0,3318,01,5,0,1,B,123,S
+3075,3318_02,Europa,True,B/123/S,55 Cancri e,32.0,False,0.0,0.0,0.0,0.0,0.0,Azhab Openduave,True,0.0,3318,02,5,0,0,B,123,S
+3076,3318_03,Europa,False,B/123/S,TRAPPIST-1e,11.0,False,0.0,0.0,0.0,0.0,0.0,Altara Openduave,True,0.0,3318,03,5,0,0,B,123,S
+3077,3318_04,Europa,True,B/123/S,,44.0,False,,0.0,0.0,0.0,0.0,Diskeh Openduave,True,,3318,04,5,0,0,B,123,S
+3078,3318_05,Europa,True,B/123/S,TRAPPIST-1e,36.0,False,0.0,0.0,0.0,0.0,0.0,Betenar Openduave,True,0.0,3318,05,5,0,0,B,123,S
+3081,3323_01,Europa,True,C/110/P,55 Cancri e,40.0,False,0.0,0.0,0.0,0.0,0.0,Shellum Fliblerolt,True,0.0,3323,01,2,0,0,C,110,P
+3082,3323_02,Europa,True,C/110/P,55 Cancri e,53.0,False,0.0,0.0,0.0,0.0,0.0,Jihoton Fliblerolt,True,0.0,3323,02,2,0,0,C,110,P
+3096,3337_01,Europa,True,B/125/S,55 Cancri e,19.0,False,0.0,0.0,0.0,0.0,0.0,Stra Boltund,True,0.0,3337,01,3,0,0,B,125,S
+3097,3337_02,Europa,False,B/125/S,TRAPPIST-1e,30.0,False,0.0,180.0,90.0,7740.0,142.0,Auvair Resspeding,False,8152.0,3337,02,3,0,1,B,125,S
+3098,3337_03,Europa,False,B/125/S,TRAPPIST-1e,32.0,False,0.0,0.0,7.0,3653.0,226.0,Mesarix Boltund,False,3886.0,3337,03,3,0,1,B,125,S
+3107,3353_01,Europa,False,C/125/S,TRAPPIST-1e,,False,0.0,216.0,191.0,12062.0,59.0,Toperon Reming,False,12528.0,3353,01,6,0,1,C,125,S
+3108,3353_02,Europa,True,C/125/S,55 Cancri e,13.0,False,0.0,0.0,0.0,0.0,0.0,Bellah Reming,True,0.0,3353,02,6,0,0,C,125,S
+3109,3353_03,Europa,False,C/125/S,TRAPPIST-1e,22.0,False,0.0,5.0,0.0,12.0,6111.0,Taurion Reming,False,6128.0,3353,03,6,0,1,C,125,S
+3110,3353_04,Europa,False,C/125/S,TRAPPIST-1e,61.0,False,0.0,4082.0,0.0,265.0,201.0,Almelik Conable,True,4548.0,3353,04,6,0,1,C,125,S
+3111,3353_05,Europa,False,C/125/S,55 Cancri e,19.0,False,0.0,4494.0,0.0,11.0,3460.0,Ankaan Reming,True,7965.0,3353,05,6,0,1,C,125,S
+3112,3353_06,Europa,False,C/125/S,TRAPPIST-1e,45.0,False,0.0,1897.0,0.0,880.0,605.0,Hamelik Reming,True,3382.0,3353,06,6,0,1,C,125,S
+3141,3391_01,Europa,True,B/105/P,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,Misaleh Ennalve,True,0.0,3391,01,2,0,0,B,105,P
+3142,3391_02,Europa,False,B/105/P,55 Cancri e,42.0,False,0.0,1209.0,0.0,1026.0,636.0,Seginon Ennalve,False,2871.0,3391,02,2,0,1,B,105,P
+3158,3406_01,Europa,False,C/112/P,TRAPPIST-1e,49.0,False,0.0,104.0,809.0,3668.0,7.0,Iononus Metiveal,False,4588.0,3406,01,2,0,1,C,112,P
+3159,3406_02,Europa,False,C/112/P,TRAPPIST-1e,55.0,False,0.0,5971.0,158.0,4125.0,1984.0,Dyonevi Metiveal,False,12238.0,3406,02,2,0,1,C,112,P
+3163,3412_01,Europa,False,B/107/P,TRAPPIST-1e,48.0,False,0.0,12.0,0.0,7967.0,15.0,Alraixa Ainserfle,False,7994.0,3412,01,3,0,1,B,107,P
+3164,3412_02,Europa,True,B/107/P,55 Cancri e,25.0,False,0.0,0.0,0.0,0.0,0.0,Bosonon Ainserfle,True,0.0,3412,02,3,0,0,B,107,P
+3165,3412_03,Europa,False,B/107/P,TRAPPIST-1e,23.0,False,2.0,6748.0,0.0,23.0,0.0,Batrix Ainserfle,True,6773.0,3412,03,3,0,1,B,107,P
+3173,3422_01,Europa,,E/209/P,55 Cancri e,18.0,False,0.0,0.0,0.0,0.0,0.0,Anchib Crakete,True,0.0,3422,01,2,0,0,E,209,P
+3174,3422_02,Europa,True,E/209/P,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,0.0,0.0,Atonib Crakete,True,0.0,3422,02,2,0,0,E,209,P
+3179,3428_01,Europa,True,C/113/P,55 Cancri e,53.0,False,0.0,0.0,0.0,0.0,0.0,Betenif Cumpting,True,0.0,3428,01,2,0,0,C,113,P
+3180,3428_02,Europa,False,C/113/P,TRAPPIST-1e,27.0,False,0.0,18481.0,0.0,2.0,3875.0,Terope Cumpting,True,22358.0,3428,02,2,0,1,C,113,P
+3190,3439_01,Europa,True,B/130/S,TRAPPIST-1e,28.0,False,0.0,,0.0,0.0,0.0,Alarmus Modent,True,,3439,01,4,0,0,B,130,S
+3191,3439_02,Europa,,B/130/S,TRAPPIST-1e,17.0,False,0.0,0.0,0.0,0.0,0.0,Alrais Modent,True,0.0,3439,02,4,0,0,B,130,S
+3193,3439_04,Europa,False,B/130/S,TRAPPIST-1e,39.0,False,0.0,2.0,0.0,909.0,3291.0,Cheddin Modent,False,4202.0,3439,04,4,0,1,B,130,S
+3198,3444_01,Europa,False,B/131/S,55 Cancri e,33.0,False,0.0,27071.0,0.0,15.0,0.0,Ainoxa Scerodbox,True,27086.0,3444,01,4,0,1,B,131,S
+3199,3444_02,Europa,True,B/131/S,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,Antitak Scerodbox,True,0.0,3444,02,4,0,0,B,131,S
+3200,3444_03,Europa,False,B/131/S,TRAPPIST-1e,41.0,True,0.0,649.0,0.0,945.0,,Quarke Scerodbox,True,,3444,03,4,0,0,B,131,S
+3201,3444_04,Europa,False,B/131/S,TRAPPIST-1e,7.0,False,0.0,0.0,0.0,0.0,0.0,Wezena Scerodbox,True,0.0,3444,04,4,0,0,B,131,S
+3206,3450_01,Europa,False,B/132/S,55 Cancri e,22.0,False,0.0,4209.0,26.0,2462.0,466.0,Pentard Knocke,True,7163.0,3450,01,2,0,1,B,132,S
+3207,3450_02,Europa,False,B/132/S,TRAPPIST-1e,21.0,False,0.0,2834.0,0.0,414.0,558.0,Weion Knocke,True,3806.0,3450,02,2,0,1,B,132,S
+3225,3474_01,Europa,True,B/110/P,TRAPPIST-1e,31.0,False,0.0,0.0,0.0,0.0,0.0,Weias Pasharne,True,0.0,3474,01,4,0,0,B,110,P
+3226,3474_02,Europa,False,B/110/P,TRAPPIST-1e,38.0,False,0.0,952.0,0.0,0.0,1790.0,Zubeneb Pasharne,False,2742.0,3474,02,4,0,1,B,110,P
+3227,3474_03,Europa,True,B/110/P,55 Cancri e,59.0,False,0.0,0.0,0.0,0.0,0.0,Syrmino Pasharne,True,0.0,3474,03,4,0,0,B,110,P
+3228,3474_04,Europa,True,B/110/P,TRAPPIST-1e,18.0,False,0.0,0.0,,0.0,0.0,Tachir Pasharne,True,,3474,04,4,0,0,B,110,P
+3229,3475_01,Europa,True,C/126/S,TRAPPIST-1e,33.0,False,0.0,0.0,0.0,0.0,0.0,Pentard Spoilling,True,0.0,3475,01,3,0,0,C,126,S
+3230,3475_02,Europa,False,C/126/S,TRAPPIST-1e,33.0,False,0.0,590.0,,3.0,6569.0,Caphirk Spoilling,False,,3475,02,3,0,0,C,126,S
+3231,3475_03,Europa,False,C/126/S,55 Cancri e,49.0,False,0.0,8766.0,15.0,149.0,178.0,Zavior Spoilling,True,9108.0,3475,03,3,0,1,C,126,S
+3241,3485_01,Europa,False,E/237/S,TRAPPIST-1e,49.0,False,0.0,1855.0,0.0,166.0,1655.0,Algenif Oillepint,False,3676.0,3485,01,3,0,1,E,237,S
+3242,3485_02,Europa,True,E/237/S,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,Ankabih Tradve,True,0.0,3485,02,3,0,0,E,237,S
+3243,3485_03,Europa,False,E/237/S,TRAPPIST-1e,33.0,False,0.0,3157.0,0.0,131.0,0.0,Hamak Oillepint,True,3288.0,3485,03,3,0,1,E,237,S
+3246,3488_01,Europa,False,D/110/P,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,Luxab Hoorbaring,False,0.0,3488,01,2,0,0,D,110,P
+3247,3488_02,Europa,False,D/110/P,TRAPPIST-1e,52.0,False,6.0,2333.0,11.0,1149.0,1.0,Naosura Hoorbaring,False,3500.0,3488,02,2,0,1,D,110,P
+3250,3490_01,Europa,False,D/111/P,TRAPPIST-1e,29.0,False,4.0,3439.0,0.0,0.0,0.0,Meropus Sprender,True,3443.0,3490,01,2,0,1,D,111,P
+3251,3490_02,Europa,False,D/111/P,55 Cancri e,19.0,False,0.0,1347.0,0.0,1756.0,37.0,Shain Sprender,True,3140.0,3490,02,2,0,1,D,111,P
+3254,3495_01,Europa,False,C/127/S,TRAPPIST-1e,47.0,False,0.0,10679.0,0.0,273.0,80.0,Saiphda Volloor,True,11032.0,3495,01,4,0,1,C,127,S
+3255,3495_02,Europa,False,C/127/S,TRAPPIST-1e,34.0,False,0.0,6229.0,0.0,2279.0,587.0,Izaron Volloor,True,9095.0,3495,02,4,0,1,C,127,S
+3256,3495_03,Europa,True,C/127/S,55 Cancri e,26.0,False,0.0,0.0,0.0,0.0,0.0,Alsham Volloor,True,0.0,3495,03,4,0,0,C,127,S
+3257,3495_04,Europa,True,C/127/S,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,Alatrix Volloor,True,0.0,3495,04,4,0,0,C,127,S
+3279,3521_01,Europa,True,,55 Cancri e,23.0,False,0.0,0.0,0.0,0.0,0.0,Minoton Radisiouss,True,0.0,3521,01,2,0,0,,,
+3280,3521_02,Europa,True,B/135/S,TRAPPIST-1e,70.0,False,0.0,0.0,0.0,0.0,0.0,Atrinon Radisiouss,True,0.0,3521,02,2,0,0,B,135,S
+3297,3543_01,Europa,False,C/116/P,TRAPPIST-1e,39.0,False,0.0,2804.0,0.0,130.0,139.0,Astrark Holatirint,True,3073.0,3543,01,3,0,1,C,116,P
+3298,3543_02,Europa,True,C/116/P,55 Cancri e,17.0,False,0.0,0.0,0.0,0.0,0.0,Furudra Holatirint,True,0.0,3543,02,3,0,0,C,116,P
+3299,3543_03,Europa,True,C/116/P,TRAPPIST-1e,56.0,False,0.0,0.0,0.0,0.0,0.0,Elerops Holatirint,True,0.0,3543,03,3,0,0,C,116,P
+3306,3552_01,Europa,False,B/136/S,55 Cancri e,50.0,False,4.0,217.0,0.0,2581.0,436.0,Kitauon Castery,False,3238.0,3552,01,2,0,1,B,136,S
+3307,3552_02,Europa,True,B/136/S,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,Canonon Castery,True,0.0,3552,02,2,0,0,B,136,S
+3351,3608_01,Europa,True,D/122/P,55 Cancri e,17.0,False,0.0,0.0,0.0,0.0,0.0,Zosmas Mormonized,True,0.0,3608,01,3,0,0,D,122,P
+3352,3608_02,Europa,True,D/122/P,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,Alhail Mormonized,True,0.0,3608,02,3,0,0,D,122,P
+3353,3608_03,Europa,,D/122/P,TRAPPIST-1e,57.0,False,0.0,0.0,0.0,0.0,0.0,Skyrmak Mormonized,True,0.0,3608,03,3,0,0,D,122,P
+3354,3609_01,Europa,False,C/118/P,55 Cancri e,28.0,False,5.0,2052.0,0.0,3340.0,,Grumak Fralledic,False,,3609,01,4,0,0,C,118,P
+3355,3609_02,Europa,False,C/118/P,TRAPPIST-1e,27.0,False,0.0,325.0,0.0,8.0,1622.0,Mesaton Fralledic,False,1955.0,3609,02,4,0,1,C,118,P
+3356,3609_03,Europa,,C/118/P,55 Cancri e,28.0,False,0.0,0.0,0.0,0.0,0.0,Eltais Fralledic,True,0.0,3609,03,4,0,0,C,118,P
+3357,3609_04,Europa,True,C/118/P,55 Cancri e,26.0,False,0.0,0.0,0.0,0.0,0.0,Fomalik Fralledic,True,0.0,3609,04,4,0,0,C,118,P
+3368,3622_01,Europa,True,C/119/P,55 Cancri e,54.0,False,0.0,0.0,0.0,0.0,0.0,Hadlam Honatte,True,0.0,3622,01,2,0,0,C,119,P
+3369,3622_02,Europa,False,C/119/P,55 Cancri e,38.0,False,,3456.0,0.0,1486.0,1157.0,Taux Honatte,False,,3622,02,2,0,0,C,119,P
+3403,3662_01,Europa,False,B/142/S,55 Cancri e,22.0,False,,171.0,2233.0,1.0,800.0,Menkibi Poselfle,True,,3662,01,2,0,0,B,142,S
+3404,3662_02,Europa,True,B/142/S,55 Cancri e,38.0,False,0.0,0.0,0.0,0.0,0.0,Betenar Poselfle,True,0.0,3662,02,2,0,0,B,142,S
+3414,3680_01,Europa,False,C/121/P,55 Cancri e,35.0,False,0.0,388.0,0.0,1792.0,2891.0,Weias Platch,False,5071.0,3680,01,2,0,1,C,121,P
+3415,3680_02,Europa,True,C/121/P,55 Cancri e,23.0,False,0.0,0.0,0.0,0.0,0.0,,True,0.0,3680,02,2,0,0,C,121,P
+3416,3681_01,Europa,True,B/144/S,55 Cancri e,23.0,False,0.0,0.0,0.0,0.0,0.0,Tarrak Irived,True,0.0,3681,01,2,0,0,B,144,S
+3417,3681_02,Europa,False,B/144/S,TRAPPIST-1e,21.0,False,4.0,,137.0,1640.0,455.0,Giedir Irived,False,,3681,02,2,0,0,B,144,S
+3427,3699_01,Europa,True,C/123/P,55 Cancri e,32.0,False,0.0,0.0,0.0,0.0,0.0,Golaron Tronsive,True,0.0,3699,01,4,0,0,C,123,P
+3428,3699_02,Europa,False,C/123/P,55 Cancri e,25.0,,0.0,17432.0,0.0,241.0,2102.0,Gorab Tronsive,True,19775.0,3699,02,4,0,1,C,123,P
+3429,3699_03,Europa,True,C/123/P,55 Cancri e,30.0,False,0.0,0.0,0.0,0.0,0.0,Dabiton Tronsive,True,0.0,3699,03,4,0,0,C,123,P
+3430,3699_04,Europa,False,C/123/P,TRAPPIST-1e,57.0,False,0.0,3859.0,13.0,195.0,3874.0,Azhah Tronsive,False,7941.0,3699,04,4,0,1,C,123,P
+3448,3713_01,Europa,True,C/133/S,TRAPPIST-1e,56.0,False,0.0,0.0,0.0,0.0,0.0,Alraida Trattle,True,0.0,3713,01,3,0,0,C,133,S
+3449,3713_02,Europa,True,C/133/S,55 Cancri e,39.0,False,0.0,0.0,0.0,0.0,0.0,Zosmark Trattle,True,0.0,3713,02,3,0,0,C,133,S
+3450,3713_03,Europa,True,C/133/S,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,Gollux Trattle,True,0.0,3713,03,3,0,0,C,133,S
+3464,3732_01,Europa,True,A/43/S,55 Cancri e,5.0,False,,0.0,0.0,0.0,0.0,Sheleon Scoudelle,True,,3732,01,4,0,0,A,43,S
+3465,3732_02,Europa,False,A/43/S,TRAPPIST-1e,29.0,False,0.0,8444.0,0.0,2989.0,8735.0,,False,20168.0,3732,02,4,0,1,A,43,S
+3466,3732_03,Europa,True,A/43/S,TRAPPIST-1e,31.0,False,0.0,0.0,0.0,0.0,0.0,Luxonon Scoudelle,True,0.0,3732,03,4,0,0,A,43,S
+3467,3732_04,Europa,False,A/43/S,55 Cancri e,27.0,False,3340.0,588.0,,173.0,71.0,Duhra Scoudelle,False,,3732,04,4,0,0,A,43,S
+3470,3735_01,Europa,False,D/119/S,TRAPPIST-1e,43.0,False,2.0,3846.0,0.0,3.0,346.0,Zedarga Reeddommy,True,4197.0,3735,01,2,0,1,D,119,S
+3471,3735_02,Europa,False,D/119/S,55 Cancri e,30.0,False,0.0,787.0,116.0,1924.0,2.0,Shail Reeddommy,False,2829.0,3735,02,2,0,1,D,119,S
+3482,3747_01,Europa,False,B/118/P,TRAPPIST-1e,39.0,False,0.0,2576.0,0.0,234.0,237.0,Achium Entratable,False,3047.0,3747,01,4,0,1,B,118,P
+3483,3747_02,Europa,True,B/118/P,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,Lesat Brakebarne,True,0.0,3747,02,4,0,0,B,118,P
+3484,3747_03,Europa,,B/118/P,TRAPPIST-1e,53.0,False,0.0,3377.0,0.0,193.0,5563.0,Dsch Brakebarne,False,9133.0,3747,03,4,0,1,B,118,P
+3485,3747_04,Europa,True,B/118/P,55 Cancri e,18.0,False,0.0,0.0,0.0,0.0,0.0,Tabiton Ambleetive,True,0.0,3747,04,4,0,0,B,118,P
+3487,3749_01,Europa,True,B/119/P,55 Cancri e,45.0,False,0.0,0.0,0.0,0.0,0.0,Enibik Fordulgaug,True,0.0,3749,01,2,0,0,B,119,P
+3488,3749_02,Europa,True,B/119/P,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,0.0,Gimpus Fordulgaug,True,0.0,3749,02,2,0,0,B,119,P
+3574,3850_01,Europa,False,C/137/S,55 Cancri e,24.0,False,38.0,257.0,0.0,54.0,4184.0,Keidhma Unteckery,False,4533.0,3850,01,7,0,1,C,137,S
+3575,3850_02,Europa,True,C/137/S,55 Cancri e,19.0,False,0.0,0.0,0.0,0.0,0.0,Astula Unteckery,True,0.0,3850,02,7,0,0,C,137,S
+3576,3850_03,Europa,False,C/137/S,TRAPPIST-1e,25.0,False,0.0,6130.0,0.0,36.0,1.0,Achib Unteckery,True,6167.0,3850,03,7,0,1,C,137,S
+3577,3850_04,Europa,True,C/137/S,55 Cancri e,39.0,False,0.0,0.0,0.0,0.0,0.0,Alchium Unteckery,True,0.0,3850,04,7,0,0,C,137,S
+3578,3850_05,Europa,True,C/137/S,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,Thallah Unteckery,True,0.0,3850,05,7,0,0,C,137,S
+3579,3850_06,Europa,False,C/137/S,TRAPPIST-1e,31.0,False,0.0,1565.0,0.0,97.0,1678.0,Sabiark Unteckery,True,3340.0,3850,06,7,0,1,C,137,S
+3580,3850_07,Europa,True,C/137/S,55 Cancri e,25.0,False,0.0,0.0,0.0,0.0,0.0,Azharga Chuble,True,0.0,3850,07,7,0,0,C,137,S
+3612,3883_01,Europa,True,B/150/S,55 Cancri e,17.0,False,0.0,0.0,0.0,0.0,0.0,Mergas Unreezy,True,0.0,3883,01,3,0,0,B,150,S
+3613,3883_02,Europa,False,B/150/S,TRAPPIST-1e,38.0,False,0.0,3060.0,0.0,4.0,2325.0,Mesarga Unreezy,False,5389.0,3883,02,3,0,1,B,150,S
+3614,3883_03,Europa,True,B/150/S,55 Cancri e,13.0,False,0.0,0.0,0.0,,0.0,Dira Unreezy,True,,3883,03,3,0,0,B,150,S
+3642,3916_01,Europa,False,D/128/S,TRAPPIST-1e,14.0,False,2.0,881.0,0.0,578.0,214.0,Cellus Ciplanke,False,1675.0,3916,01,2,0,1,D,128,S
+3643,3916_02,Europa,True,D/128/S,55 Cancri e,55.0,False,0.0,0.0,0.0,0.0,0.0,Alhenah Ciplanke,True,0.0,3916,02,2,0,0,D,128,S
+3653,3927_01,Europa,False,C/142/S,55 Cancri e,38.0,False,55.0,1258.0,0.0,650.0,10786.0,Skyrmak Tionstious,False,12749.0,3927,01,2,0,1,C,142,S
+3654,3927_02,Europa,False,C/142/S,55 Cancri e,42.0,False,0.0,1249.0,0.0,1313.0,1148.0,Alar Tionstious,True,3710.0,3927,02,2,0,1,C,142,S
+3655,3928_01,Europa,False,E/264/S,,28.0,False,3.0,1300.0,0.0,1250.0,1148.0,Anchird Witeronfus,False,3701.0,3928,01,2,0,1,E,264,S
+3656,3928_02,Europa,True,E/264/S,55 Cancri e,37.0,False,0.0,0.0,0.0,0.0,0.0,Alrak Witeronfus,True,0.0,3928,02,2,0,0,E,264,S
+3753,4014_01,Europa,False,B/125/P,TRAPPIST-1e,42.0,False,0.0,456.0,1.0,1193.0,3039.0,Hekabih Metful,False,4689.0,4014,01,2,0,1,B,125,P
+3754,4014_02,Europa,False,B/125/P,55 Cancri e,28.0,False,0.0,3238.0,0.0,750.0,2368.0,,False,6356.0,4014,02,2,0,1,B,125,P
+3774,4031_01,Europa,True,C/131/P,55 Cancri e,,False,0.0,,0.0,0.0,0.0,Algeno Listive,True,,4031,01,2,0,0,C,131,P
+3775,4031_02,Europa,True,C/131/P,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,0.0,0.0,Krabik Listive,True,0.0,4031,02,2,0,0,C,131,P
+3785,4042_01,Europa,False,A/46/S,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,,Mesatz Stewder,True,,4042,01,3,0,0,A,46,S
+3786,4042_02,Europa,True,A/46/S,55 Cancri e,,False,0.0,0.0,0.0,0.0,0.0,Etair Stewder,True,0.0,4042,02,3,0,0,A,46,S
+3787,4042_03,Europa,True,A/46/S,55 Cancri e,26.0,False,0.0,0.0,0.0,0.0,0.0,Canon Stewder,True,0.0,4042,03,3,0,0,A,46,S
+3807,4066_01,Europa,,B/155/S,55 Cancri e,18.0,False,0.0,30.0,0.0,67.0,2790.0,Taurius Objeciane,False,2887.0,4066,01,2,0,1,B,155,S
+3808,4066_02,Europa,True,B/155/S,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,Diramak Objeciane,True,0.0,4066,02,2,0,0,B,155,S
+3811,4071_01,Europa,True,B/127/P,,,False,0.0,0.0,0.0,0.0,0.0,Alurope Watuald,True,0.0,4071,01,2,0,0,B,127,P
+3812,4071_02,Europa,True,B/127/P,55 Cancri e,22.0,False,0.0,0.0,,0.0,,Tachir Watuald,True,,4071,02,2,0,0,B,127,P
+3838,4108_01,Europa,True,B/158/S,55 Cancri e,48.0,False,0.0,0.0,0.0,0.0,0.0,Tarino Aroodint,True,0.0,4108,01,2,0,0,B,158,S
+3839,4108_02,Europa,,B/158/S,TRAPPIST-1e,47.0,False,27.0,2651.0,538.0,18.0,0.0,Tachium Aroodint,True,3234.0,4108,02,2,0,1,B,158,S
+3843,4113_01,Europa,True,B/129/P,55 Cancri e,16.0,False,0.0,0.0,0.0,0.0,0.0,Taraid Bradiary,True,0.0,4113,01,2,0,0,B,129,P
+3844,4113_02,Europa,False,B/129/P,TRAPPIST-1e,45.0,False,0.0,2524.0,0.0,166.0,1.0,Coxak Bradiary,True,2691.0,4113,02,2,0,1,B,129,P
+3867,4147_01,Europa,False,C/149/S,TRAPPIST-1e,54.0,False,0.0,,0.0,3200.0,0.0,Caphact Lendly,True,,4147,01,2,0,0,C,149,S
+3868,4147_02,Europa,True,C/149/S,TRAPPIST-1e,45.0,False,0.0,0.0,0.0,0.0,0.0,Acrabik Lendly,True,0.0,4147,02,2,0,0,C,149,S
+3880,4166_01,Europa,True,B/132/P,55 Cancri e,45.0,False,0.0,0.0,0.0,0.0,0.0,Thabius Stacketent,True,0.0,4166,01,2,0,0,B,132,P
+3881,4166_02,Europa,False,B/132/P,55 Cancri e,58.0,True,0.0,279.0,3627.0,122.0,30.0,Ionan Stacketent,True,4058.0,4166,02,2,0,1,B,132,P
+3885,4169_01,Europa,True,D/140/P,TRAPPIST-1e,47.0,False,0.0,0.0,0.0,0.0,0.0,Avijava Susent,True,0.0,4169,01,2,0,0,D,140,P
+3886,4169_02,Europa,False,D/140/P,TRAPPIST-1e,41.0,False,0.0,1562.0,0.0,2.0,16.0,Acruxon Susent,True,1580.0,4169,02,2,0,1,D,140,P
+3906,4177_01,Europa,True,B/161/S,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,0.0,Mesatik Witalnerod,True,0.0,4177,01,3,0,0,B,161,S
+3907,4177_02,Europa,True,B/161/S,55 Cancri e,,False,0.0,0.0,0.0,0.0,0.0,Wezno Foraud,True,0.0,4177,02,3,0,0,B,161,S
+3908,4177_03,Europa,False,B/161/S,55 Cancri e,44.0,False,36.0,588.0,0.0,1675.0,3597.0,Wasath Foraud,False,5896.0,4177,03,3,0,1,B,161,S
+3910,4179_01,Europa,False,A/50/S,TRAPPIST-1e,30.0,True,0.0,1172.0,183.0,91.0,0.0,,True,1446.0,4179,01,2,0,1,A,50,S
+3911,4179_02,Europa,True,A/50/S,TRAPPIST-1e,23.0,False,0.0,0.0,0.0,0.0,0.0,Alrais Pleele,True,0.0,4179,02,2,0,0,A,50,S
+3912,4181_01,Europa,False,C/133/P,TRAPPIST-1e,4.0,False,0.0,0.0,0.0,0.0,0.0,Okulas Frattyring,True,0.0,4181,01,6,0,0,C,133,P
+3913,4181_02,Europa,False,C/133/P,,0.0,False,0.0,,0.0,0.0,0.0,Meron Frattyring,True,,4181,02,6,0,0,C,133,P
+3914,4181_03,Europa,True,,TRAPPIST-1e,17.0,False,0.0,0.0,0.0,0.0,0.0,Terope Frattyring,True,0.0,4181,03,6,0,0,,,
+3915,4181_04,Europa,True,C/133/P,TRAPPIST-1e,44.0,False,0.0,0.0,0.0,0.0,0.0,Ashir Frattyring,True,0.0,4181,04,6,0,0,C,133,P
+3916,4181_05,Europa,False,C/133/P,55 Cancri e,31.0,False,2.0,8747.0,0.0,4840.0,14485.0,Wezena Frattyring,False,28074.0,4181,05,6,0,1,C,133,P
+3917,4181_06,Europa,False,C/133/P,55 Cancri e,41.0,True,0.0,9463.0,0.0,1022.0,1562.0,Ranan Frattyring,True,12047.0,4181,06,6,0,1,C,133,P
+3918,4182_01,Europa,False,A/51/S,55 Cancri e,33.0,False,0.0,2020.0,0.0,1817.0,182.0,Maiamak Tabloory,False,4019.0,4182,01,3,0,1,A,51,S
+3919,4182_02,Europa,False,A/51/S,TRAPPIST-1e,43.0,False,0.0,124.0,0.0,3975.0,186.0,,False,4285.0,4182,02,3,0,1,A,51,S
+3920,4182_03,Europa,False,A/51/S,55 Cancri e,43.0,True,0.0,3172.0,0.0,26.0,4376.0,Alathim Tabloory,False,7574.0,4182,03,3,0,1,A,51,S
+3941,4207_02,Europa,True,B/163/S,55 Cancri e,46.0,False,0.0,0.0,0.0,0.0,0.0,Astonon Perable,True,0.0,4207,02,2,0,0,B,163,S
+3943,4210_01,Europa,True,C/151/S,55 Cancri e,50.0,False,0.0,0.0,0.0,0.0,0.0,Diph Siccertful,True,0.0,4210,01,2,0,0,C,151,S
+3944,4210_02,Europa,True,C/151/S,55 Cancri e,28.0,False,0.0,0.0,0.0,0.0,0.0,Naosura Siccertful,True,0.0,4210,02,2,0,0,C,151,S
+3950,4216_01,Europa,True,B/134/P,TRAPPIST-1e,65.0,False,0.0,0.0,0.0,0.0,0.0,Rotan Dratembid,True,0.0,4216,01,2,0,0,B,134,P
+3978,4249_01,Europa,False,B/166/S,TRAPPIST-1e,58.0,False,0.0,2946.0,0.0,101.0,387.0,Nusoton Inghting,True,3434.0,4249,01,3,0,1,B,166,S
+3979,4249_02,Europa,True,B/166/S,TRAPPIST-1e,43.0,False,0.0,0.0,0.0,0.0,0.0,Alatrin Inghting,True,0.0,4249,02,3,0,0,B,166,S
+3980,4249_03,Europa,False,B/166/S,55 Cancri e,20.0,False,354.0,1546.0,323.0,284.0,315.0,Aviton Inghting,True,2822.0,4249,03,3,0,1,B,166,S
+3984,4254_01,Europa,False,B/136/P,55 Cancri e,33.0,False,5493.0,9401.0,23.0,3013.0,303.0,Alasmon Idercaling,False,18233.0,4254,01,3,0,1,B,136,P
+3985,4254_02,Europa,True,B/136/P,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,Gomeron Idercaling,True,0.0,4254,02,3,0,0,B,136,P
+3986,4254_03,Europa,False,B/136/P,TRAPPIST-1e,62.0,False,0.0,22.0,0.0,3314.0,22.0,Grasath Idercaling,False,3358.0,4254,03,3,0,1,B,136,P
+3997,4258_01,Europa,False,A/37/P,TRAPPIST-1e,39.0,False,0.0,266.0,0.0,1254.0,197.0,Misa Perneernal,False,1717.0,4258,01,3,0,1,A,37,P
+3998,4258_02,Europa,,A/37/P,TRAPPIST-1e,63.0,False,0.0,490.0,1.0,2882.0,18.0,Asteron Perneernal,False,3391.0,4258,02,3,0,1,A,37,P
+3999,4258_03,Europa,False,A/37/P,TRAPPIST-1e,39.0,False,9.0,1525.0,0.0,0.0,146.0,Menkark Perneernal,False,1680.0,4258,03,3,0,1,A,37,P
+4003,4262_01,Europa,True,C/135/P,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,Ankabih Derterval,True,0.0,4262,01,2,0,0,C,135,P
+4004,4262_02,Europa,False,C/135/P,55 Cancri e,26.0,False,1.0,1269.0,4790.0,270.0,5116.0,Weid Derterval,False,11446.0,4262,02,2,0,1,C,135,P
+4056,4336_01,Europa,False,C/155/S,TRAPPIST-1e,29.0,True,267.0,1418.0,257.0,843.0,0.0,Zedasim Gloother,True,2785.0,4336,01,4,0,1,C,155,S
+4057,4336_02,Europa,True,C/155/S,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,Terope Gloother,True,0.0,4336,02,4,0,0,C,155,S
+4058,4336_03,Europa,False,,TRAPPIST-1e,36.0,False,0.0,563.0,0.0,1301.0,830.0,Ziba Gloother,True,2694.0,4336,03,4,0,1,,,
+4059,4336_04,Europa,False,C/155/S,55 Cancri e,40.0,False,2320.0,0.0,4874.0,3131.0,498.0,Krazet Gloother,True,10823.0,4336,04,4,0,1,C,155,S
+4061,4338_01,Europa,False,C/156/S,TRAPPIST-1e,51.0,False,0.0,0.0,0.0,0.0,0.0,Leshmet Gealloyalt,True,0.0,4338,01,3,0,0,C,156,S
+4062,4338_02,Europa,False,C/156/S,TRAPPIST-1e,41.0,False,0.0,545.0,0.0,2740.0,293.0,Halsham Aroodint,True,3578.0,4338,02,3,0,1,C,156,S
+4063,4338_03,Europa,False,C/156/S,55 Cancri e,44.0,False,0.0,14201.0,0.0,22.0,584.0,Kleeiak Gealloyalt,True,14807.0,4338,03,3,0,1,C,156,S
+4076,4352_01,Europa,False,C/157/S,TRAPPIST-1e,37.0,False,33.0,3484.0,17.0,4.0,1384.0,Alaton Trupistic,True,4922.0,4352,01,2,0,1,C,157,S
+4077,4352_02,Europa,False,C/157/S,TRAPPIST-1e,31.0,False,22.0,10025.0,2.0,124.0,1.0,Arino Trupistic,True,10174.0,4352,02,2,0,1,C,157,S
+4082,4359_01,Europa,False,C/137/P,TRAPPIST-1e,28.0,False,3.0,2127.0,0.0,696.0,10.0,,False,2836.0,4359,01,3,0,1,C,137,P
+4083,4359_02,Europa,False,C/137/P,55 Cancri e,40.0,False,0.0,17687.0,0.0,425.0,155.0,Strali Sebleve,True,18267.0,4359,02,3,0,1,C,137,P
+4084,4359_03,Europa,False,C/137/P,55 Cancri e,54.0,False,0.0,1832.0,0.0,0.0,1768.0,Meisa Sebleve,False,3600.0,4359,03,3,0,1,C,137,P
+4095,4371_01,Europa,,C/158/S,TRAPPIST-1e,27.0,False,0.0,2717.0,0.0,0.0,986.0,Mesatz Shricatory,True,3703.0,4371,01,5,0,1,C,158,S
+4096,4371_02,Europa,False,C/158/S,55 Cancri e,39.0,False,106.0,243.0,126.0,7.0,4967.0,Taurak Shricatory,False,5449.0,4371,02,5,0,1,C,158,S
+4098,4371_04,Europa,False,C/158/S,TRAPPIST-1e,25.0,False,0.0,4384.0,4285.0,812.0,360.0,Canonon Shricatory,True,9841.0,4371,04,5,0,1,C,158,S
+4099,4371_05,Europa,False,C/158/S,55 Cancri e,34.0,False,,7221.0,0.0,288.0,2275.0,Spurim Tionstious,True,,4371,05,5,0,0,C,158,S
+4106,4386_01,Europa,False,B/170/S,TRAPPIST-1e,54.0,False,0.0,0.0,0.0,0.0,0.0,,True,0.0,4386,01,2,0,0,B,170,S
+4107,4386_02,Europa,False,B/170/S,TRAPPIST-1e,51.0,False,0.0,16455.0,885.0,0.0,363.0,Thaldah Conachets,True,17703.0,4386,02,2,0,1,B,170,S
+4139,4422_01,Europa,True,B/172/S,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,Glueba Dinsprody,True,0.0,4422,01,2,0,0,B,172,S
+4140,4422_02,Europa,False,B/172/S,TRAPPIST-1e,29.0,False,0.0,6338.0,0.0,1366.0,89.0,Ranark Dinsprody,True,7793.0,4422,02,2,0,1,B,172,S
+4143,4427_01,Europa,False,D/141/S,55 Cancri e,39.0,False,3.0,83.0,0.0,805.0,2983.0,Coxaron Dedentive,False,3874.0,4427,01,2,0,1,D,141,S
+4144,4427_02,Europa,False,D/141/S,TRAPPIST-1e,31.0,False,0.0,46.0,0.0,209.0,2908.0,Cheleon Dedentive,False,3163.0,4427,02,2,0,1,D,141,S
+4155,4441_01,Europa,True,B/144/P,55 Cancri e,31.0,True,0.0,0.0,0.0,0.0,0.0,Kabiton Clinarfork,True,0.0,4441,01,3,0,0,B,144,P
+4156,4441_02,Europa,True,B/144/P,TRAPPIST-1e,39.0,False,0.0,0.0,0.0,0.0,0.0,,True,0.0,4441,02,3,0,0,B,144,P
+4157,4441_03,Europa,False,B/144/P,55 Cancri e,50.0,False,0.0,4558.0,0.0,1.0,267.0,Weias Clinarfork,True,4826.0,4441,03,3,0,1,B,144,P
+4160,4446_01,Europa,False,B/175/S,TRAPPIST-1e,38.0,False,2.0,114.0,771.0,3094.0,448.0,Asellan Chocaters,False,4429.0,4446,01,5,0,1,B,175,S
+4161,4446_02,Europa,False,B/175/S,TRAPPIST-1e,37.0,False,0.0,3603.0,33.0,7113.0,1.0,Fomamak Chocaters,False,10750.0,4446,02,5,0,1,B,175,S
+4162,4446_03,Europa,True,B/175/S,55 Cancri e,59.0,False,0.0,0.0,0.0,0.0,0.0,Wasaton Chocaters,True,0.0,4446,03,5,0,0,B,175,S
+4163,4446_04,Europa,False,B/175/S,55 Cancri e,41.0,False,35.0,6103.0,0.0,180.0,160.0,Grum Chocaters,True,6478.0,4446,04,5,0,1,B,175,S
+4164,4446_05,Europa,,B/175/S,TRAPPIST-1e,33.0,False,0.0,4017.0,,,2260.0,Phah Chocaters,True,,4446,05,5,0,0,B,175,S
+4168,4450_01,Europa,True,C/140/P,55 Cancri e,26.0,False,0.0,0.0,0.0,0.0,0.0,Zaurah Clugete,True,0.0,4450,01,4,0,0,C,140,P
+4169,4450_02,Europa,False,C/140/P,55 Cancri e,65.0,False,0.0,7194.0,0.0,6.0,,Ranons Clugete,True,,4450,02,4,0,0,C,140,P
+4170,4450_03,Europa,True,C/140/P,55 Cancri e,22.0,False,0.0,0.0,0.0,0.0,0.0,Genons Clugete,True,0.0,4450,03,4,0,0,C,140,P
+4171,4450_04,Europa,False,C/140/P,TRAPPIST-1e,28.0,False,0.0,3627.0,0.0,31.0,3263.0,Altar Clugete,False,6921.0,4450,04,4,0,1,C,140,P
+4180,4463_01,Europa,True,B/145/P,,29.0,False,0.0,0.0,0.0,0.0,0.0,Maiam Boltund,True,0.0,4463,01,2,0,0,B,145,P
+4181,4463_02,Europa,True,B/145/P,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,Ionium Boltund,True,0.0,4463,02,2,0,0,B,145,P
+4183,4465_01,Europa,True,A/54/S,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,Aldhib Diabysid,False,0.0,4465,01,3,0,0,A,54,S
+4184,4465_02,Europa,False,A/54/S,TRAPPIST-1e,43.0,False,31.0,76.0,0.0,1353.0,1713.0,Terons Diabysid,False,3173.0,4465,02,3,0,1,A,54,S
+4185,4465_03,Europa,False,A/54/S,TRAPPIST-1e,28.0,False,0.0,1883.0,0.0,1.0,4560.0,Gemmark Diabysid,False,6444.0,4465,03,3,0,1,A,54,S
+4188,4469_01,Europa,True,B/146/P,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,Dabik Brakeded,True,0.0,4469,01,2,0,0,B,146,P
+4189,4469_02,Europa,False,B/146/P,55 Cancri e,43.0,False,0.0,39.0,327.0,4643.0,85.0,Coxan Windend,False,5094.0,4469,02,2,0,1,B,146,P
+4198,4475_01,Europa,False,A/55/S,TRAPPIST-1e,50.0,True,13.0,239.0,0.0,161.0,2355.0,Wasaton Fairdised,False,2768.0,4475,01,2,0,1,A,55,S
+4199,4475_02,Europa,True,A/55/S,55 Cancri e,27.0,False,0.0,0.0,0.0,0.0,0.0,Nesham Fairdised,True,0.0,4475,02,2,0,0,A,55,S
+4232,4505_01,Europa,False,C/165/S,55 Cancri e,53.0,False,0.0,864.0,49.0,39.0,2376.0,Erraid Wirdley,True,3328.0,4505,01,2,0,1,C,165,S
+4233,4505_02,Europa,False,C/165/S,TRAPPIST-1e,40.0,False,2.0,76.0,0.0,201.0,,Dabik Wirdley,False,,4505,02,2,0,0,C,165,S
+4242,4511_01,Europa,True,B/178/S,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,Gemmark Crueld,True,0.0,4511,01,2,0,0,B,178,S
+4243,4511_02,Europa,True,B/178/S,55 Cancri e,48.0,False,0.0,0.0,0.0,0.0,0.0,Atrino Crueld,True,0.0,4511,02,2,0,0,B,178,S
+4266,4542_01,Europa,True,B/150/P,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,Coxak Sterve,True,0.0,4542,01,2,0,0,B,150,P
+4267,4542_02,Europa,True,B/150/P,55 Cancri e,20.0,False,0.0,0.0,0.0,0.0,0.0,Arrai Stracary,True,0.0,4542,02,2,0,0,B,150,P
+4288,4569_01,Europa,True,B/151/P,55 Cancri e,29.0,False,0.0,0.0,0.0,0.0,0.0,Wasatan Honchoe,True,0.0,4569,01,2,0,0,B,151,P
+4289,4569_02,Europa,,B/151/P,55 Cancri e,37.0,False,0.0,2235.0,7.0,4098.0,89.0,Aldah Honchoe,False,6429.0,4569,02,2,0,1,B,151,P
+4299,4581_01,Europa,False,B/181/S,TRAPPIST-1e,33.0,False,0.0,4592.0,0.0,209.0,954.0,Skatzn Entedraved,True,5755.0,4581,01,2,0,1,B,181,S
+4300,4581_02,Europa,False,B/181/S,55 Cancri e,37.0,False,0.0,2337.0,0.0,204.0,76.0,Neutrin Entedraved,True,2617.0,4581,02,2,0,1,B,181,S
+4310,4594_01,Europa,False,C/144/P,TRAPPIST-1e,64.0,False,77.0,2424.0,0.0,3001.0,127.0,Tabius Folhal,False,5629.0,4594,01,4,0,1,C,144,P
+4311,4594_02,Europa,False,C/144/P,TRAPPIST-1e,31.0,False,0.0,6670.0,217.0,625.0,20336.0,Tabiton Folhal,False,27848.0,4594,02,4,0,1,C,144,P
+4312,4594_03,Europa,False,C/144/P,TRAPPIST-1e,27.0,False,267.0,2802.0,0.0,54.0,77.0,Minoton Folhal,True,3200.0,4594,03,4,0,1,C,144,P
+4313,4594_04,Europa,False,C/144/P,TRAPPIST-1e,,False,0.0,4516.0,0.0,6167.0,5308.0,Furus Coudered,False,15991.0,4594,04,4,0,1,C,144,P
+4318,4603_01,Europa,,C/171/S,55 Cancri e,26.0,False,0.0,3593.0,47.0,19.0,229.0,Hamakan Namsheary,True,3888.0,4603,01,2,0,1,C,171,S
+4319,4603_02,Europa,False,C/171/S,TRAPPIST-1e,36.0,False,1.0,5234.0,343.0,277.0,12682.0,Kabih Namsheary,False,18537.0,4603,02,2,0,1,C,171,S
+4322,4606_01,Europa,False,C/172/S,TRAPPIST-1e,22.0,False,165.0,36.0,0.0,3044.0,556.0,Props Pumpeshaft,False,3801.0,4606,01,2,0,1,C,172,S
+4323,4606_02,Europa,,C/172/S,55 Cancri e,24.0,False,25.0,3291.0,0.0,6075.0,179.0,Gatrino Pumpeshaft,False,9570.0,4606,02,2,0,1,C,172,S
+4338,4625_01,Europa,False,B/183/S,TRAPPIST-1e,31.0,False,0.0,2520.0,1.0,1.0,0.0,Mothab Ineedeve,True,2522.0,4625,01,7,0,1,B,183,S
+4339,4625_02,Europa,True,B/183/S,55 Cancri e,24.0,False,0.0,0.0,0.0,0.0,0.0,Naosa Ineedeve,True,0.0,4625,02,7,0,0,B,183,S
+4340,4625_03,Europa,False,,TRAPPIST-1e,52.0,False,0.0,3275.0,111.0,51.0,18.0,Shaton Ineedeve,True,3455.0,4625,03,7,0,1,,,
+4341,4625_04,Europa,True,B/183/S,55 Cancri e,25.0,False,0.0,0.0,0.0,0.0,0.0,Auvara Ineedeve,True,0.0,4625,04,7,0,0,B,183,S
+4342,4625_05,Europa,True,B/183/S,TRAPPIST-1e,17.0,False,0.0,0.0,0.0,0.0,0.0,Azharga Ineedeve,True,0.0,4625,05,7,0,0,B,183,S
+4344,4625_07,Europa,True,B/183/S,55 Cancri e,29.0,False,0.0,0.0,0.0,0.0,0.0,Sadiram Ineedeve,True,0.0,4625,07,7,0,0,B,183,S
+4348,4632_01,Europa,True,C/176/S,TRAPPIST-1e,57.0,False,0.0,0.0,0.0,0.0,0.0,Bellus Dightent,True,0.0,4632,01,5,0,0,C,176,S
+4349,4632_02,Europa,True,C/176/S,TRAPPIST-1e,68.0,False,0.0,0.0,0.0,0.0,0.0,Azhasim Dightent,True,0.0,4632,02,5,0,0,C,176,S
+4350,4632_03,Europa,False,C/176/S,55 Cancri e,26.0,False,0.0,431.0,28.0,10941.0,26.0,Cellus Dightent,False,11426.0,4632,03,5,0,1,C,176,S
+4351,4632_04,Europa,False,C/176/S,TRAPPIST-1e,52.0,False,2.0,364.0,0.0,2144.0,1804.0,Alraium Syncepul,False,4314.0,4632,04,5,0,1,C,176,S
+4352,4632_05,Europa,False,C/176/S,,36.0,False,0.0,551.0,0.0,5270.0,22.0,Ankabih Dightent,False,5843.0,4632,05,5,0,1,C,176,S
+4363,4645_01,Europa,False,B/184/S,TRAPPIST-1e,48.0,False,0.0,9633.0,0.0,1.0,2.0,Aton Bacistion,True,9636.0,4645,01,2,0,1,B,184,S
+4364,4645_02,Europa,True,B/184/S,TRAPPIST-1e,,False,0.0,0.0,0.0,0.0,0.0,Okula Bacistion,True,0.0,4645,02,2,0,0,B,184,S
+4373,4655_01,Europa,True,B/154/P,55 Cancri e,32.0,False,0.0,0.0,0.0,0.0,0.0,Ainkard Seflock,True,0.0,4655,01,2,0,0,B,154,P
+4378,4658_01,Europa,False,D/147/S,TRAPPIST-1e,26.0,False,0.0,823.0,0.0,1821.0,1508.0,Taurah Bradiary,False,4152.0,4658,01,2,0,1,D,147,S
+4379,4658_02,Europa,False,D/147/S,TRAPPIST-1e,38.0,False,0.0,93.0,0.0,0.0,7303.0,Ruchban Bradiary,False,7396.0,4658,02,2,0,1,D,147,S
+4388,4662_01,Europa,False,C/148/P,TRAPPIST-1e,32.0,False,45.0,985.0,0.0,0.0,6803.0,Dirk Uningably,False,7833.0,4662,01,3,0,1,C,148,P
+4389,4662_02,Europa,True,C/148/P,,53.0,False,0.0,0.0,0.0,0.0,0.0,Batares Uningably,True,0.0,4662,02,3,0,0,C,148,P
+4390,4662_03,Europa,False,,TRAPPIST-1e,46.0,False,0.0,3856.0,0.0,1.0,312.0,Dyonium Ingwhed,True,4169.0,4662,03,3,0,1,,,
+4400,4668_01,Europa,True,C/180/S,55 Cancri e,64.0,False,0.0,0.0,0.0,0.0,0.0,Syrmion Scerodbox,True,0.0,4668,01,2,0,0,C,180,S
+4401,4668_02,Europa,True,C/180/S,55 Cancri e,27.0,True,0.0,0.0,0.0,0.0,0.0,Sadrus Scerodbox,True,0.0,4668,02,2,0,0,C,180,S
+4415,4690_01,Europa,True,B/156/P,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,Mediah Dishocatal,True,0.0,4690,01,2,0,0,B,156,P
+4416,4690_02,Europa,False,,TRAPPIST-1e,27.0,False,14327.0,1487.0,0.0,1.0,0.0,Tope Dishocatal,False,15815.0,4690,02,2,0,1,,,
+4418,4693_01,Europa,False,B/186/S,TRAPPIST-1e,29.0,True,0.0,920.0,0.0,2052.0,3687.0,Atrino Rewmid,False,6659.0,4693,01,2,0,1,B,186,S
+4419,4693_02,Europa,True,B/186/S,55 Cancri e,65.0,False,0.0,0.0,0.0,0.0,0.0,Schird Rewmid,True,0.0,4693,02,2,0,0,B,186,S
+4444,4726_01,Europa,False,C/187/S,TRAPPIST-1e,26.0,False,0.0,1910.0,0.0,1777.0,,Eltais Inghtal,True,,4726,01,5,0,0,C,187,S
+4445,4726_02,Europa,False,C/187/S,55 Cancri e,26.0,False,0.0,3452.0,0.0,4.0,1960.0,Korneb Praugnox,True,5416.0,4726,02,5,0,1,C,187,S
+4446,4726_03,Europa,False,C/187/S,TRAPPIST-1e,20.0,False,0.0,3.0,0.0,1271.0,2630.0,,True,3904.0,4726,03,5,0,1,C,187,S
+4447,4726_04,Europa,True,C/187/S,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,Hekabih Praugnox,True,0.0,4726,04,5,0,0,C,187,S
+4448,4726_05,Europa,False,C/187/S,TRAPPIST-1e,37.0,False,8.0,21.0,0.0,56.0,2167.0,Arraiam Inghtal,True,2252.0,4726,05,5,0,1,C,187,S
+4452,4732_01,Europa,True,C/151/P,TRAPPIST-1e,4.0,False,0.0,,0.0,0.0,0.0,Thabius Slavested,True,,4732,01,3,0,0,C,151,P
+4453,4732_02,Europa,True,C/151/P,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,0.0,Hallux Slavested,True,0.0,4732,02,3,0,0,C,151,P
+4454,4732_03,Europa,False,C/151/P,TRAPPIST-1e,44.0,False,0.0,0.0,0.0,0.0,0.0,Okula Slavested,True,0.0,4732,03,3,0,0,C,151,P
+4463,4744_01,Europa,False,C/152/P,TRAPPIST-1e,34.0,False,0.0,48.0,2067.0,3.0,6.0,Alino Ingent,True,2124.0,4744,01,2,0,1,C,152,P
+4464,4744_02,Europa,True,C/152/P,55 Cancri e,34.0,False,0.0,0.0,0.0,0.0,0.0,Sulaton Ingent,True,0.0,4744,02,2,0,0,C,152,P
+4467,4750_01,Europa,False,A/57/S,TRAPPIST-1e,28.0,False,0.0,395.0,118.0,14.0,1647.0,Sheratz Asolipery,False,2174.0,4750,01,2,0,1,A,57,S
+4468,4750_02,Europa,False,A/57/S,TRAPPIST-1e,31.0,False,0.0,1382.0,0.0,1795.0,588.0,Hekab Asolipery,False,3765.0,4750,02,2,0,1,A,57,S
+4473,4756_01,Europa,True,C/188/S,55 Cancri e,44.0,,0.0,0.0,0.0,0.0,0.0,Maasyma Gealloyalt,True,0.0,4756,01,2,0,0,C,188,S
+4474,4756_02,Europa,True,C/188/S,55 Cancri e,54.0,False,0.0,0.0,,0.0,0.0,Beidus Gealloyalt,True,,4756,02,2,0,0,C,188,S
+4495,4782_01,Europa,True,,55 Cancri e,23.0,False,0.0,0.0,0.0,0.0,0.0,Sabiton Maxled,True,0.0,4782,01,5,0,0,,,
+4496,4782_02,Europa,False,C/189/S,TRAPPIST-1e,53.0,False,50.0,11552.0,0.0,2998.0,4334.0,Errak Maxled,False,18934.0,4782,02,5,0,1,C,189,S
+4497,4782_03,Europa,False,C/189/S,55 Cancri e,32.0,False,0.0,225.0,0.0,3873.0,240.0,Algenif Maxled,False,4338.0,4782,03,5,0,1,C,189,S
+4498,4782_04,Europa,True,C/189/S,55 Cancri e,27.0,False,0.0,0.0,0.0,0.0,,Hadirk Slable,True,,4782,04,5,0,0,C,189,S
+4499,4782_05,Europa,False,C/189/S,55 Cancri e,48.0,False,0.0,342.0,929.0,10887.0,0.0,Alrairk Maxled,False,12158.0,4782,05,5,0,1,C,189,S
+4509,4793_01,Europa,False,E/310/S,55 Cancri e,36.0,False,13.0,1480.0,1.0,1439.0,1955.0,Enifark Brailidy,False,4888.0,4793,01,2,0,1,E,310,S
+4510,4793_02,Europa,False,E/310/S,TRAPPIST-1e,20.0,False,0.0,1131.0,3783.0,161.0,0.0,Chargin Brailidy,True,5075.0,4793,02,2,0,1,E,310,S
+4549,4841_01,Europa,True,B/192/S,55 Cancri e,59.0,False,0.0,0.0,0.0,0.0,0.0,Mahamak Prefule,True,0.0,4841,01,3,0,0,B,192,S
+4550,4841_02,Europa,False,B/192/S,TRAPPIST-1e,21.0,False,12.0,1855.0,0.0,1381.0,358.0,Plas Prefule,False,3606.0,4841,02,3,0,1,B,192,S
+4551,4841_03,Europa,False,B/192/S,TRAPPIST-1e,25.0,False,21.0,2148.0,0.0,1966.0,12708.0,Cellus Prefule,False,16843.0,4841,03,3,0,1,B,192,S
+4590,4891_01,Europa,True,B/194/S,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,Cella Ambleetive,True,0.0,4891,01,2,0,0,B,194,S
+4591,4891_02,Europa,True,B/194/S,55 Cancri e,24.0,False,0.0,0.0,0.0,0.0,0.0,Weion Heeroling,True,0.0,4891,02,2,0,0,B,194,S
+4627,4930_01,Europa,True,B/161/P,,47.0,False,0.0,0.0,0.0,0.0,0.0,Alar Alenter,True,0.0,4930,01,2,0,0,B,161,P
+4628,4930_02,Europa,False,B/161/P,TRAPPIST-1e,51.0,False,0.0,3571.0,106.0,0.0,0.0,Achium Alenter,True,3677.0,4930,02,2,0,1,B,161,P
+4644,4944_01,Europa,False,A/60/S,55 Cancri e,,False,269.0,2171.0,2.0,2.0,0.0,Hadirah Ainserfle,True,2444.0,4944,01,3,0,1,A,60,S
+4645,4944_02,Europa,False,A/60/S,55 Cancri e,58.0,False,0.0,3448.0,0.0,737.0,2193.0,Sular Ainserfle,False,6378.0,4944,02,3,0,1,A,60,S
+4646,4944_03,Europa,False,A/60/S,TRAPPIST-1e,56.0,False,153.0,1750.0,0.0,334.0,1539.0,Luxonon Ainserfle,False,3776.0,4944,03,3,0,1,A,60,S
+4663,4974_01,Europa,False,A/44/P,TRAPPIST-1e,56.0,False,0.0,10.0,0.0,9319.0,1225.0,Thabih Vendeck,False,10554.0,4974,01,2,0,1,A,44,P
+4664,4974_02,Europa,True,,55 Cancri e,45.0,False,0.0,0.0,0.0,0.0,,Lesat Vendeck,True,,4974,02,2,0,0,,,
+4693,5006_01,Europa,True,B/166/P,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,Kochard Stingive,True,0.0,5006,01,3,0,0,B,166,P
+4694,5006_02,Europa,True,B/166/P,55 Cancri e,44.0,False,0.0,0.0,0.0,0.0,0.0,Alyat Stingive,True,0.0,5006,02,3,0,0,B,166,P
+4695,5006_03,Europa,False,B/166/P,TRAPPIST-1e,20.0,False,0.0,219.0,0.0,5.0,3283.0,Alark Stingive,False,3507.0,5006,03,3,0,1,B,166,P
+4724,5040_01,Europa,False,C/195/S,TRAPPIST-1e,26.0,False,0.0,21.0,10424.0,1373.0,7218.0,Enibik Dynigic,False,19036.0,5040,01,2,0,1,C,195,S
+4725,5040_02,Europa,False,C/195/S,55 Cancri e,39.0,False,10.0,199.0,0.0,6216.0,101.0,Alsha Dynigic,False,6526.0,5040,02,2,0,1,C,195,S
+4739,5060_01,Europa,True,C/157/P,55 Cancri e,41.0,False,0.0,0.0,0.0,0.0,0.0,Algork Honatte,True,0.0,5060,01,4,0,0,C,157,P
+4740,5060_02,Europa,True,C/157/P,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,Instan Honatte,True,0.0,5060,02,4,0,0,C,157,P
+4741,5060_03,Europa,False,C/157/P,55 Cancri e,27.0,False,0.0,867.0,0.0,20.0,1371.0,Segino Honatte,False,2258.0,5060,03,4,0,1,C,157,P
+4742,5060_04,Europa,False,C/157/P,55 Cancri e,29.0,True,530.0,418.0,0.0,,9129.0,Alhaino Honatte,False,,5060,04,4,0,0,C,157,P
+4743,5061_01,Europa,True,C/196/S,TRAPPIST-1e,25.0,False,0.0,0.0,,0.0,0.0,Furudah Patoetic,True,,5061,01,2,0,0,C,196,S
+4744,5061_02,Europa,False,C/196/S,TRAPPIST-1e,54.0,False,0.0,8246.0,0.0,56.0,118.0,Mediton Patoetic,True,8420.0,5061,02,2,0,1,C,196,S
+4748,5065_01,Europa,True,E/326/S,55 Cancri e,29.0,False,0.0,,0.0,0.0,0.0,Asellan Crueld,True,,5065,01,2,0,0,E,326,S
+4749,5065_02,Europa,False,E/326/S,55 Cancri e,26.0,False,606.0,1080.0,0.0,2011.0,0.0,,False,3697.0,5065,02,2,0,1,E,326,S
+4761,5084_01,Europa,True,E/315/P,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,Askedus Fuelightic,False,0.0,5084,01,2,0,0,E,315,P
+4762,5084_02,Europa,False,E/315/P,TRAPPIST-1e,32.0,False,8151.0,2052.0,1919.0,7352.0,754.0,Batrix Fuelightic,False,20228.0,5084,02,2,0,1,E,315,P
+4766,5089_01,Europa,False,B/170/P,TRAPPIST-1e,39.0,False,3926.0,2030.0,0.0,1483.0,611.0,Alrakan Aivering,False,8050.0,5089,01,2,0,1,B,170,P
+4767,5089_02,Europa,False,B/170/P,TRAPPIST-1e,19.0,False,0.0,3750.0,0.0,0.0,41.0,Celeon Aivering,True,3791.0,5089,02,2,0,1,B,170,P
+4786,5111_01,Europa,False,B/171/P,TRAPPIST-1e,25.0,False,0.0,3.0,0.0,763.0,3541.0,Sarid Unkcatted,False,4307.0,5111,01,3,0,1,B,171,P
+4787,5111_02,Europa,False,B/171/P,TRAPPIST-1e,28.0,False,29.0,394.0,0.0,712.0,4360.0,Aske Unkcatted,False,5495.0,5111,02,3,0,1,B,171,P
+4788,5111_03,Europa,False,B/171/P,TRAPPIST-1e,32.0,False,0.0,419.0,0.0,1984.0,521.0,Mino Unkcatted,False,2924.0,5111,03,3,0,1,B,171,P
+4789,5112_01,Europa,True,C/198/S,55 Cancri e,56.0,False,0.0,0.0,0.0,0.0,0.0,Chainon Spadicage,True,0.0,5112,01,3,0,0,C,198,S
+4790,5112_02,Europa,True,C/198/S,55 Cancri e,25.0,False,0.0,0.0,0.0,0.0,0.0,Achiram Ainatint,True,0.0,5112,02,3,0,0,C,198,S
+4791,5112_03,Europa,True,C/198/S,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,Sadaton Opshaft,True,0.0,5112,03,3,0,0,C,198,S
+4792,5115_01,Europa,True,C/199/S,TRAPPIST-1e,41.0,False,0.0,0.0,0.0,0.0,0.0,Diason Whibid,True,0.0,5115,01,2,0,0,C,199,S
+4793,5115_02,Europa,True,C/199/S,55 Cancri e,28.0,False,0.0,0.0,0.0,0.0,0.0,Megrezn Whibid,True,0.0,5115,02,2,0,0,C,199,S
+4832,5156_01,Europa,True,B/200/S,55 Cancri e,21.0,False,0.0,0.0,0.0,0.0,0.0,Sabiark Traild,True,0.0,5156,01,2,0,0,B,200,S
+4833,5156_02,Europa,False,B/200/S,TRAPPIST-1e,29.0,False,0.0,4198.0,227.0,1.0,1415.0,Atonon Traild,True,5841.0,5156,02,2,0,1,B,200,S
+4848,5174_01,Europa,True,C/159/P,55 Cancri e,44.0,False,0.0,0.0,0.0,0.0,0.0,Hekark Alenter,True,0.0,5174,01,2,0,0,C,159,P
+4849,5174_02,Europa,False,C/159/P,TRAPPIST-1e,29.0,False,6.0,5.0,0.0,6235.0,434.0,Mesarid Alenter,False,6680.0,5174,02,2,0,1,C,159,P
+4868,5194_01,Europa,True,B/176/P,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,Sabi Ainatint,True,0.0,5194,01,2,0,0,B,176,P
+4869,5194_02,Europa,True,B/176/P,55 Cancri e,16.0,False,0.0,0.0,0.0,0.0,0.0,Astonon Ainatint,True,0.0,5194,02,2,0,0,B,176,P
+4886,5208_01,Europa,True,C/163/P,55 Cancri e,26.0,False,0.0,0.0,0.0,0.0,0.0,Sadalm Unressind,True,0.0,5208,01,2,0,0,C,163,P
+4887,5208_02,Europa,False,C/163/P,55 Cancri e,41.0,False,717.0,641.0,2.0,1559.0,4828.0,Alcorix Unressind,False,7747.0,5208,02,2,0,1,C,163,P
+4894,5217_01,Europa,True,B/177/P,55 Cancri e,18.0,False,0.0,0.0,0.0,0.0,0.0,Sitron Briouse,True,0.0,5217,01,2,0,0,B,177,P
+4895,5217_02,Europa,True,B/177/P,55 Cancri e,32.0,False,0.0,0.0,0.0,0.0,0.0,Canon Wingcoling,True,0.0,5217,02,2,0,0,B,177,P
+4927,5254_01,Europa,True,B/202/S,TRAPPIST-1e,31.0,False,0.0,0.0,0.0,0.0,0.0,Celeon Pressive,True,0.0,5254,01,4,0,0,B,202,S
+4928,5254_02,Europa,True,B/202/S,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,Photons Pickleve,True,0.0,5254,02,4,0,0,B,202,S
+4929,5254_03,Europa,True,,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,Sargah Pressive,True,0.0,5254,03,4,0,0,,,
+4930,5254_04,Europa,False,B/202/S,55 Cancri e,8.0,False,0.0,0.0,0.0,0.0,0.0,Sceleon Pressive,True,0.0,5254,04,4,0,0,B,202,S
+4940,5266_01,Europa,False,A/64/S,55 Cancri e,20.0,False,0.0,290.0,0.0,1866.0,217.0,Alhair Poselfle,False,2373.0,5266,01,2,0,1,A,64,S
+4941,5266_02,Europa,False,C/205/S,55 Cancri e,36.0,True,13.0,196.0,3.0,0.0,12323.0,Sinon Poselfle,False,12535.0,5266,02,2,0,1,C,205,S
+4967,5301_01,Europa,True,B/181/P,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,Altara Pretive,True,0.0,5301,01,2,0,0,B,181,P
+4968,5301_02,Europa,True,B/181/P,55 Cancri e,31.0,False,0.0,0.0,0.0,0.0,0.0,Sadares Pretive,True,0.0,5301,02,2,0,0,B,181,P
+4984,5320_01,Europa,True,E/330/P,55 Cancri e,31.0,False,0.0,0.0,0.0,0.0,0.0,Errima Callower,True,0.0,5320,01,2,0,0,E,330,P
+4985,5320_02,Europa,False,E/330/P,TRAPPIST-1e,32.0,False,0.0,1301.0,0.0,94.0,356.0,Hallah Opshoent,False,1751.0,5320,02,2,0,1,E,330,P
+5000,5344_01,Europa,False,C/168/P,55 Cancri e,38.0,False,0.0,439.0,0.0,434.0,10074.0,Sargin Prieress,False,10947.0,5344,01,2,0,1,C,168,P
+5001,5344_02,Europa,True,C/168/P,55 Cancri e,38.0,False,0.0,0.0,0.0,0.0,0.0,Dyonon Prieress,True,0.0,5344,02,2,0,0,C,168,P
+5009,5353_01,Europa,True,B/205/S,55 Cancri e,13.0,False,0.0,0.0,0.0,0.0,0.0,Ranan Reelest,True,0.0,5353,01,2,0,0,B,205,S
+5010,5353_02,Europa,False,B/205/S,TRAPPIST-1e,39.0,False,43.0,9365.0,144.0,0.0,118.0,Weidus Reelest,True,9670.0,5353,02,2,0,1,B,205,S
+5023,5367_01,Europa,True,C/209/S,TRAPPIST-1e,4.0,False,0.0,0.0,0.0,0.0,0.0,Mesonon Fruidy,True,0.0,5367,01,3,0,0,C,209,S
+5025,5367_03,Europa,False,C/209/S,55 Cancri e,46.0,False,0.0,8221.0,0.0,1010.0,160.0,Anyonon Fruidy,True,9391.0,5367,03,3,0,1,C,209,S
+5029,5375_01,Europa,True,C/210/S,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,Scharab Tramsor,True,0.0,5375,01,2,0,0,C,210,S
+5030,5375_02,Europa,True,C/210/S,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,Quarke Tramsor,True,0.0,5375,02,2,0,0,C,210,S
+5035,5384_01,Europa,False,A/65/S,TRAPPIST-1e,34.0,True,0.0,5210.0,0.0,1332.0,2.0,Polam Dinger,True,6544.0,5384,01,2,0,1,A,65,S
+5036,5384_02,Europa,False,A/65/S,TRAPPIST-1e,26.0,False,0.0,4894.0,0.0,62.0,85.0,Sulatik Dinger,True,5041.0,5384,02,2,0,1,A,65,S
+5114,5466_01,Europa,True,B/185/P,55 Cancri e,41.0,False,0.0,0.0,0.0,0.0,0.0,Mesons Matoltuble,True,0.0,5466,01,5,0,0,B,185,P
+5115,5466_02,Europa,False,B/185/P,55 Cancri e,33.0,True,0.0,1473.0,1089.0,5700.0,1466.0,Menkin Boltund,False,9728.0,5466,02,5,0,1,B,185,P
+5116,5466_03,Europa,False,B/185/P,TRAPPIST-1e,6.0,False,0.0,0.0,0.0,0.0,0.0,Alballa Boltund,True,0.0,5466,03,5,0,0,B,185,P
+5117,5466_04,Europa,False,B/185/P,55 Cancri e,35.0,False,0.0,4618.0,0.0,324.0,12061.0,Asterf Boltund,False,17003.0,5466,04,5,0,1,B,185,P
+5118,5466_05,Europa,False,B/185/P,TRAPPIST-1e,46.0,False,0.0,4524.0,,243.0,7730.0,Bahyon Matoltuble,False,,5466,05,5,0,0,B,185,P
+5136,5488_01,Europa,True,B/186/P,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,Tares Hoorherve,True,0.0,5488,01,4,0,0,B,186,P
+5137,5488_02,Europa,False,B/186/P,TRAPPIST-1e,15.0,False,0.0,22.0,6805.0,0.0,531.0,Acrabik Hoorherve,True,7358.0,5488,02,4,0,1,B,186,P
+5138,5488_03,Europa,False,B/186/P,TRAPPIST-1e,53.0,False,0.0,6634.0,0.0,5047.0,108.0,Krabius Hoorherve,False,11789.0,5488,03,4,0,1,B,186,P
+5139,5488_04,Europa,True,B/186/P,TRAPPIST-1e,51.0,False,0.0,0.0,0.0,0.0,0.0,Weidus Hoorherve,True,0.0,5488,04,4,0,0,B,186,P
+5147,5497_01,Europa,True,B/210/S,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,Taurah Covetive,True,0.0,5497,01,2,0,0,B,210,S
+5148,5497_02,Europa,False,B/210/S,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,Edaron Covetive,True,0.0,5497,02,2,0,0,B,210,S
+5160,5512_01,Europa,False,A/67/S,55 Cancri e,31.0,False,0.0,225.0,0.0,301.0,4090.0,Fomalik Chsere,False,4616.0,5512,01,2,0,1,A,67,S
+5161,5512_02,Europa,False,B/211/S,55 Cancri e,,False,0.0,8162.0,1044.0,699.0,46.0,Sadaron Chsere,True,9951.0,5512,02,2,0,1,B,211,S
+5213,5561_01,Europa,True,A/51/P,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,Diskeh Fueling,True,0.0,5561,01,4,0,0,A,51,P
+5214,5561_02,Europa,False,A/51/P,TRAPPIST-1e,28.0,False,0.0,175.0,0.0,214.0,7461.0,Cellus Fueling,False,7850.0,5561,02,4,0,1,A,51,P
+5215,5561_03,Europa,False,A/51/P,TRAPPIST-1e,42.0,False,0.0,890.0,2929.0,352.0,4898.0,Gluinol Fueling,False,9069.0,5561,03,4,0,1,A,51,P
+5216,5561_04,Europa,False,A/51/P,TRAPPIST-1e,43.0,False,7.0,494.0,2473.0,443.0,71.0,Ankab Fueling,False,3488.0,5561,04,4,0,1,A,51,P
+5219,5568_01,Europa,False,B/188/P,TRAPPIST-1e,49.0,False,0.0,3991.0,298.0,289.0,2740.0,Winons Covetive,False,7318.0,5568,01,2,0,1,B,188,P
+5220,5568_02,Europa,True,B/188/P,55 Cancri e,29.0,True,0.0,0.0,0.0,0.0,0.0,Merabik Covetive,True,0.0,5568,02,2,0,0,B,188,P
+5250,5602_01,Europa,True,B/190/P,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,Castab Sedece,True,0.0,5602,01,2,0,0,B,190,P
+5251,5602_02,Europa,False,B/190/P,55 Cancri e,18.0,False,0.0,3268.0,0.0,436.0,342.0,Hadirk Sedece,True,4046.0,5602,02,2,0,1,B,190,P
+5253,5606_01,Europa,True,B/213/S,55 Cancri e,45.0,False,0.0,0.0,0.0,0.0,0.0,Algor Paterpad,True,0.0,5606,01,2,0,0,B,213,S
+5254,5606_02,Europa,False,B/213/S,TRAPPIST-1e,31.0,False,0.0,1219.0,7.0,104.0,1082.0,Brab Dectory,True,2412.0,5606,02,2,0,1,B,213,S
+5257,5610_01,Europa,True,B/214/S,TRAPPIST-1e,61.0,False,0.0,0.0,0.0,0.0,0.0,Tach Dicely,True,0.0,5610,01,2,0,0,B,214,S
+5258,5610_02,Europa,False,B/214/S,55 Cancri e,54.0,True,0.0,7996.0,0.0,4549.0,10206.0,Atinon Dicely,False,22751.0,5610,02,2,0,1,B,214,S
+5259,5611_01,Europa,True,D/171/S,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,Medion Clutchor,True,0.0,5611,01,2,0,0,D,171,S
+5260,5611_02,Europa,False,D/171/S,TRAPPIST-1e,46.0,False,0.0,3477.0,0.0,1.0,5543.0,Grum Clutchor,False,9021.0,5611,02,2,0,1,D,171,S
+5282,5642_01,Europa,True,B/216/S,,35.0,False,0.0,0.0,0.0,0.0,0.0,Geonkaa Supred,True,0.0,5642,01,2,0,0,B,216,S
+5283,5642_02,Europa,True,,55 Cancri e,37.0,False,0.0,0.0,0.0,0.0,0.0,Isoton Supred,True,0.0,5642,02,2,0,0,,,
+5290,5647_01,Europa,True,C/178/P,TRAPPIST-1e,35.0,False,0.0,,0.0,0.0,,Dyonevi Matoltuble,True,,5647,01,3,0,0,C,178,P
+5291,5647_02,Europa,False,C/178/P,55 Cancri e,52.0,False,0.0,1425.0,31.0,0.0,1320.0,Chabih Matoltuble,True,2776.0,5647,02,3,0,1,C,178,P
+5292,5647_03,Europa,False,C/178/P,TRAPPIST-1e,48.0,False,0.0,,0.0,2851.0,1478.0,Majoram Tachor,False,,5647,03,3,0,0,C,178,P
+5293,5648_01,Europa,False,C/179/P,55 Cancri e,27.0,False,332.0,918.0,0.0,5.0,4817.0,Edaruma Braned,False,6072.0,5648,01,2,0,1,C,179,P
+5294,5648_02,Europa,False,C/179/P,55 Cancri e,50.0,False,0.0,103.0,0.0,240.0,8221.0,Unukath Braned,False,8564.0,5648,02,2,0,1,C,179,P
+5317,5684_02,Europa,True,B/218/S,55 Cancri e,48.0,False,0.0,0.0,0.0,0.0,0.0,Azhah Busive,True,0.0,5684,02,4,0,0,B,218,S
+5318,5684_03,Europa,False,B/218/S,55 Cancri e,38.0,False,0.0,1198.0,48.0,278.0,1244.0,Genubik Busive,False,2768.0,5684,03,4,0,1,B,218,S
+5319,5684_04,Europa,True,B/218/S,TRAPPIST-1e,62.0,False,0.0,0.0,0.0,0.0,0.0,Okulus Folhal,True,0.0,5684,04,4,0,0,B,218,S
+5355,5721_01,Europa,True,B/219/S,TRAPPIST-1e,37.0,False,0.0,0.0,0.0,0.0,0.0,Giedia Mostedry,True,0.0,5721,01,2,0,0,B,219,S
+5356,5721_02,Europa,False,B/219/S,TRAPPIST-1e,58.0,False,0.0,1975.0,598.0,7.0,3726.0,Scellus Mostedry,False,6306.0,5721,02,2,0,1,B,219,S
+5371,5737_01,Europa,False,C/216/S,TRAPPIST-1e,39.0,False,0.0,11856.0,13.0,39.0,3.0,Mintard Inicont,True,11911.0,5737,01,2,0,1,C,216,S
+5372,5737_02,Europa,False,C/216/S,TRAPPIST-1e,35.0,False,0.0,7636.0,0.0,353.0,705.0,Lesaton Inicont,True,8694.0,5737,02,2,0,1,C,216,S
+5375,5740_01,Europa,False,A/52/P,TRAPPIST-1e,42.0,False,0.0,16.0,0.0,144.0,7492.0,Minopus Cattle,False,7652.0,5740,01,2,0,1,A,52,P
+5376,5740_02,Europa,False,A/52/P,55 Cancri e,32.0,False,70.0,764.0,724.0,547.0,1297.0,Unukath Alaxed,False,3402.0,5740,02,2,0,1,A,52,P
+5401,5768_01,Europa,True,B/193/P,TRAPPIST-1e,54.0,False,0.0,0.0,0.0,0.0,0.0,Gatrino Cattle,True,0.0,5768,01,2,0,0,B,193,P
+5402,5768_02,Europa,True,B/193/P,55 Cancri e,22.0,False,0.0,0.0,0.0,0.0,0.0,Izarfik Cattle,True,0.0,5768,02,2,0,0,B,193,P
+5403,5769_01,Europa,True,B/194/P,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,Menkard Oppont,True,0.0,5769,01,2,0,0,B,194,P
+5404,5769_02,Europa,True,B/194/P,55 Cancri e,19.0,False,0.0,0.0,0.0,0.0,0.0,Muonon Oppont,True,0.0,5769,02,2,0,0,B,194,P
+5412,5780_01,Europa,False,B/195/P,TRAPPIST-1e,33.0,False,2233.0,6408.0,,23.0,273.0,Genif Ousious,True,,5780,01,3,0,0,B,195,P
+5413,5780_02,Europa,True,B/195/P,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,Hallux Ousious,True,0.0,5780,02,3,0,0,B,195,P
+5414,5780_03,Europa,True,B/195/P,55 Cancri e,21.0,False,0.0,0.0,0.0,0.0,0.0,Betenar Ousious,True,0.0,5780,03,3,0,0,B,195,P
+5439,5811_01,Europa,False,A/54/P,55 Cancri e,36.0,False,1.0,4058.0,95.0,0.0,2109.0,Haldah Fulatorly,False,6263.0,5811,01,2,0,1,A,54,P
+5440,5811_02,Europa,False,A/54/P,55 Cancri e,46.0,False,35.0,3953.0,0.0,2108.0,0.0,Sadlam Fulatorly,True,6096.0,5811,02,2,0,1,A,54,P
+5476,5842_01,Europa,True,C/220/S,55 Cancri e,28.0,False,0.0,0.0,0.0,0.0,0.0,Hekark Maging,True,0.0,5842,01,2,0,0,C,220,S
+5477,5842_02,Europa,True,C/220/S,55 Cancri e,27.0,False,0.0,0.0,0.0,0.0,0.0,Zaurid Prefule,True,0.0,5842,02,2,0,0,C,220,S
+5488,5856_01,Europa,True,B/199/P,55 Cancri e,,False,0.0,0.0,0.0,0.0,0.0,Graviph Wincer,True,0.0,5856,01,2,0,0,B,199,P
+5489,5856_02,Europa,True,B/199/P,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,0.0,0.0,Alark Wincer,True,0.0,5856,02,2,0,0,B,199,P
+5557,5925_01,Europa,False,B/226/S,TRAPPIST-1e,29.0,False,0.0,1644.0,0.0,0.0,3780.0,Anchird Rotter,False,5424.0,5925,01,3,0,1,B,226,S
+5558,5925_02,Europa,False,B/226/S,TRAPPIST-1e,16.0,False,0.0,2002.0,0.0,96.0,69.0,Medib Rotter,True,2167.0,5925,02,3,0,1,B,226,S
+5559,5925_03,Europa,False,B/226/S,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,241.0,4757.0,Tark Rotter,False,4998.0,5925,03,3,0,1,B,226,S
+5560,5927_01,Europa,False,B/201/P,55 Cancri e,24.0,False,0.0,2421.0,0.0,725.0,2300.0,Duhrak Sysilstict,False,5446.0,5927,01,7,0,1,B,201,P
+5561,5927_02,Europa,False,B/201/P,,23.0,False,0.0,109.0,0.0,4810.0,25.0,Naviton Sysilstict,False,4944.0,5927,02,7,0,1,B,201,P
+5562,5927_03,Europa,True,B/201/P,55 Cancri e,46.0,False,0.0,0.0,0.0,0.0,0.0,Kraban Sysilstict,True,0.0,5927,03,7,0,0,B,201,P
+5563,5927_04,Europa,,B/201/P,55 Cancri e,49.0,False,0.0,1264.0,0.0,5474.0,104.0,Alcoran Sysilstict,False,6842.0,5927,04,7,0,1,B,201,P
+5564,5927_05,Europa,True,B/201/P,TRAPPIST-1e,17.0,False,0.0,0.0,0.0,0.0,0.0,Taurak Ballexy,True,0.0,5927,05,7,0,0,B,201,P
+5565,5927_06,Europa,False,B/201/P,55 Cancri e,35.0,False,4.0,3857.0,324.0,899.0,375.0,Grastab Sysilstict,False,5459.0,5927,06,7,0,1,B,201,P
+5566,5927_07,Europa,False,B/201/P,55 Cancri e,43.0,False,0.0,1706.0,0.0,274.0,2056.0,Jihoton Ballexy,False,4036.0,5927,07,7,0,1,B,201,P
+5568,5930_01,Europa,True,B/227/S,55 Cancri e,24.0,False,0.0,0.0,0.0,0.0,0.0,Muonea Geakerat,True,0.0,5930,01,3,0,0,B,227,S
+5569,5930_02,Europa,False,B/227/S,TRAPPIST-1e,28.0,False,0.0,1014.0,0.0,2463.0,517.0,Yildus Geakerat,False,3994.0,5930,02,3,0,1,B,227,S
+5570,5930_03,Europa,True,B/227/S,55 Cancri e,19.0,False,0.0,0.0,0.0,0.0,0.0,Sarich Geakerat,True,0.0,5930,03,3,0,0,B,227,S
+5594,5957_01,Europa,True,B/203/P,55 Cancri e,17.0,False,0.0,0.0,0.0,0.0,0.0,Arrain Chuble,True,0.0,5957,01,3,0,0,B,203,P
+5595,5957_02,Europa,True,B/203/P,55 Cancri e,15.0,False,0.0,0.0,0.0,0.0,0.0,Zedark Chuble,True,0.0,5957,02,3,0,0,B,203,P
+5596,5957_03,Europa,False,B/203/P,55 Cancri e,58.0,True,2.0,3862.0,0.0,1482.0,73.0,Markard Chuble,False,5419.0,5957,03,3,0,1,B,203,P
+5597,5959_01,Europa,False,D/181/S,TRAPPIST-1e,29.0,False,1.0,2809.0,97.0,61.0,1227.0,Schabik Praugnox,False,4195.0,5959,01,2,0,1,D,181,S
+5598,5959_02,Europa,True,D/181/S,TRAPPIST-1e,34.0,False,0.0,0.0,0.0,0.0,0.0,Dabik Praugnox,True,0.0,5959,02,2,0,0,D,181,S
+5599,5960_01,Europa,False,C/222/S,TRAPPIST-1e,28.0,False,0.0,4780.0,1761.0,1.0,247.0,Eltares Dister,True,6789.0,5960,01,3,0,1,C,222,S
+5600,5960_02,Europa,False,C/222/S,TRAPPIST-1e,29.0,False,3215.0,1211.0,4.0,7.0,417.0,Aliakan Dister,True,4854.0,5960,02,3,0,1,C,222,S
+5601,5960_03,Europa,True,C/222/S,55 Cancri e,25.0,False,0.0,0.0,0.0,0.0,0.0,Merabik Dister,True,0.0,5960,03,3,0,0,C,222,S
+5618,5977_01,Europa,False,B/230/S,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,Atonea Inesely,True,0.0,5977,01,4,0,0,B,230,S
+5619,5977_02,Europa,False,B/230/S,55 Cancri e,57.0,False,200.0,9.0,0.0,,24133.0,,False,,5977,02,4,0,0,B,230,S
+5620,5977_03,Europa,False,B/230/S,TRAPPIST-1e,,False,0.0,0.0,0.0,0.0,0.0,Alhaula Inesely,True,0.0,5977,03,4,0,0,B,230,S
+5621,5977_04,Europa,False,B/230/S,TRAPPIST-1e,46.0,False,0.0,3259.0,761.0,4423.0,0.0,Halla Porkilte,False,8443.0,5977,04,4,0,1,B,230,S
+5648,6006_01,Europa,False,D/190/P,55 Cancri e,45.0,True,1017.0,3863.0,0.0,601.0,3999.0,Okulam Monpreery,False,9480.0,6006,01,2,0,1,D,190,P
+5649,6006_02,Europa,True,D/190/P,55 Cancri e,26.0,False,0.0,0.0,0.0,0.0,0.0,Sulaos Monpreery,True,0.0,6006,02,2,0,0,D,190,P
+5655,6015_01,Europa,True,B/231/S,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,Sulatik Demansty,True,0.0,6015,01,2,0,0,B,231,S
+5656,6015_02,Europa,False,B/231/S,55 Cancri e,25.0,False,140.0,4451.0,0.0,0.0,2050.0,Dyonevi Demansty,True,6641.0,6015,02,2,0,1,B,231,S
+5674,6028_01,Europa,False,A/57/P,55 Cancri e,27.0,False,0.0,1801.0,0.0,304.0,1393.0,Wasatz Preeldy,False,3498.0,6028,01,5,0,1,A,57,P
+5675,6028_02,Europa,False,A/57/P,TRAPPIST-1e,32.0,True,0.0,792.0,0.0,1.0,1335.0,Cherkab Preeldy,False,2128.0,6028,02,5,0,1,A,57,P
+5676,6028_03,Europa,False,A/57/P,55 Cancri e,11.0,False,0.0,0.0,0.0,0.0,0.0,Nusakar Preeldy,True,0.0,6028,03,5,0,0,A,57,P
+5677,6028_04,Europa,False,,TRAPPIST-1e,26.0,True,0.0,3638.0,0.0,1043.0,0.0,Kumark Preeldy,True,4681.0,6028,04,5,0,1,,,
+5678,6028_05,Europa,False,A/57/P,TRAPPIST-1e,28.0,False,0.0,6921.0,0.0,29.0,45.0,Shelik Preeldy,True,6995.0,6028,05,5,0,1,A,57,P
+5698,6036_01,Europa,False,C/225/S,TRAPPIST-1e,44.0,False,0.0,1289.0,1224.0,514.0,1674.0,Achah Stpingepid,True,4701.0,6036,01,3,0,1,C,225,S
+5700,6036_03,Europa,False,C/225/S,TRAPPIST-1e,27.0,False,0.0,1857.0,0.0,778.0,587.0,Hekab Stpingepid,True,3222.0,6036,03,3,0,1,C,225,S
+5714,6055_01,Europa,False,C/185/P,PSO J318.5-22,29.0,True,3.0,1849.0,0.0,3104.0,1652.0,Mino Prefule,False,6608.0,6055,01,3,0,1,C,185,P
+5715,6055_02,Europa,True,C/185/P,TRAPPIST-1e,41.0,False,0.0,0.0,0.0,0.0,0.0,Achiram Prefule,True,0.0,6055,02,3,0,0,C,185,P
+5716,6055_03,Europa,False,C/185/P,TRAPPIST-1e,20.0,False,1883.0,0.0,,8810.0,0.0,Terops Prefule,False,,6055,03,3,0,0,C,185,P
+5724,6066_01,Europa,False,C/226/S,TRAPPIST-1e,33.0,False,0.0,357.0,2366.0,1612.0,2137.0,Altan Mallisly,False,6472.0,6066,01,3,0,1,C,226,S
+5725,6066_02,Europa,False,C/226/S,55 Cancri e,55.0,False,8142.0,8.0,0.0,1481.0,0.0,Terion Mallisly,False,9631.0,6066,02,3,0,1,C,226,S
+5726,6066_03,Europa,,C/226/S,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,Aldhib Mallisly,True,0.0,6066,03,3,0,0,C,226,S
+5747,6094_01,Europa,True,C/227/S,55 Cancri e,30.0,False,0.0,0.0,0.0,0.0,0.0,Terons Brathful,True,0.0,6094,01,3,0,0,C,227,S
+5748,6094_02,Europa,True,C/227/S,55 Cancri e,44.0,False,0.0,0.0,0.0,0.0,0.0,Alcyon Brathful,True,0.0,6094,02,3,0,0,C,227,S
+5749,6094_03,Europa,True,C/227/S,55 Cancri e,28.0,False,0.0,0.0,0.0,0.0,0.0,Tautrix Brathful,True,0.0,6094,03,3,0,0,C,227,S
+5763,6109_01,Europa,False,C/187/P,TRAPPIST-1e,13.0,False,0.0,9.0,0.0,,5648.0,Terons Inghtal,False,,6109,01,2,0,0,C,187,P
+5764,6109_02,Europa,True,C/187/P,TRAPPIST-1e,28.0,False,0.0,,0.0,0.0,0.0,Giedir Inghtal,True,,6109,02,2,0,0,C,187,P
+5766,6111_01,Europa,True,A/58/P,TRAPPIST-1e,32.0,False,0.0,,0.0,0.0,0.0,Hyaduma Folumorly,True,,6111,01,5,0,0,A,58,P
+5767,6111_02,Europa,False,A/58/P,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,4588.0,0.0,Fomalik Folumorly,False,4588.0,6111,02,5,0,1,A,58,P
+5768,6111_03,Europa,True,,55 Cancri e,21.0,False,0.0,0.0,0.0,0.0,0.0,Ainkard Folumorly,True,0.0,6111,03,5,0,0,,,
+5769,6111_04,Europa,True,A/58/P,55 Cancri e,34.0,False,0.0,0.0,0.0,0.0,0.0,Hezenif Folumorly,True,0.0,6111,04,5,0,0,A,58,P
+5770,6111_05,Europa,False,A/58/P,TRAPPIST-1e,33.0,False,0.0,2110.0,0.0,773.0,10.0,Sabiton Folumorly,True,2893.0,6111,05,5,0,1,A,58,P
+5778,6121_01,Europa,False,C/229/S,TRAPPIST-1e,28.0,,0.0,4585.0,0.0,2.0,35.0,Wezncha Presstic,True,4622.0,6121,01,2,0,1,C,229,S
+5779,6121_02,Europa,False,C/229/S,TRAPPIST-1e,55.0,,916.0,1056.0,0.0,1677.0,593.0,Keided Presstic,False,4242.0,6121,02,2,0,1,C,229,S
+5799,6139_01,Europa,,C/230/S,TRAPPIST-1e,0.0,False,0.0,0.0,,0.0,0.0,Azhasim Bewarsecal,True,,6139,01,6,0,0,C,230,S
+5800,6139_02,Europa,True,C/230/S,TRAPPIST-1e,4.0,False,0.0,0.0,0.0,0.0,0.0,Atonea Reedall,True,0.0,6139,02,6,0,0,C,230,S
+5801,6139_03,Europa,False,C/230/S,TRAPPIST-1e,58.0,False,0.0,1073.0,,803.0,988.0,Pleions Reedall,True,,6139,03,6,0,0,C,230,S
+5802,6139_04,Europa,True,C/230/S,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,Jabba Reedall,True,0.0,6139,04,6,0,0,C,230,S
+5803,6139_05,Europa,True,C/230/S,55 Cancri e,51.0,False,0.0,0.0,0.0,0.0,0.0,Sinon Reedall,True,0.0,6139,05,6,0,0,C,230,S
+5804,6139_06,Europa,True,C/230/S,55 Cancri e,37.0,False,0.0,0.0,0.0,0.0,0.0,Alphact Reedall,True,0.0,6139,06,6,0,0,C,230,S
+5814,6152_01,Europa,True,B/235/S,TRAPPIST-1e,33.0,False,0.0,,0.0,0.0,0.0,Dhenah Motled,True,,6152,01,2,0,0,B,235,S
+5815,6152_02,Europa,False,B/235/S,TRAPPIST-1e,31.0,False,0.0,53.0,0.0,2963.0,1017.0,Sadar Motled,False,4033.0,6152,02,2,0,1,B,235,S
+5847,6191_01,Europa,True,A/59/P,TRAPPIST-1e,51.0,False,0.0,0.0,0.0,0.0,0.0,Alraida Ametic,True,0.0,6191,01,4,0,0,A,59,P
+5848,6191_02,Europa,True,A/59/P,TRAPPIST-1e,,False,0.0,0.0,0.0,0.0,0.0,Lesaten Ametic,True,0.0,6191,02,4,0,0,A,59,P
+5849,6191_03,Europa,True,A/59/P,TRAPPIST-1e,45.0,False,0.0,0.0,0.0,0.0,0.0,Taurah Ametic,True,0.0,6191,03,4,0,0,A,59,P
+5850,6191_04,Europa,True,A/59/P,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,Miatrix Ametic,True,0.0,6191,04,4,0,0,A,59,P
+5855,6200_01,Europa,False,B/238/S,TRAPPIST-1e,27.0,False,3.0,4654.0,0.0,657.0,214.0,Saxino Duckil,True,5528.0,6200,01,3,0,1,B,238,S
+5856,6200_02,Europa,False,B/238/S,TRAPPIST-1e,26.0,False,0.0,9.0,0.0,3.0,2047.0,Weias Duckil,False,2059.0,6200,02,3,0,1,B,238,S
+5857,6200_03,Europa,False,B/238/S,55 Cancri e,25.0,False,2026.0,4929.0,0.0,1179.0,10270.0,Genubia Duckil,False,18404.0,6200,03,3,0,1,B,238,S
+5867,6215_01,Europa,False,B/239/S,55 Cancri e,28.0,False,0.0,809.0,0.0,2043.0,72.0,Mahamak Sterly,True,2924.0,6215,01,2,0,1,B,239,S
+5868,6215_02,Europa,False,B/239/S,55 Cancri e,37.0,False,0.0,90.0,0.0,3282.0,11.0,Suhelik Sterly,False,3383.0,6215,02,2,0,1,B,239,S
+5900,6254_01,Europa,True,B/243/S,TRAPPIST-1e,37.0,False,0.0,0.0,0.0,0.0,0.0,Errak Pokeck,True,0.0,6254,01,2,0,0,B,243,S
+5901,6254_02,Europa,True,B/243/S,TRAPPIST-1e,59.0,False,0.0,0.0,0.0,0.0,0.0,Sadra Pokeck,True,0.0,6254,02,2,0,0,B,243,S
+5905,6263_01,Europa,True,B/213/P,55 Cancri e,17.0,False,0.0,0.0,0.0,0.0,0.0,Sadaton Craleve,True,0.0,6263,01,2,0,0,B,213,P
+5925,6285_01,Europa,,B/245/S,55 Cancri e,64.0,False,0.0,0.0,0.0,0.0,0.0,Winonon Whealeed,True,0.0,6285,01,2,0,0,B,245,S
+5926,6285_02,Europa,False,B/245/S,TRAPPIST-1e,43.0,False,2.0,5329.0,0.0,7.0,0.0,Shail Whealeed,True,5338.0,6285,02,2,0,1,B,245,S
+5944,6305_01,Europa,True,B/248/S,55 Cancri e,19.0,False,0.0,0.0,0.0,0.0,0.0,Ankabit Parbleake,True,0.0,6305,01,2,0,0,B,248,S
+5945,6305_02,Europa,False,B/248/S,TRAPPIST-1e,46.0,False,3616.0,564.0,0.0,15.0,3303.0,Ashird Parbleake,False,7498.0,6305,02,2,0,1,B,248,S
+5952,6313_01,Europa,False,D/190/S,TRAPPIST-1e,60.0,False,0.0,190.0,3.0,1964.0,30.0,Charaz Sempribly,False,2187.0,6313,01,2,0,1,D,190,S
+5960,6321_01,Europa,True,C/194/P,55 Cancri e,58.0,False,0.0,0.0,0.0,0.0,0.0,Batomam Pusive,True,0.0,6321,01,3,0,0,C,194,P
+5961,6321_02,Europa,False,C/194/P,TRAPPIST-1e,19.0,False,0.0,1234.0,0.0,1956.0,0.0,Azhat Pusive,False,3190.0,6321,02,3,0,1,C,194,P
+5962,6321_03,Europa,True,C/194/P,55 Cancri e,,False,0.0,0.0,0.0,0.0,0.0,Marga Pusive,True,0.0,6321,03,3,0,0,C,194,P
+5964,6323_01,Europa,False,C/235/S,55 Cancri e,48.0,False,3.0,4089.0,0.0,4368.0,147.0,Aldeba Tionstious,False,8607.0,6323,01,2,0,1,C,235,S
+5965,6323_02,Europa,False,C/235/S,TRAPPIST-1e,33.0,False,2.0,4742.0,0.0,34.0,0.0,Arinon Unkcal,True,4778.0,6323,02,2,0,1,C,235,S
+5989,6340_01,Europa,False,C/195/P,TRAPPIST-1e,29.0,False,0.0,584.0,5468.0,7.0,661.0,Gacrab Pressive,True,6720.0,6340,01,2,0,1,C,195,P
+5990,6340_02,Europa,False,C/195/P,55 Cancri e,25.0,False,484.0,11441.0,0.0,4.0,5477.0,Anyonon Pressive,False,17406.0,6340,02,2,0,1,C,195,P
+6006,6360_01,Europa,False,A/75/S,TRAPPIST-1e,0.0,,0.0,0.0,0.0,0.0,0.0,Erraiam Clumsty,True,0.0,6360,01,3,0,0,A,75,S
+6007,6360_02,Europa,True,A/75/S,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,0.0,0.0,Glueba Clumsty,True,0.0,6360,02,3,0,0,A,75,S
+6008,6360_03,Europa,True,A/75/S,TRAPPIST-1e,40.0,False,0.0,0.0,0.0,0.0,0.0,Becruxa Clumsty,True,0.0,6360,03,3,0,0,A,75,S
+6025,6372_01,Europa,False,B/216/P,TRAPPIST-1e,40.0,False,773.0,3729.0,43.0,10.0,0.0,Bahoton Resendent,True,4555.0,6372,01,4,0,1,B,216,P
+6026,6372_02,Europa,False,B/216/P,TRAPPIST-1e,26.0,True,0.0,2199.0,0.0,328.0,329.0,Alphah Reelest,False,2856.0,6372,02,4,0,1,B,216,P
+6027,6372_03,Europa,False,B/216/P,55 Cancri e,45.0,False,0.0,3200.0,0.0,415.0,161.0,Sula Reelest,True,3776.0,6372,03,4,0,1,B,216,P
+6028,6372_04,Europa,True,B/216/P,55 Cancri e,18.0,False,,0.0,0.0,0.0,0.0,Hadaton Reelest,True,,6372,04,4,0,0,B,216,P
+6048,6400_01,Europa,False,A/76/S,55 Cancri e,40.0,False,0.0,1677.0,0.0,109.0,320.0,Eltard Slable,True,2106.0,6400,01,2,0,1,A,76,S
+6049,6400_02,Europa,False,A/76/S,55 Cancri e,34.0,True,0.0,618.0,0.0,0.0,10888.0,Arino Slable,False,11506.0,6400,02,2,0,1,A,76,S
+6060,6406_01,Europa,True,,55 Cancri e,27.0,False,0.0,0.0,0.0,0.0,0.0,Arkeb Belstrut,True,0.0,6406,01,2,0,0,,,
+6061,6406_02,Europa,True,B/249/S,55 Cancri e,34.0,False,0.0,0.0,0.0,0.0,0.0,Giedir Belstrut,True,0.0,6406,02,2,0,0,B,249,S
+6073,6421_01,Europa,True,C/197/P,55 Cancri e,28.0,False,0.0,0.0,0.0,0.0,0.0,Azhab Redand,True,0.0,6421,01,2,0,0,C,197,P
+6074,6421_02,Europa,False,,TRAPPIST-1e,29.0,False,0.0,577.0,0.0,5568.0,432.0,Saxino Redand,False,6577.0,6421,02,2,0,1,,,
+6080,6428_01,Europa,True,C/198/P,55 Cancri e,20.0,False,,0.0,0.0,0.0,0.0,Nesch Pumbody,True,,6428,01,2,0,0,C,198,P
+6081,6428_02,Europa,True,C/198/P,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,Alphah Pumbody,True,0.0,6428,02,2,0,0,C,198,P
+6110,6450_01,Europa,False,C/200/P,TRAPPIST-1e,23.0,False,0.0,596.0,57.0,259.0,4666.0,Anyoni Unative,False,5578.0,6450,01,2,0,1,C,200,P
+6111,6450_02,Europa,True,C/200/P,55 Cancri e,42.0,False,0.0,0.0,0.0,0.0,0.0,Altaira Unative,True,0.0,6450,02,2,0,0,C,200,P
+6134,6472_01,Europa,True,B/250/S,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,Mahamak Steary,True,0.0,6472,01,2,0,0,B,250,S
+6135,6472_02,Europa,True,B/250/S,55 Cancri e,13.0,False,0.0,0.0,0.0,0.0,0.0,Cellah Steary,True,0.0,6472,02,2,0,0,B,250,S
+6138,6477_01,Europa,False,D/196/S,55 Cancri e,23.0,False,0.0,44.0,0.0,3452.0,83.0,Tabih Witeronfus,False,3579.0,6477,01,2,0,1,D,196,S
+6139,6477_02,Europa,False,D/196/S,55 Cancri e,17.0,False,0.0,311.0,6.0,4236.0,557.0,Ranan Witeronfus,False,5110.0,6477,02,2,0,1,D,196,S
+6151,6490_01,Europa,True,C/201/P,55 Cancri e,57.0,False,0.0,0.0,0.0,0.0,0.0,Errairk Ineded,True,0.0,6490,01,4,0,0,C,201,P
+6152,6490_02,Europa,False,C/201/P,55 Cancri e,29.0,False,0.0,889.0,0.0,4921.0,290.0,Phecca Ineded,False,6100.0,6490,02,4,0,1,C,201,P
+6153,6490_03,Europa,False,C/201/P,55 Cancri e,27.0,False,0.0,6924.0,849.0,149.0,1166.0,Tabiton Ightive,True,9088.0,6490,03,4,0,1,C,201,P
+6168,6512_01,Europa,False,A/80/S,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,Mediton Oillepint,True,0.0,6512,01,3,0,0,A,80,S
+6170,6512_03,Europa,False,A/80/S,TRAPPIST-1e,28.0,False,0.0,3527.0,1.0,2929.0,2236.0,Hekaton Goortedant,False,8693.0,6512,03,3,0,1,A,80,S
+6172,6514_01,Europa,False,B/251/S,55 Cancri e,28.0,True,19.0,22.0,2974.0,3603.0,158.0,Preo Openduave,False,6776.0,6514,01,2,0,1,B,251,S
+6173,6514_02,Europa,False,B/251/S,TRAPPIST-1e,42.0,False,0.0,6244.0,0.0,10912.0,4.0,Gravior Stersetery,False,17160.0,6514,02,2,0,1,B,251,S
+6204,6561_01,Europa,False,B/253/S,TRAPPIST-1e,29.0,False,19.0,4900.0,6.0,6324.0,2056.0,Aldeba Ainserfle,False,13305.0,6561,01,2,0,1,B,253,S
+6223,6583_01,Europa,False,B/254/S,TRAPPIST-1e,13.0,False,0.0,100.0,12253.0,6.0,80.0,Charda Sunlove,True,12439.0,6583,01,2,0,1,B,254,S
+6224,6583_02,Europa,False,B/254/S,55 Cancri e,53.0,False,0.0,2606.0,0.0,1170.0,0.0,Zinon Asivetfuel,True,3776.0,6583,02,2,0,1,B,254,S
+6229,6590_01,Europa,True,B/217/P,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,Gollux Nifficaus,False,0.0,6590,01,2,0,0,B,217,P
+6230,6590_02,Europa,False,B/217/P,TRAPPIST-1e,56.0,False,0.0,13561.0,0.0,2.0,4088.0,Arkar Nifficaus,True,17651.0,6590,02,2,0,1,B,217,P
+6266,6634_01,Europa,True,B/219/P,55 Cancri e,46.0,False,0.0,0.0,0.0,0.0,0.0,Gorabih Dischod,True,0.0,6634,01,2,0,0,B,219,P
+6268,6635_01,Europa,False,C/209/P,TRAPPIST-1e,17.0,False,0.0,1339.0,26.0,244.0,15.0,Giebara Entratable,False,1624.0,6635,01,2,0,1,C,209,P
+6269,6635_02,Europa,False,C/209/P,55 Cancri e,45.0,False,0.0,313.0,1791.0,414.0,1675.0,Nusakab Entratable,False,4193.0,6635,02,2,0,1,C,209,P
+6273,6641_01,Europa,True,C/247/S,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,Algork Diateous,True,0.0,6641,01,2,0,0,C,247,S
+6274,6641_02,Europa,True,C/247/S,55 Cancri e,39.0,False,0.0,0.0,0.0,0.0,0.0,Coxak Diateous,True,0.0,6641,02,2,0,0,C,247,S
+6296,6665_01,Europa,True,B/222/P,55 Cancri e,17.0,False,0.0,0.0,0.0,0.0,0.0,Alraium Disivering,True,0.0,6665,01,4,0,0,B,222,P
+6297,6665_02,Europa,False,B/222/P,TRAPPIST-1e,18.0,False,4.0,1337.0,0.0,0.0,182.0,Sabireo Disivering,False,1523.0,6665,02,4,0,1,B,222,P
+6298,6665_03,Europa,False,B/222/P,TRAPPIST-1e,53.0,False,0.0,0.0,0.0,0.0,0.0,Tachba Disivering,True,0.0,6665,03,4,0,0,B,222,P
+6299,6665_04,Europa,False,B/222/P,55 Cancri e,35.0,False,0.0,2504.0,0.0,0.0,5496.0,Saiphda Disivering,False,8000.0,6665,04,4,0,1,B,222,P
+6313,6674_01,Europa,False,E/426/P,TRAPPIST-1e,29.0,False,0.0,841.0,0.0,1733.0,11.0,Wezna Swirring,False,2585.0,6674,01,5,0,1,E,426,P
+6314,6674_02,Europa,True,E/426/P,TRAPPIST-1e,32.0,False,,0.0,0.0,0.0,0.0,Meron Slowatic,True,,6674,02,5,0,0,E,426,P
+6315,6674_03,Europa,,E/426/P,55 Cancri e,15.0,False,0.0,0.0,0.0,0.0,0.0,Sheratz Slowatic,True,0.0,6674,03,5,0,0,E,426,P
+6316,6674_04,Europa,True,E/426/P,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,Acruxon Swirring,True,0.0,6674,04,5,0,0,E,426,P
+6317,6674_05,Europa,False,E/426/P,TRAPPIST-1e,25.0,False,0.0,4.0,0.0,1525.0,475.0,Jihda Swirring,False,2004.0,6674,05,5,0,1,E,426,P
+6324,6684_01,Europa,False,C/210/P,TRAPPIST-1e,57.0,False,0.0,218.0,0.0,8522.0,0.0,Geons Exhaft,False,8740.0,6684,01,3,0,1,C,210,P
+6325,6684_02,Europa,False,C/210/P,TRAPPIST-1e,30.0,,0.0,,335.0,143.0,764.0,Ziba Exhaft,True,,6684,02,3,0,0,C,210,P
+6326,6684_03,Europa,False,C/210/P,TRAPPIST-1e,46.0,False,0.0,370.0,0.0,2395.0,1638.0,Duhrkab Exhaft,False,4403.0,6684,03,3,0,1,C,210,P
+6335,6706_01,Europa,True,B/224/P,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,Asellah Dishocatal,True,0.0,6706,01,2,0,0,B,224,P
+6336,6706_02,Europa,True,B/224/P,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,Arix Dishocatal,True,0.0,6706,02,2,0,0,B,224,P
+6338,6708_01,Europa,False,A/67/P,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,Muonons Sysilstict,True,0.0,6708,01,6,0,0,A,67,P
+6339,6708_02,Europa,False,A/67/P,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,,,True,,6708,02,6,0,0,A,67,P
+6340,6708_03,Europa,False,A/67/P,TRAPPIST-1e,36.0,False,994.0,526.0,0.0,7.0,1279.0,Furuson Sysilstict,False,2806.0,6708,03,6,0,1,A,67,P
+6341,6708_04,Europa,True,A/67/P,55 Cancri e,19.0,False,0.0,0.0,0.0,0.0,0.0,Elebi Sysilstict,True,0.0,6708,04,6,0,0,A,67,P
+6342,6708_05,Europa,True,A/67/P,55 Cancri e,35.0,False,0.0,0.0,0.0,0.0,0.0,Ashird Sysilstict,True,0.0,6708,05,6,0,0,A,67,P
+6343,6708_06,Europa,True,A/67/P,55 Cancri e,41.0,True,0.0,0.0,0.0,0.0,,Shamak Sysilstict,True,,6708,06,6,0,0,A,67,P
+6353,6722_01,Europa,True,E/445/S,55 Cancri e,28.0,False,0.0,0.0,0.0,0.0,0.0,Phargak Dicely,True,0.0,6722,01,3,0,0,E,445,S
+6354,6722_02,Europa,False,E/445/S,55 Cancri e,27.0,False,0.0,33.0,9.0,1847.0,2035.0,Saleh Dicely,False,3924.0,6722,02,3,0,1,E,445,S
+6355,6722_03,Europa,True,E/445/S,55 Cancri e,40.0,False,0.0,0.0,0.0,0.0,0.0,Skyrmak Dicely,True,0.0,6722,03,3,0,0,E,445,S
+6356,6724_01,Europa,True,C/213/P,55 Cancri e,27.0,False,0.0,0.0,0.0,0.0,0.0,Jihoton Haftent,True,0.0,6724,01,2,0,0,C,213,P
+6357,6724_02,Europa,True,C/213/P,55 Cancri e,17.0,False,0.0,0.0,0.0,0.0,0.0,Scelava Haftent,True,0.0,6724,02,2,0,0,C,213,P
+6361,6729_01,Europa,False,A/82/S,TRAPPIST-1e,41.0,False,0.0,371.0,0.0,1701.0,21.0,Becruxa Dedometeel,False,2093.0,6729,01,3,0,1,A,82,S
+6362,6729_02,Europa,True,A/82/S,55 Cancri e,48.0,False,0.0,0.0,0.0,0.0,0.0,Izarkar Dedometeel,True,0.0,6729,02,3,0,0,A,82,S
+6363,6729_03,Europa,False,A/82/S,TRAPPIST-1e,27.0,False,2664.0,15.0,0.0,109.0,2.0,Rassias Brathful,False,2790.0,6729,03,3,0,1,A,82,S
+6366,6734_01,Europa,False,C/249/S,55 Cancri e,47.0,False,0.0,2699.0,0.0,671.0,8.0,Pleion Sparsaxle,True,3378.0,6734,01,4,0,1,C,249,S
+6367,6734_02,Europa,True,C/249/S,55 Cancri e,14.0,False,0.0,0.0,0.0,0.0,0.0,Shail Sparsaxle,True,0.0,6734,02,4,0,0,C,249,S
+6368,6734_03,Europa,True,C/249/S,55 Cancri e,37.0,True,0.0,0.0,0.0,0.0,0.0,Alhaino Sparsaxle,True,0.0,6734,03,4,0,0,C,249,S
+6369,6734_04,Europa,True,C/249/S,55 Cancri e,33.0,False,0.0,0.0,0.0,0.0,0.0,Wein Sparsaxle,True,0.0,6734,04,4,0,0,C,249,S
+6391,6753_01,Europa,True,B/226/P,TRAPPIST-1e,50.0,False,0.0,0.0,0.0,0.0,0.0,Stra Frablerly,True,0.0,6753,01,2,0,0,B,226,P
+6392,6753_02,Europa,False,B/226/P,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,Aldibi Frablerly,False,0.0,6753,02,2,0,0,B,226,P
+6417,6779_01,Europa,False,B/258/S,TRAPPIST-1e,37.0,False,0.0,7920.0,270.0,1.0,322.0,Terope Busive,True,8513.0,6779,01,4,0,1,B,258,S
+6418,6779_02,Europa,True,B/258/S,55 Cancri e,14.0,False,,0.0,0.0,0.0,0.0,Alhail Stioutody,True,,6779,02,4,0,0,B,258,S
+6419,6779_03,Europa,True,B/258/S,TRAPPIST-1e,44.0,False,0.0,0.0,0.0,0.0,0.0,Tabanar Stioutody,True,0.0,6779,03,4,0,0,B,258,S
+6420,6779_04,Europa,False,B/258/S,TRAPPIST-1e,11.0,False,0.0,0.0,0.0,0.0,0.0,Altara Stioutody,True,0.0,6779,04,4,0,0,B,258,S
+6421,6780_01,Europa,True,C/251/S,55 Cancri e,15.0,False,0.0,0.0,0.0,0.0,0.0,Antinon Plaricit,True,0.0,6780,01,2,0,0,C,251,S
+6422,6780_02,Europa,False,C/251/S,TRAPPIST-1e,39.0,False,2167.0,30.0,1472.0,,0.0,Eltan Plaricit,True,,6780,02,2,0,0,C,251,S
+6469,6827_01,Europa,False,A/84/S,55 Cancri e,73.0,False,181.0,1.0,840.0,2618.0,1949.0,Dirk Listive,False,5589.0,6827,01,4,0,1,A,84,S
+6470,6827_02,Europa,True,A/84/S,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,Coxaton Listive,True,0.0,6827,02,4,0,0,A,84,S
+6471,6827_03,Europa,True,A/84/S,TRAPPIST-1e,50.0,False,0.0,0.0,0.0,0.0,0.0,Zinoces Listive,True,0.0,6827,03,4,0,0,A,84,S
+6472,6827_04,Europa,,A/84/S,TRAPPIST-1e,12.0,False,0.0,0.0,0.0,0.0,0.0,Alramak Listive,True,0.0,6827,04,4,0,0,A,84,S
+6484,6843_01,Europa,True,B/260/S,TRAPPIST-1e,21.0,False,0.0,,0.0,0.0,0.0,Acceleb Rimplighty,True,,6843,01,2,0,0,B,260,S
+6485,6843_02,Europa,True,B/260/S,55 Cancri e,30.0,False,0.0,0.0,0.0,0.0,0.0,Saxinon Rimplighty,True,0.0,6843,02,2,0,0,B,260,S
+6495,6858_01,Europa,True,B/229/P,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,Asteron Spandisket,True,0.0,6858,01,4,0,0,B,229,P
+6496,6858_02,Europa,True,B/229/P,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,Kabiak Spandisket,True,0.0,6858,02,4,0,0,B,229,P
+6497,6858_03,Europa,False,B/229/P,55 Cancri e,39.0,False,0.0,60.0,0.0,310.0,4674.0,Zinopus Spandisket,False,5044.0,6858,03,4,0,1,B,229,P
+6498,6858_04,Europa,False,B/229/P,,8.0,False,0.0,0.0,0.0,0.0,0.0,Taura Spandisket,True,0.0,6858,04,4,0,0,B,229,P
+6504,6864_01,Europa,True,A/71/P,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,Aske Scoudelle,True,0.0,6864,01,2,0,0,A,71,P
+6505,6864_02,Europa,True,A/71/P,55 Cancri e,25.0,,0.0,0.0,0.0,0.0,0.0,Phamark Scoudelle,True,0.0,6864,02,2,0,0,A,71,P
+6506,6865_01,Europa,False,D/208/S,TRAPPIST-1e,27.0,,69.0,2878.0,0.0,4232.0,3798.0,Thabih Peducting,False,10977.0,6865,01,2,0,1,D,208,S
+6507,6865_02,Europa,True,D/208/S,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,0.0,Errim Peducting,True,0.0,6865,02,2,0,0,D,208,S
+6508,6866_01,Europa,False,C/253/S,55 Cancri e,20.0,False,0.0,17958.0,99.0,14.0,57.0,Gork Hetforhaft,True,18128.0,6866,01,2,0,1,C,253,S
+6509,6866_02,Europa,False,C/253/S,55 Cancri e,40.0,False,6103.0,7570.0,860.0,13117.0,192.0,Dscha Hetforhaft,False,27842.0,6866,02,2,0,1,C,253,S
+6534,6899_01,Europa,False,A/73/P,TRAPPIST-1e,59.0,False,0.0,0.0,0.0,0.0,0.0,Anyonon Coweboded,True,0.0,6899,01,2,0,0,A,73,P
+6535,6899_02,Europa,,A/73/P,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,Ruchban Coweboded,False,0.0,6899,02,2,0,0,A,73,P
+6557,6921_01,Europa,False,C/255/S,TRAPPIST-1e,22.0,False,0.0,1914.0,2090.0,100.0,0.0,Sadrix Stersetery,True,4104.0,6921,01,6,0,1,C,255,S
+6558,6921_02,Europa,True,C/255/S,55 Cancri e,24.0,False,0.0,0.0,0.0,,0.0,Eleron Fordulgaug,True,,6921,02,6,0,0,C,255,S
+6559,6921_03,Europa,False,C/255/S,TRAPPIST-1e,23.0,False,69.0,6101.0,0.0,0.0,214.0,Grum Stersetery,True,6384.0,6921,03,6,0,1,C,255,S
+6560,6921_04,Europa,False,C/255/S,TRAPPIST-1e,28.0,True,0.0,14076.0,0.0,928.0,372.0,Dsch Stersetery,True,15376.0,6921,04,6,0,1,C,255,S
+6561,6921_05,Europa,True,C/255/S,55 Cancri e,19.0,False,0.0,0.0,0.0,0.0,0.0,Arrain Fordulgaug,True,0.0,6921,05,6,0,0,C,255,S
+6562,6921_06,Europa,False,C/255/S,TRAPPIST-1e,32.0,False,0.0,89.0,0.0,8330.0,1.0,Azhah Stersetery,False,8420.0,6921,06,6,0,1,C,255,S
+6583,6947_01,Europa,True,B/264/S,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,Becruxa Coudered,True,0.0,6947,01,2,0,0,B,264,S
+6584,6947_02,Europa,False,B/264/S,TRAPPIST-1e,49.0,False,0.0,1757.0,0.0,797.0,567.0,Cellum Obnoble,True,3121.0,6947,02,2,0,1,B,264,S
+6586,6950_01,Europa,True,B/265/S,55 Cancri e,19.0,False,0.0,0.0,0.0,0.0,0.0,Alurops Pringry,True,0.0,6950,01,2,0,0,B,265,S
+6587,6950_02,Europa,True,B/265/S,55 Cancri e,15.0,False,0.0,0.0,0.0,0.0,0.0,Medib Pringry,True,0.0,6950,02,2,0,0,B,265,S
+6588,6951_01,Europa,False,D/219/P,TRAPPIST-1e,37.0,False,26.0,2898.0,9.0,0.0,40.0,Vegas Lendly,True,2973.0,6951,01,2,0,1,D,219,P
+6589,6951_02,Europa,True,D/219/P,TRAPPIST-1e,,False,0.0,0.0,0.0,0.0,0.0,Mares Beling,True,0.0,6951,02,2,0,0,D,219,P
+6603,6971_01,Europa,False,C/225/P,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,,Alcoran Distured,True,,6971,01,6,0,0,C,225,P
+6604,6971_02,Europa,False,C/225/P,TRAPPIST-1e,4.0,False,0.0,0.0,0.0,0.0,0.0,Chard Distured,True,0.0,6971,02,6,0,0,C,225,P
+6605,6971_03,Europa,True,C/225/P,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,Alkaida Distured,True,0.0,6971,03,6,0,0,C,225,P
+6606,6971_04,Europa,True,C/225/P,55 Cancri e,17.0,False,0.0,0.0,0.0,0.0,0.0,Asteron Distured,True,0.0,6971,04,6,0,0,C,225,P
+6607,6971_05,Europa,False,C/225/P,55 Cancri e,28.0,False,0.0,4173.0,0.0,33.0,420.0,Schird Pretive,True,4626.0,6971,05,6,0,1,C,225,P
+6608,6971_06,Europa,False,C/225/P,55 Cancri e,28.0,False,0.0,160.0,0.0,1538.0,1426.0,Terfak Distured,False,3124.0,6971,06,6,0,1,C,225,P
+6624,6988_01,Europa,False,C/226/P,TRAPPIST-1e,26.0,,554.0,1307.0,32.0,93.0,1553.0,Quarkib Obnoftle,False,3539.0,6988,01,2,0,1,C,226,P
+6625,6988_02,Europa,False,C/226/P,TRAPPIST-1e,28.0,False,0.0,4340.0,0.0,186.0,0.0,Azharga Obnoftle,True,4526.0,6988,02,2,0,1,C,226,P
+6627,6991_01,Europa,False,B/233/P,55 Cancri e,38.0,False,0.0,692.0,0.0,3587.0,0.0,Kabiton Disivering,False,4279.0,6991,01,2,0,1,B,233,P
+6628,6991_02,Europa,True,B/233/P,TRAPPIST-1e,43.0,False,0.0,0.0,0.0,0.0,,Spurin Disivering,True,,6991,02,2,0,0,B,233,P
+6632,6994_01,Europa,True,B/267/S,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,Bellus Obeaded,True,0.0,6994,01,2,0,0,B,267,S
+6633,6994_02,Europa,False,B/267/S,TRAPPIST-1e,20.0,False,0.0,275.0,1690.0,580.0,5499.0,Alwaide Bagetvable,False,8044.0,6994,02,2,0,1,B,267,S
+6645,7007_01,Europa,False,E/450/P,TRAPPIST-1e,27.0,False,0.0,2897.0,659.0,485.0,11.0,Luxons Bradissive,True,4052.0,7007,01,2,0,1,E,450,P
+6646,7007_02,Europa,False,E/450/P,TRAPPIST-1e,,False,0.0,996.0,0.0,726.0,813.0,Fomam Bradissive,False,2535.0,7007,02,2,0,1,E,450,P
+6661,7022_01,Europa,False,D/215/S,TRAPPIST-1e,35.0,False,0.0,5552.0,6.0,8.0,226.0,Wimps Bleling,True,5792.0,7022,01,2,0,1,D,215,S
+6662,7022_02,Europa,False,D/215/S,TRAPPIST-1e,46.0,False,0.0,664.0,0.0,2.0,2177.0,Mesonon Bleling,False,2843.0,7022,02,2,0,1,D,215,S
+6710,7083_01,Europa,True,C/259/S,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,0.0,Betenar Pirejus,True,0.0,7083,01,2,0,0,C,259,S
+6711,7083_02,Europa,,C/259/S,55 Cancri e,57.0,False,0.0,0.0,0.0,0.0,0.0,Minoton Pirejus,True,0.0,7083,02,2,0,0,C,259,S
+6726,7096_01,Europa,True,C/260/S,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,Nunkib Tashal,True,0.0,7096,01,3,0,0,C,260,S
+6727,7096_02,Europa,False,C/260/S,TRAPPIST-1e,27.0,False,0.0,14.0,0.0,0.0,2325.0,Tauria Tashal,False,2339.0,7096,02,3,0,1,C,260,S
+6728,7096_03,Europa,True,C/260/S,TRAPPIST-1e,30.0,False,0.0,0.0,0.0,0.0,0.0,Aspica Tashal,True,0.0,7096,03,3,0,0,C,260,S
+6729,7097_01,Europa,False,A/75/P,55 Cancri e,27.0,False,0.0,44.0,4761.0,5.0,41.0,Altanin Dedometeel,True,4851.0,7097,01,4,0,1,A,75,P
+6730,7097_02,Europa,False,A/75/P,TRAPPIST-1e,14.0,False,0.0,3124.0,40.0,219.0,189.0,Kumark Dedometeel,False,3572.0,7097,02,4,0,1,A,75,P
+6731,7097_03,Europa,False,A/75/P,TRAPPIST-1e,32.0,True,527.0,1863.0,0.0,417.0,2905.0,Giedia Dedometeel,False,5712.0,7097,03,4,0,1,A,75,P
+6732,7097_04,Europa,False,A/75/P,55 Cancri e,33.0,True,0.0,16.0,12.0,2349.0,12.0,Sulah Poilsive,False,2389.0,7097,04,4,0,1,A,75,P
+6736,7104_02,Europa,False,C/228/P,TRAPPIST-1e,42.0,,159.0,4387.0,2.0,3.0,485.0,Alatrix Regmansidy,True,5036.0,7104,02,2,0,1,C,228,P
+6750,7121_01,Europa,True,B/269/S,55 Cancri e,23.0,False,0.0,0.0,0.0,0.0,0.0,Alkurak Dressink,True,0.0,7121,01,2,0,0,B,269,S
+6751,7121_02,Europa,True,B/269/S,55 Cancri e,22.0,False,0.0,0.0,0.0,0.0,0.0,Pulchib Dressink,True,0.0,7121,02,2,0,0,B,269,S
+6753,7127_01,Europa,False,B/237/P,TRAPPIST-1e,,False,0.0,4155.0,0.0,1368.0,42.0,Dira Belstrut,False,5565.0,7127,01,2,0,1,B,237,P
+6754,7127_02,Europa,True,B/237/P,TRAPPIST-1e,31.0,False,0.0,0.0,,0.0,0.0,Okulk Belstrut,True,,7127,02,2,0,0,B,237,P
+6755,7128_01,Europa,False,B/238/P,55 Cancri e,37.0,False,1.0,4462.0,1.0,9206.0,3.0,Mirara Catimod,False,13673.0,7128,01,3,0,1,B,238,P
+6756,7128_02,Europa,False,B/238/P,55 Cancri e,44.0,False,0.0,4322.0,3.0,153.0,52.0,Raston Dightent,True,4530.0,7128,02,3,0,1,B,238,P
+6757,7128_03,Europa,False,B/238/P,55 Cancri e,34.0,False,0.0,2612.0,1.0,131.0,2714.0,Polah Dightent,False,5458.0,7128,03,3,0,1,B,238,P
+6792,7176_01,Europa,True,C/232/P,55 Cancri e,47.0,False,0.0,0.0,0.0,0.0,0.0,Caston Chhaft,True,0.0,7176,01,3,0,0,C,232,P
+6793,7176_02,Europa,False,C/232/P,TRAPPIST-1e,26.0,False,0.0,6050.0,0.0,662.0,920.0,Kochard Chhaft,False,7632.0,7176,02,3,0,1,C,232,P
+6794,7176_03,Europa,False,C/232/P,TRAPPIST-1e,25.0,False,0.0,3590.0,0.0,27.0,0.0,Sadlami Chhaft,True,3617.0,7176,03,3,0,1,C,232,P
+6801,7186_01,Europa,True,E/461/P,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,Aske Pretive,True,0.0,7186,01,3,0,0,E,461,P
+6802,7186_02,Europa,,E/461/P,TRAPPIST-1e,32.0,False,0.0,1369.0,29.0,662.0,22.0,Alpha Mosteraked,False,2082.0,7186,02,3,0,1,E,461,P
+6803,7186_03,Europa,False,E/461/P,TRAPPIST-1e,44.0,False,0.0,0.0,16.0,72.0,4304.0,Weias Mosteraked,False,4392.0,7186,03,3,0,1,E,461,P
+6805,7188_01,Europa,False,C/233/P,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,Muonus Imingle,True,0.0,7188,01,3,0,0,C,233,P
+6806,7188_02,Europa,False,C/233/P,TRAPPIST-1e,28.0,False,0.0,2896.0,46.0,5248.0,8169.0,Taura Imingle,False,16359.0,7188,02,3,0,1,C,233,P
+6807,7188_03,Europa,True,C/233/P,TRAPPIST-1e,27.0,True,0.0,0.0,0.0,0.0,0.0,Halsham Imingle,True,0.0,7188,03,3,0,0,C,233,P
+6830,7219_01,Europa,False,C/235/P,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,Taraid Arible,True,0.0,7219,01,6,0,0,C,235,P
+6831,7219_02,Europa,True,C/235/P,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,Pheino Arible,False,0.0,7219,02,6,0,0,C,235,P
+6832,7219_03,Europa,True,C/235/P,TRAPPIST-1e,64.0,False,0.0,0.0,0.0,0.0,0.0,Dirk Arible,True,0.0,7219,03,6,0,0,C,235,P
+6833,7219_04,Europa,False,,TRAPPIST-1e,24.0,False,0.0,2921.0,5.0,795.0,3155.0,Atinon Arible,False,6876.0,7219,04,6,0,1,,,
+6834,7219_05,Europa,True,C/235/P,TRAPPIST-1e,40.0,False,0.0,0.0,0.0,0.0,0.0,Anchab Arible,True,0.0,7219,05,6,0,0,C,235,P
+6835,7219_06,Europa,False,C/235/P,TRAPPIST-1e,32.0,False,0.0,163.0,0.0,6953.0,50.0,Isoton Arible,False,7166.0,7219,06,6,0,1,C,235,P
+6867,7267_01,Europa,True,C/265/S,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,Tark String,True,0.0,7267,01,2,0,0,C,265,S
+6868,7267_02,Europa,False,C/265/S,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,Chelik String,True,0.0,7267,02,2,0,0,C,265,S
+6883,7290_01,Europa,True,D/227/P,55 Cancri e,32.0,False,0.0,0.0,0.0,0.0,0.0,Cheleon Bruthydre,True,0.0,7290,01,5,0,0,D,227,P
+6884,7290_02,Europa,True,D/227/P,55 Cancri e,35.0,False,0.0,0.0,0.0,0.0,0.0,,True,0.0,7290,02,5,0,0,D,227,P
+6885,7290_03,Europa,True,D/227/P,55 Cancri e,,False,0.0,0.0,0.0,0.0,0.0,Atrino Bruthydre,True,0.0,7290,03,5,0,0,D,227,P
+6886,7290_04,Europa,False,D/227/P,TRAPPIST-1e,36.0,False,83.0,1186.0,0.0,2160.0,736.0,Altara Bruthydre,False,4165.0,7290,04,5,0,1,D,227,P
+6887,7290_05,Europa,False,D/227/P,TRAPPIST-1e,36.0,False,31.0,3585.0,31.0,1400.0,0.0,Suhaino Bruthydre,False,5047.0,7290,05,5,0,1,D,227,P
+6931,7353_01,Europa,False,C/269/S,TRAPPIST-1e,60.0,False,0.0,3435.0,0.0,5458.0,10.0,Gorabba Openduave,False,8903.0,7353,01,3,0,1,C,269,S
+6932,7353_02,Europa,True,C/269/S,TRAPPIST-1e,46.0,False,0.0,0.0,0.0,0.0,0.0,Sularon Openduave,True,0.0,7353,02,3,0,0,C,269,S
+6933,7353_03,Europa,False,,TRAPPIST-1e,58.0,False,0.0,1386.0,2.0,128.0,2577.0,Auvam Openduave,True,4093.0,7353,03,3,0,1,,,
+6939,7361_01,Europa,True,C/239/P,55 Cancri e,23.0,,0.0,0.0,0.0,0.0,0.0,Gieba Rodwative,True,0.0,7361,01,2,0,0,C,239,P
+6940,7361_02,Europa,True,C/239/P,55 Cancri e,41.0,False,0.0,0.0,0.0,0.0,0.0,Genubih Rodwative,True,0.0,7361,02,2,0,0,C,239,P
+6960,7395_01,Europa,True,B/277/S,55 Cancri e,17.0,False,0.0,0.0,0.0,0.0,0.0,Schelik Suasharic,True,0.0,7395,01,4,0,0,B,277,S
+6961,7395_02,Europa,True,B/277/S,TRAPPIST-1e,46.0,False,0.0,0.0,0.0,0.0,0.0,Scellus Suasharic,True,0.0,7395,02,4,0,0,B,277,S
+6962,7395_03,Europa,False,B/277/S,TRAPPIST-1e,38.0,False,4.0,5974.0,0.0,3682.0,197.0,Algeno Suasharic,False,9857.0,7395,03,4,0,1,B,277,S
+6963,7395_04,Europa,False,B/277/S,55 Cancri e,43.0,True,0.0,486.0,0.0,0.0,2470.0,Beten Suasharic,False,2956.0,7395,04,4,0,1,B,277,S
+6964,7396_01,Europa,False,C/271/S,55 Cancri e,28.0,False,6.0,3392.0,3944.0,987.0,0.0,Zibah Queldry,True,8329.0,7396,01,3,0,1,C,271,S
+6965,7396_02,Europa,True,C/271/S,TRAPPIST-1e,31.0,True,0.0,0.0,0.0,0.0,0.0,Muontak Ingent,True,0.0,7396,02,3,0,0,C,271,S
+6966,7396_03,Europa,True,C/271/S,PSO J318.5-22,35.0,False,0.0,0.0,0.0,0.0,0.0,Elerops Monsintic,True,0.0,7396,03,3,0,0,C,271,S
+6970,7402_01,Europa,,C/272/S,TRAPPIST-1e,16.0,False,0.0,1417.0,3.0,27.0,186.0,Wimpha Stioutody,True,1633.0,7402,01,2,0,1,C,272,S
+6971,7402_02,Europa,True,C/272/S,55 Cancri e,45.0,False,0.0,0.0,0.0,0.0,0.0,Mesarid Stioutody,True,0.0,7402,02,2,0,0,C,272,S
+6993,7437_01,Europa,True,B/279/S,55 Cancri e,45.0,False,0.0,0.0,0.0,0.0,0.0,Mesatan Disgul,True,0.0,7437,01,3,0,0,B,279,S
+6994,7437_02,Europa,True,B/279/S,TRAPPIST-1e,47.0,False,0.0,0.0,0.0,0.0,0.0,Kraban Disgul,True,0.0,7437,02,3,0,0,B,279,S
+6995,7437_03,Europa,True,B/279/S,TRAPPIST-1e,60.0,False,0.0,0.0,0.0,0.0,0.0,Sadalm Clumshangs,True,0.0,7437,03,3,0,0,B,279,S
+7006,7452_01,Europa,True,B/281/S,TRAPPIST-1e,48.0,False,0.0,0.0,0.0,0.0,0.0,Dyonon Sloweber,True,0.0,7452,01,3,0,0,B,281,S
+7007,7452_02,Europa,False,B/281/S,55 Cancri e,26.0,False,286.0,3387.0,575.0,213.0,548.0,Mirfark Sloweber,True,5009.0,7452,02,3,0,1,B,281,S
+7008,7452_03,Europa,True,B/281/S,55 Cancri e,36.0,False,0.0,0.0,0.0,,0.0,Aino Sloweber,True,,7452,03,3,0,0,B,281,S
+7045,7503_01,Europa,True,B/283/S,TRAPPIST-1e,26.0,False,,0.0,0.0,0.0,0.0,Achira Capplid,True,,7503,01,2,0,0,B,283,S
+7046,7503_02,Europa,False,B/283/S,TRAPPIST-1e,37.0,False,1577.0,11396.0,0.0,1014.0,560.0,Dabi Capplid,True,14547.0,7503,02,2,0,1,B,283,S
+7064,7518_01,Europa,True,B/246/P,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,Acrabih Droning,True,0.0,7518,01,2,0,0,B,246,P
+7065,7518_02,Europa,False,B/246/P,PSO J318.5-22,32.0,True,2502.0,700.0,1104.0,13902.0,484.0,Aviton Droning,False,18692.0,7518,02,2,0,1,B,246,P
+7072,7525_01,Europa,False,C/279/S,TRAPPIST-1e,27.0,False,390.0,1377.0,0.0,2809.0,4914.0,Canonon Retefule,False,9490.0,7525,01,2,0,1,C,279,S
+7073,7525_02,Europa,True,C/279/S,55 Cancri e,61.0,False,0.0,0.0,0.0,0.0,0.0,Geonev Retefule,True,0.0,7525,02,2,0,0,C,279,S
+7076,7531_01,Europa,True,B/286/S,TRAPPIST-1e,,False,0.0,0.0,0.0,0.0,0.0,Elebara Alindiveng,True,0.0,7531,01,2,0,0,B,286,S
+7077,7531_02,Europa,True,B/286/S,55 Cancri e,15.0,False,0.0,0.0,0.0,0.0,0.0,Ainoxa Alindiveng,True,0.0,7531,02,2,0,0,B,286,S
+7082,7538_01,Europa,False,A/81/P,TRAPPIST-1e,48.0,True,313.0,2864.0,0.0,0.0,12424.0,Achira Uncionted,False,15601.0,7538,01,2,0,1,A,81,P
+7083,7538_02,Europa,False,A/81/P,55 Cancri e,37.0,False,18.0,2669.0,0.0,1229.0,,Marfar Uncionted,False,,7538,02,2,0,0,A,81,P
+7096,7565_01,Europa,False,B/247/P,TRAPPIST-1e,37.0,False,2.0,7272.0,0.0,50.0,1282.0,Zaurion Praded,True,8606.0,7565,01,4,0,1,B,247,P
+7097,7565_02,Europa,True,B/247/P,55 Cancri e,17.0,False,0.0,0.0,,0.0,0.0,Thaban Praded,True,,7565,02,4,0,0,B,247,P
+7098,7565_03,Europa,False,B/247/P,55 Cancri e,25.0,False,0.0,772.0,0.0,125.0,5913.0,Matark Praded,False,6810.0,7565,03,4,0,1,B,247,P
+7099,7565_04,Europa,False,B/247/P,TRAPPIST-1e,9.0,False,0.0,0.0,0.0,0.0,0.0,Alphah Praded,True,0.0,7565,04,4,0,0,B,247,P
+7107,7576_01,Europa,False,D/239/P,TRAPPIST-1e,23.0,False,30.0,2237.0,1.0,49.0,52.0,Mergas Alenat,True,2369.0,7576,01,2,0,1,D,239,P
+7108,7576_02,Europa,False,D/239/P,TRAPPIST-1e,39.0,False,2.0,530.0,0.0,,1360.0,Skyrmak Alenat,False,,7576,02,2,0,0,D,239,P
+7114,7584_01,Europa,,B/288/S,,19.0,False,0.0,0.0,0.0,0.0,0.0,Arrain Swingse,True,0.0,7584,01,3,0,0,B,288,S
+7115,7584_02,Europa,True,B/288/S,TRAPPIST-1e,59.0,False,0.0,0.0,0.0,0.0,0.0,Sterfik Swingse,True,0.0,7584,02,3,0,0,B,288,S
+7117,7585_01,Europa,True,C/281/S,55 Cancri e,31.0,False,0.0,0.0,0.0,0.0,0.0,Suhaino Admingried,True,0.0,7585,01,4,0,0,C,281,S
+7118,7585_02,Europa,False,C/281/S,TRAPPIST-1e,39.0,,8209.0,18.0,432.0,3560.0,54.0,Azhasim Admingried,False,12273.0,7585,02,4,0,1,C,281,S
+7119,7585_03,Europa,False,C/281/S,TRAPPIST-1e,28.0,False,0.0,2674.0,1309.0,18.0,11.0,Unukath Admingried,True,4012.0,7585,03,4,0,1,C,281,S
+7120,7585_04,Europa,True,C/281/S,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,Chard Admingried,True,0.0,7585,04,4,0,0,C,281,S
+7127,7596_01,Europa,True,C/283/S,55 Cancri e,40.0,False,0.0,0.0,0.0,0.0,0.0,Polaton Fralledic,True,0.0,7596,01,2,0,0,C,283,S
+7128,7596_02,Europa,True,C/283/S,TRAPPIST-1e,56.0,False,0.0,0.0,0.0,0.0,0.0,,True,0.0,7596,02,2,0,0,C,283,S
+7137,7609_01,Europa,False,A/83/P,55 Cancri e,40.0,True,0.0,21.0,0.0,1503.0,1392.0,Astorux Reeddommy,False,2916.0,7609,01,2,0,1,A,83,P
+7138,7609_02,Europa,True,A/83/P,TRAPPIST-1e,39.0,False,0.0,0.0,0.0,0.0,0.0,Sabiton Reeddommy,True,0.0,7609,02,2,0,0,A,83,P
+7161,7643_01,Europa,False,C/247/P,55 Cancri e,53.0,False,8.0,1489.0,0.0,2723.0,7401.0,Alar Quelfly,False,11621.0,7643,01,2,0,1,C,247,P
+7162,7643_02,Europa,True,C/247/P,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,Terion Quelfly,True,0.0,7643,02,2,0,0,C,247,P
+7164,7646_01,Europa,False,C/285/S,55 Cancri e,25.0,False,0.0,16016.0,1025.0,189.0,1037.0,Azim Sometery,True,18267.0,7646,01,3,0,1,C,285,S
+7165,7646_02,Europa,False,C/285/S,55 Cancri e,44.0,True,3010.0,26.0,0.0,62.0,904.0,Mahamak Sometery,False,4002.0,7646,02,3,0,1,C,285,S
+7166,7646_03,Europa,False,C/285/S,55 Cancri e,24.0,False,145.0,4224.0,0.0,5.0,61.0,Alwaide Sometery,True,4435.0,7646,03,3,0,1,C,285,S
+7199,7693_01,Europa,False,B/252/P,TRAPPIST-1e,36.0,False,0.0,2979.0,0.0,68.0,347.0,Cherrak Roftfuling,True,3394.0,7693,01,2,0,1,B,252,P
+7200,7693_02,Europa,False,B/252/P,TRAPPIST-1e,40.0,False,0.0,0.0,0.0,0.0,0.0,Enibah Roftfuling,True,0.0,7693,02,2,0,0,B,252,P
+7204,7697_01,Europa,,B/295/S,TRAPPIST-1e,41.0,False,0.0,0.0,0.0,0.0,0.0,Naosura Fusimodent,True,0.0,7697,01,2,0,0,B,295,S
+7205,7697_02,Europa,True,B/295/S,55 Cancri e,25.0,False,0.0,0.0,0.0,0.0,0.0,Grumak Fusimodent,True,0.0,7697,02,2,0,0,B,295,S
+7242,7744_01,Europa,False,B/298/S,TRAPPIST-1e,19.0,False,0.0,4534.0,0.0,617.0,1156.0,Weznif Prearright,False,6307.0,7744,01,2,0,1,B,298,S
+7243,7744_02,Europa,True,B/298/S,TRAPPIST-1e,39.0,False,0.0,0.0,0.0,0.0,0.0,Axinon Prearright,True,0.0,7744,02,2,0,0,B,298,S
+7246,7748_01,Europa,False,A/94/S,TRAPPIST-1e,44.0,False,18.0,1451.0,0.0,279.0,64.0,Alamin Obsentork,False,1812.0,7748,01,2,0,1,A,94,S
+7247,7748_02,Europa,False,A/94/S,TRAPPIST-1e,39.0,True,0.0,395.0,0.0,1012.0,1080.0,Almino Obsentork,False,2487.0,7748,02,2,0,1,A,94,S
+7255,7757_01,Europa,True,B/300/S,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,Muonons Lowerrudy,True,0.0,7757,01,2,0,0,B,300,S
+7256,7757_02,Europa,False,B/300/S,TRAPPIST-1e,43.0,False,0.0,8948.0,0.0,153.0,872.0,Dyonevi Capplid,True,9973.0,7757,02,2,0,1,B,300,S
+7276,7782_01,Europa,False,C/291/S,55 Cancri e,33.0,False,0.0,73.0,31.0,8493.0,9065.0,Maiah Pickleve,False,17662.0,7782,01,2,0,1,C,291,S
+7277,7782_02,Europa,False,C/291/S,TRAPPIST-1e,28.0,False,0.0,180.0,0.0,778.0,4973.0,Azhasim Pickleve,False,5931.0,7782,02,2,0,1,C,291,S
+7282,7787_01,Europa,False,B/301/S,55 Cancri e,39.0,False,258.0,1541.0,0.0,,621.0,Polari Cousel,False,,7787,01,2,0,0,B,301,S
+7283,7787_02,Europa,True,,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,Sular Cousel,True,0.0,7787,02,2,0,0,,,
+7319,7833_01,Europa,False,B/305/S,55 Cancri e,34.0,False,0.0,3424.0,6.0,2445.0,1128.0,Ainkard Spandisket,False,7003.0,7833,01,2,0,1,B,305,S
+7320,7833_02,Europa,False,B/305/S,TRAPPIST-1e,34.0,False,11.0,3299.0,0.0,1013.0,15.0,Altan Spandisket,True,4338.0,7833,02,2,0,1,B,305,S
+7323,7837_01,Europa,True,B/306/S,55 Cancri e,44.0,False,0.0,0.0,0.0,0.0,0.0,Taurah Kiling,True,0.0,7837,01,2,0,0,B,306,S
+7324,7837_02,Europa,True,B/306/S,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,Caphird Kiling,True,0.0,7837,02,2,0,0,B,306,S
+7350,7865_01,Europa,True,C/293/S,PSO J318.5-22,30.0,False,0.0,0.0,0.0,0.0,0.0,Celava Secont,True,0.0,7865,01,3,0,0,C,293,S
+7351,7865_02,Europa,True,C/293/S,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,0.0,Kaffias Secont,True,0.0,7865,02,3,0,0,C,293,S
+7352,7865_03,Europa,True,C/293/S,55 Cancri e,41.0,False,0.0,0.0,0.0,0.0,0.0,Meratzn Secont,True,0.0,7865,03,3,0,0,C,293,S
+7398,7905_01,Europa,False,C/296/S,TRAPPIST-1e,31.0,False,0.0,87.0,0.0,2263.0,224.0,Zinor Axlentindy,False,2574.0,7905,01,3,0,1,C,296,S
+7399,7905_02,Europa,True,C/296/S,TRAPPIST-1e,48.0,False,0.0,0.0,0.0,,0.0,Menkibi Axlentindy,True,,7905,02,3,0,0,C,296,S
+7400,7905_03,Europa,False,C/296/S,55 Cancri e,26.0,,1432.0,1283.0,0.0,178.0,5034.0,Meram Axlentindy,False,7927.0,7905,03,3,0,1,C,296,S
+7421,7937_01,Europa,False,D/229/S,TRAPPIST-1e,36.0,False,0.0,9532.0,0.0,2326.0,461.0,Misadr Skessid,False,12319.0,7937,01,2,0,1,D,229,S
+7422,7937_02,Europa,True,D/229/S,55 Cancri e,30.0,False,0.0,0.0,0.0,0.0,0.0,Sarino Skessid,True,0.0,7937,02,2,0,0,D,229,S
+7426,7943_01,Europa,True,B/258/P,55 Cancri e,16.0,False,0.0,0.0,0.0,0.0,0.0,Meratz Spedlybood,True,0.0,7943,01,2,0,0,B,258,P
+7427,7943_02,Europa,False,B/258/P,PSO J318.5-22,36.0,True,2.0,6504.0,0.0,98.0,4.0,Eleb Spedlybood,True,6608.0,7943,02,2,0,1,B,258,P
+7428,7944_01,Europa,False,D/230/S,TRAPPIST-1e,15.0,False,31.0,804.0,1.0,4732.0,2577.0,Achira Reewerpic,False,8145.0,7944,01,2,0,1,D,230,S
+7429,7944_02,Europa,True,D/230/S,TRAPPIST-1e,39.0,False,0.0,0.0,0.0,0.0,0.0,Alarkab Reewerpic,True,0.0,7944,02,2,0,0,D,230,S
+7449,7972_01,Europa,True,B/260/P,55 Cancri e,33.0,False,0.0,0.0,0.0,0.0,0.0,Hadlam Cattyried,True,0.0,7972,01,2,0,0,B,260,P
+7450,7972_02,Europa,False,B/260/P,TRAPPIST-1e,35.0,False,,246.0,25.0,42.0,3730.0,Atinon Cattyried,False,,7972,02,2,0,0,B,260,P
+7452,7974_01,Europa,False,C/259/P,TRAPPIST-1e,27.0,False,0.0,2318.0,1127.0,2423.0,115.0,Azim Geatenth,False,5983.0,7974,01,2,0,1,C,259,P
+7453,7974_02,Europa,False,C/259/P,TRAPPIST-1e,,False,0.0,36.0,89.0,948.0,927.0,Ionon Geatenth,False,2000.0,7974,02,2,0,1,C,259,P
+7457,7982_01,Europa,True,B/261/P,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,0.0,,False,0.0,7982,01,2,0,0,B,261,P
+7458,7982_02,Europa,True,B/261/P,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,Alrair Bealvewd,True,0.0,7982,02,2,0,0,B,261,P
+7470,7993_01,Europa,True,A/96/S,TRAPPIST-1e,40.0,False,0.0,0.0,0.0,0.0,0.0,Alphact Frakepeed,True,0.0,7993,01,2,0,0,A,96,S
+7471,7993_02,Europa,True,A/96/S,55 Cancri e,47.0,True,0.0,0.0,0.0,0.0,0.0,Dyonon Frakepeed,True,0.0,7993,02,2,0,0,A,96,S
+7491,8015_01,Europa,,B/315/S,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,,Kitauon Pulgaly,True,,8015,01,3,0,0,B,315,S
+7492,8015_02,Europa,False,B/315/S,TRAPPIST-1e,36.0,False,0.0,244.0,0.0,5432.0,2302.0,Duhrkab Fansty,False,7978.0,8015,02,3,0,1,B,315,S
+7493,8015_03,Europa,True,B/315/S,55 Cancri e,32.0,False,0.0,0.0,0.0,0.0,0.0,Achbah Fansty,True,0.0,8015,03,3,0,0,B,315,S
+7499,8023_01,Europa,False,D/249/P,TRAPPIST-1e,14.0,False,0.0,4545.0,271.0,199.0,1377.0,Cella Mallisly,True,6392.0,8023,01,2,0,1,D,249,P
+7500,8023_02,Europa,True,D/249/P,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,Auvara Mallisly,True,0.0,8023,02,2,0,0,D,249,P
+7509,8032_01,Europa,True,A/85/P,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,Atonib Couresteer,True,0.0,8032,01,2,0,0,A,85,P
+7510,8032_02,Europa,True,A/85/P,,40.0,False,0.0,0.0,0.0,0.0,0.0,Alasym Couresteer,True,0.0,8032,02,2,0,0,A,85,P
+7517,8038_01,Europa,True,C/301/S,55 Cancri e,,False,0.0,0.0,0.0,0.0,0.0,Alsha Gocent,True,0.0,8038,01,2,0,0,C,301,S
+7518,8038_02,Europa,True,C/301/S,55 Cancri e,26.0,False,0.0,0.0,0.0,0.0,0.0,Asellab Gocent,True,0.0,8038,02,2,0,0,C,301,S
+7520,8043_01,Europa,False,A/97/S,55 Cancri e,45.0,False,5.0,17901.0,0.0,79.0,281.0,Hadalm Oppont,True,18266.0,8043,01,4,0,1,A,97,S
+7521,8043_02,Europa,False,A/97/S,TRAPPIST-1e,29.0,,0.0,1408.0,0.0,408.0,1.0,Aldun Fanseld,True,1817.0,8043,02,4,0,1,A,97,S
+7522,8043_03,Europa,False,A/97/S,TRAPPIST-1e,39.0,True,1.0,392.0,64.0,148.0,1367.0,Alcorix Fanseld,True,1972.0,8043,03,4,0,1,A,97,S
+7523,8043_04,Europa,True,A/97/S,55 Cancri e,37.0,False,0.0,0.0,0.0,0.0,0.0,Sinon Fanseld,True,0.0,8043,04,4,0,0,A,97,S
+7534,8056_01,Europa,False,C/262/P,TRAPPIST-1e,54.0,False,0.0,793.0,0.0,87.0,1567.0,Ionium Ausivetpul,False,2447.0,8056,01,2,0,1,C,262,P
+7535,8056_02,Europa,False,C/262/P,TRAPPIST-1e,28.0,False,40.0,9012.0,0.0,111.0,551.0,Marrai Ausivetpul,True,9714.0,8056,02,2,0,1,C,262,P
+7536,8057_01,Europa,True,B/267/P,TRAPPIST-1e,65.0,False,0.0,0.0,0.0,0.0,0.0,Wimplas Sersocatic,True,0.0,8057,01,2,0,0,B,267,P
+7537,8057_02,Europa,True,B/267/P,55 Cancri e,26.0,False,0.0,0.0,0.0,0.0,0.0,Algor Sersocatic,True,0.0,8057,02,2,0,0,B,267,P
+7551,8072_01,Europa,True,D/236/S,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,Mareson Prombled,True,0.0,8072,01,2,0,0,D,236,S
+7552,8072_02,Europa,False,D/236/S,55 Cancri e,35.0,False,0.0,5500.0,0.0,180.0,3173.0,Arin Prombled,False,8853.0,8072,02,2,0,1,D,236,S
+7554,8076_01,Europa,False,C/263/P,55 Cancri e,43.0,False,1.0,2060.0,,1.0,2764.0,Menkibi Emetillove,False,,8076,01,2,0,0,C,263,P
+7555,8076_02,Europa,False,C/263/P,55 Cancri e,29.0,False,2686.0,0.0,0.0,2854.0,2553.0,Achbah Emetillove,False,8093.0,8076,02,2,0,1,C,263,P
+7571,8092_01,Europa,False,D/238/S,TRAPPIST-1e,31.0,False,0.0,4655.0,135.0,2075.0,402.0,Mintard Pulgaly,True,7267.0,8092,01,3,0,1,D,238,S
+7572,8092_02,Europa,True,D/238/S,55 Cancri e,33.0,True,0.0,,0.0,0.0,0.0,Hekabih Pulgaly,True,,8092,02,3,0,0,D,238,S
+7573,8092_03,Europa,False,D/238/S,TRAPPIST-1e,41.0,False,0.0,3216.0,0.0,433.0,517.0,Sterfik Pulgaly,False,4166.0,8092,03,3,0,1,D,238,S
+7576,8098_01,Europa,False,B/269/P,TRAPPIST-1e,69.0,True,0.0,269.0,0.0,190.0,9033.0,Ariton Mosteraked,False,9492.0,8098,01,4,0,1,B,269,P
+7577,8098_02,Europa,False,B/269/P,55 Cancri e,44.0,False,9.0,2311.0,0.0,633.0,1.0,Quarkib Mosteraked,True,2954.0,8098,02,4,0,1,B,269,P
+7578,8098_03,Europa,True,B/269/P,55 Cancri e,18.0,False,0.0,,0.0,0.0,0.0,Minkark Mosteraked,True,,8098,03,4,0,0,B,269,P
+7579,8098_04,Europa,False,B/269/P,55 Cancri e,26.0,False,0.0,11598.0,0.0,3.0,386.0,Hasim Mosteraked,True,11987.0,8098,04,4,0,1,B,269,P
+7587,8115_01,Europa,True,B/318/S,TRAPPIST-1e,31.0,False,0.0,0.0,0.0,0.0,0.0,Phecca Prieress,True,0.0,8115,01,2,0,0,B,318,S
+7588,8115_02,Europa,True,B/318/S,TRAPPIST-1e,40.0,False,0.0,0.0,0.0,0.0,0.0,Eltais Prieress,True,0.0,8115,02,2,0,0,B,318,S
+7590,8117_01,Europa,True,B/319/S,TRAPPIST-1e,17.0,False,0.0,0.0,0.0,0.0,0.0,Diram Pernised,True,0.0,8117,01,3,0,0,B,319,S
+7591,8117_02,Europa,False,B/319/S,TRAPPIST-1e,24.0,False,0.0,809.0,0.0,4928.0,143.0,Caiamin Pernised,False,5880.0,8117,02,3,0,1,B,319,S
+7592,8117_03,Europa,True,B/319/S,55 Cancri e,54.0,,0.0,0.0,0.0,0.0,0.0,Rasalm Pernised,True,0.0,8117,03,3,0,0,B,319,S
+7599,8122_01,Europa,False,C/302/S,55 Cancri e,58.0,False,0.0,226.0,0.0,5481.0,,Sadiram Coning,False,,8122,01,3,0,0,C,302,S
+7600,8122_02,Europa,False,C/302/S,TRAPPIST-1e,37.0,False,79.0,218.0,0.0,442.0,659.0,Arkaban Coning,True,1398.0,8122,02,3,0,1,C,302,S
+7601,8122_03,Europa,False,C/302/S,TRAPPIST-1e,26.0,False,0.0,13.0,0.0,3803.0,3557.0,Gemmark Coning,False,7373.0,8122,03,3,0,1,C,302,S
+7616,8136_01,Europa,True,C/268/P,55 Cancri e,26.0,False,0.0,0.0,0.0,0.0,0.0,Alphact Inderad,True,0.0,8136,01,2,0,0,C,268,P
+7617,8136_02,Europa,False,C/268/P,TRAPPIST-1e,60.0,False,0.0,5998.0,0.0,4794.0,8.0,Achium Inderad,False,10800.0,8136,02,2,0,1,C,268,P
+7624,8144_01,Europa,True,B/270/P,55 Cancri e,45.0,False,0.0,0.0,0.0,0.0,0.0,Graston Donotaked,True,0.0,8144,01,4,0,0,B,270,P
+7625,8144_02,Europa,False,B/270/P,TRAPPIST-1e,13.0,False,0.0,3680.0,0.0,1529.0,3854.0,Marfar Chsere,False,9063.0,8144,02,4,0,1,B,270,P
+7626,8144_03,Europa,False,B/270/P,TRAPPIST-1e,28.0,False,0.0,3317.0,77.0,0.0,130.0,Muonus Chsere,True,3524.0,8144,03,4,0,1,B,270,P
+7627,8144_04,Europa,False,B/270/P,TRAPPIST-1e,5.0,False,0.0,0.0,0.0,0.0,0.0,Dhena Donotaked,True,0.0,8144,04,4,0,0,B,270,P
+7680,8202_01,Europa,False,C/306/S,TRAPPIST-1e,4.0,False,0.0,,0.0,,0.0,Ainons Unkcatted,True,,8202,01,6,0,0,C,306,S
+7681,8202_02,Europa,False,C/306/S,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,Brak Unkcatted,True,0.0,8202,02,6,0,0,C,306,S
+7683,8202_04,Europa,False,C/306/S,TRAPPIST-1e,39.0,False,19.0,3603.0,0.0,421.0,517.0,Nasliak Unkcatted,True,4560.0,8202,04,6,0,1,C,306,S
+7684,8202_05,Europa,False,C/306/S,55 Cancri e,36.0,False,0.0,8151.0,5.0,0.0,8182.0,Bottom Unkcatted,False,16338.0,8202,05,6,0,1,C,306,S
+7685,8202_06,Europa,True,C/306/S,TRAPPIST-1e,53.0,False,0.0,0.0,0.0,0.0,0.0,Sinon Unkcatted,True,0.0,8202,06,6,0,0,C,306,S
+7686,8203_01,Europa,False,C/307/S,55 Cancri e,23.0,False,0.0,395.0,0.0,6.0,,Altan Pernised,False,,8203,01,2,0,0,C,307,S
+7687,8203_02,Europa,True,C/307/S,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,Geno Pernised,True,0.0,8203,02,2,0,0,C,307,S
+7688,8204_01,Europa,False,E/541/S,TRAPPIST-1e,25.0,False,0.0,1003.0,1629.0,73.0,748.0,Krazet Distured,False,3453.0,8204,01,2,0,1,E,541,S
+7689,8204_02,Europa,False,E/541/S,TRAPPIST-1e,30.0,False,209.0,157.0,2566.0,171.0,472.0,Terion Distured,False,3575.0,8204,02,2,0,1,E,541,S
+7747,8268_01,Europa,True,B/321/S,TRAPPIST-1e,40.0,False,0.0,0.0,0.0,0.0,0.0,Astrark Impress,True,0.0,8268,01,2,0,0,B,321,S
+7748,8268_02,Europa,False,B/321/S,TRAPPIST-1e,19.0,False,0.0,3.0,0.0,918.0,2346.0,Shatrix Impress,False,3267.0,8268,02,2,0,1,B,321,S
+7756,8276_01,Europa,,C/273/P,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,Canons Oirmplathy,True,0.0,8276,01,2,0,0,C,273,P
+7757,8276_02,Europa,True,C/273/P,TRAPPIST-1e,23.0,False,0.0,0.0,0.0,0.0,0.0,Zaurion Tractive,True,0.0,8276,02,2,0,0,C,273,P
+7781,8307_01,Europa,False,A/100/S,55 Cancri e,27.0,True,0.0,1337.0,1929.0,0.0,0.0,Porrimp Unkcal,True,3266.0,8307,01,2,0,1,A,100,S
+7782,8307_02,Europa,True,A/100/S,TRAPPIST-1e,34.0,False,0.0,0.0,0.0,0.0,0.0,Sabiton Unkcal,True,0.0,8307,02,2,0,0,A,100,S
+7785,8314_01,Europa,False,D/245/S,TRAPPIST-1e,30.0,False,0.0,640.0,0.0,31.0,6201.0,Altairk Folumorly,False,6872.0,8314,01,2,0,1,D,245,S
+7797,8322_01,Europa,False,,PSO J318.5-22,45.0,True,,49.0,0.0,4864.0,3902.0,Hamelik Briouse,False,,8322,01,2,0,0,,,
+7813,8339_01,Europa,False,D/246/S,TRAPPIST-1e,39.0,False,0.0,261.0,,1831.0,1797.0,Markton Dratembid,False,,8339,01,2,0,0,D,246,S
+7814,8339_02,Europa,,D/246/S,TRAPPIST-1e,22.0,False,0.0,3716.0,0.0,1098.0,2065.0,Eleb Dratembid,False,6879.0,8339,02,2,0,1,D,246,S
+7816,8342_01,Europa,False,E/548/S,TRAPPIST-1e,48.0,False,0.0,,0.0,408.0,293.0,Tach Sprender,True,,8342,01,3,0,0,E,548,S
+7817,8342_02,Europa,True,E/548/S,TRAPPIST-1e,33.0,False,0.0,0.0,0.0,0.0,0.0,Skatik Sprender,True,0.0,8342,02,3,0,0,E,548,S
+7818,8342_03,Europa,False,E/548/S,55 Cancri e,37.0,False,0.0,2215.0,2.0,1294.0,274.0,Aldera Sprender,False,3785.0,8342,03,3,0,1,E,548,S
+7826,8354_01,Europa,True,B/323/S,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,Phargak Springht,True,0.0,8354,01,2,0,0,B,323,S
+7827,8354_02,Europa,True,B/323/S,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,Mino Springht,True,0.0,8354,02,2,0,0,B,323,S
+7829,8360_01,Europa,True,B/326/S,TRAPPIST-1e,17.0,False,0.0,0.0,0.0,0.0,0.0,Okulas Valousead,True,0.0,8360,01,2,0,0,B,326,S
+7830,8360_02,Europa,True,B/326/S,TRAPPIST-1e,31.0,False,0.0,,0.0,0.0,0.0,Hekab Valousead,True,,8360,02,2,0,0,B,326,S
+7832,8363_01,Europa,False,A/101/S,55 Cancri e,25.0,False,0.0,1673.0,0.0,642.0,612.0,Shail Crelaxle,False,2927.0,8363,01,2,0,1,A,101,S
+7833,8363_02,Europa,False,A/101/S,TRAPPIST-1e,26.0,False,0.0,690.0,1.0,1030.0,2273.0,Dira Crelaxle,False,3994.0,8363,02,2,0,1,A,101,S
+7871,8398_01,Europa,True,B/329/S,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,Asch Stradick,True,0.0,8398,01,2,0,0,B,329,S
+7872,8398_02,Europa,True,B/329/S,,41.0,False,0.0,0.0,0.0,0.0,0.0,Aldus Stradick,True,0.0,8398,02,2,0,0,B,329,S
+7885,8418_01,Europa,True,B/330/S,55 Cancri e,13.0,False,0.0,0.0,0.0,0.0,0.0,Diram Baleful,True,0.0,8418,01,2,0,0,B,330,S
+7886,8418_02,Europa,False,B/330/S,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,206.0,2684.0,Maiah Baleful,False,2890.0,8418,02,2,0,1,B,330,S
+7895,8431_01,Europa,True,B/277/P,55 Cancri e,24.0,False,0.0,0.0,0.0,0.0,0.0,Alcorab Myling,True,0.0,8431,01,2,0,0,B,277,P
+7896,8431_02,Europa,,B/277/P,55 Cancri e,26.0,False,1.0,4680.0,25.0,564.0,13.0,Zinoces Myling,False,5283.0,8431,02,2,0,1,B,277,P
+7906,8449_01,Europa,False,C/317/S,55 Cancri e,32.0,False,0.0,2154.0,0.0,9655.0,859.0,Arrain Purellliss,False,12668.0,8449,01,2,0,1,C,317,S
+7907,8449_02,Europa,False,C/317/S,TRAPPIST-1e,50.0,False,0.0,3070.0,0.0,44.0,562.0,Sarino Purellliss,True,3676.0,8449,02,2,0,1,C,317,S
+7910,8452_01,Europa,False,C/279/P,55 Cancri e,52.0,True,0.0,831.0,1536.0,0.0,7953.0,Alraia Voliat,False,10320.0,8452,01,4,0,1,C,279,P
+7911,8452_02,Europa,True,C/279/P,TRAPPIST-1e,34.0,False,0.0,0.0,0.0,0.0,0.0,Jabbab Voliat,True,0.0,8452,02,4,0,0,C,279,P
+7912,8452_03,Europa,True,C/279/P,55 Cancri e,40.0,False,0.0,0.0,0.0,0.0,0.0,Atrino Voliat,True,0.0,8452,03,4,0,0,C,279,P
+7913,8452_04,Europa,False,C/279/P,TRAPPIST-1e,36.0,False,0.0,1055.0,18.0,1669.0,49.0,Muonon Voliat,True,2791.0,8452,04,4,0,1,C,279,P
+7917,8458_01,Europa,False,C/319/S,55 Cancri e,57.0,False,0.0,4301.0,31.0,665.0,6329.0,Atonea Sempreate,False,11326.0,8458,01,6,0,1,C,319,S
+7918,8458_02,Europa,True,C/319/S,55 Cancri e,24.0,False,0.0,0.0,0.0,0.0,0.0,Canon Sempreate,True,0.0,8458,02,6,0,0,C,319,S
+7919,8458_03,Europa,True,C/319/S,55 Cancri e,19.0,False,0.0,0.0,0.0,0.0,0.0,Etamino Sempreate,True,0.0,8458,03,6,0,0,C,319,S
+7920,8458_04,Europa,True,C/319/S,TRAPPIST-1e,54.0,False,0.0,0.0,0.0,0.0,0.0,Tachib Sempreate,True,0.0,8458,04,6,0,0,C,319,S
+7921,8458_05,Europa,False,C/319/S,TRAPPIST-1e,28.0,False,1004.0,2423.0,0.0,0.0,17.0,Hezenif Sempreate,True,3444.0,8458,05,6,0,1,C,319,S
+7922,8458_06,Europa,False,C/319/S,TRAPPIST-1e,26.0,True,1.0,5610.0,0.0,5.0,119.0,Minopus Bealvewd,True,5735.0,8458,06,6,0,1,C,319,S
+7937,8475_01,Europa,False,B/331/S,55 Cancri e,49.0,False,0.0,2808.0,1083.0,110.0,1132.0,Sadares Aindlylid,False,5133.0,8475,01,2,0,1,B,331,S
+7938,8475_02,Europa,False,B/331/S,55 Cancri e,21.0,False,2.0,4887.0,64.0,4952.0,1734.0,Shellum Aindlylid,False,11639.0,8475,02,2,0,1,B,331,S
+7957,8503_01,Europa,False,B/279/P,TRAPPIST-1e,48.0,False,3784.0,917.0,146.0,1770.0,880.0,Izaron Coweboded,False,7497.0,8503,01,3,0,1,B,279,P
+7958,8503_02,Europa,False,B/279/P,TRAPPIST-1e,31.0,False,0.0,529.0,0.0,,3884.0,Keidus Coweboded,False,,8503,02,3,0,0,B,279,P
+7959,8503_03,Europa,True,B/279/P,55 Cancri e,18.0,False,0.0,0.0,0.0,0.0,0.0,Tabdhib Coweboded,True,0.0,8503,03,3,0,0,B,279,P
+7995,8556_01,Europa,False,B/280/P,TRAPPIST-1e,18.0,False,0.0,1878.0,0.0,18572.0,10028.0,Mirfar Optionful,False,30478.0,8556,01,2,0,1,B,280,P
+7996,8556_02,Europa,False,B/280/P,55 Cancri e,25.0,True,0.0,3978.0,0.0,266.0,597.0,Sadard Optionful,True,4841.0,8556,02,2,0,1,B,280,P
+7997,8557_01,Europa,True,B/334/S,TRAPPIST-1e,39.0,False,0.0,0.0,0.0,0.0,0.0,Cheleon Swingse,True,0.0,8557,01,2,0,0,B,334,S
+7998,8557_02,Europa,True,B/334/S,55 Cancri e,40.0,False,0.0,0.0,0.0,0.0,0.0,Golaran Swingse,True,0.0,8557,02,2,0,0,B,334,S
+8018,8581_01,Europa,True,C/323/S,TRAPPIST-1e,25.0,True,0.0,0.0,0.0,0.0,0.0,Kitauva Fawnsive,True,0.0,8581,01,2,0,0,C,323,S
+8019,8581_02,Europa,True,C/323/S,TRAPPIST-1e,33.0,False,0.0,0.0,0.0,0.0,0.0,Mesatz Meplel,True,0.0,8581,02,2,0,0,C,323,S
+8029,8596_01,Europa,True,C/284/P,TRAPPIST-1e,44.0,False,0.0,0.0,0.0,0.0,0.0,Aldah Healted,True,0.0,8596,01,2,0,0,C,284,P
+8030,8596_02,Europa,True,C/284/P,55 Cancri e,25.0,False,0.0,0.0,0.0,0.0,0.0,Menchah Healted,True,0.0,8596,02,2,0,0,C,284,P
+8042,8605_01,Europa,False,C/324/S,TRAPPIST-1e,67.0,False,0.0,82.0,0.0,2279.0,293.0,Suhain Netshaless,False,2654.0,8605,01,5,0,1,C,324,S
+8043,8605_02,Europa,True,,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,Mera Netshaless,True,0.0,8605,02,5,0,0,,,
+8044,8605_03,Europa,True,C/324/S,55 Cancri e,13.0,,0.0,0.0,0.0,0.0,0.0,Spuri Netshaless,True,0.0,8605,03,5,0,0,C,324,S
+8045,8605_04,Europa,False,C/324/S,TRAPPIST-1e,26.0,False,0.0,226.0,0.0,436.0,4051.0,Aldibah Netshaless,False,4713.0,8605,04,5,0,1,C,324,S
+8046,8605_05,Europa,True,C/324/S,55 Cancri e,33.0,False,0.0,0.0,0.0,0.0,0.0,Pleion Netshaless,True,0.0,8605,05,5,0,0,C,324,S
+8062,8618_01,Europa,False,B/336/S,55 Cancri e,18.0,False,0.0,694.0,0.0,0.0,1370.0,Hallux Resendent,False,2064.0,8618,01,2,0,1,B,336,S
+8063,8618_02,Europa,True,B/336/S,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,Jihonon Resendent,True,0.0,8618,02,2,0,0,B,336,S
+8094,8646_01,Europa,True,C/325/S,TRAPPIST-1e,48.0,False,0.0,0.0,0.0,0.0,0.0,Neutrak Vertfull,True,0.0,8646,01,4,0,0,C,325,S
+8095,8646_02,Europa,False,C/325/S,TRAPPIST-1e,32.0,False,0.0,1285.0,0.0,3030.0,334.0,Enifik Vertfull,False,4649.0,8646,02,4,0,1,C,325,S
+8096,8646_03,Europa,True,C/325/S,TRAPPIST-1e,55.0,False,0.0,0.0,0.0,0.0,0.0,Atonon Vertfull,True,0.0,8646,03,4,0,0,C,325,S
+8097,8646_04,Europa,False,C/325/S,55 Cancri e,49.0,False,3.0,1108.0,2.0,5775.0,1964.0,Chamark Vertfull,False,8852.0,8646,04,4,0,1,C,325,S
+8101,8656_01,Europa,False,A/103/S,TRAPPIST-1e,29.0,False,0.0,4455.0,0.0,1663.0,4435.0,Antinon Imparmle,False,10553.0,8656,01,3,0,1,A,103,S
+8102,8656_02,Europa,False,A/103/S,55 Cancri e,38.0,True,0.0,1298.0,0.0,1841.0,1547.0,Almino Rotter,False,4686.0,8656,02,3,0,1,A,103,S
+8103,8656_03,Europa,True,A/103/S,55 Cancri e,29.0,True,0.0,0.0,0.0,0.0,0.0,Eltares Imparmle,True,0.0,8656,03,3,0,0,A,103,S
+8153,8719_01,Europa,False,A/104/S,TRAPPIST-1e,33.0,True,0.0,3076.0,0.0,3.0,994.0,Naslon Invebodene,False,4073.0,8719,01,3,0,1,A,104,S
+8154,8719_02,Europa,False,A/104/S,55 Cancri e,54.0,False,0.0,1821.0,2370.0,949.0,46.0,Astrak Alcemblery,False,5186.0,8719,02,3,0,1,A,104,S
+8155,8719_03,Europa,,A/104/S,55 Cancri e,20.0,False,0.0,0.0,0.0,0.0,0.0,Edaron Invebodene,True,0.0,8719,03,3,0,0,A,104,S
+8170,8729_01,Europa,False,E/559/P,TRAPPIST-1e,66.0,False,354.0,2639.0,0.0,1180.0,0.0,Alhaino Rewmid,False,4173.0,8729,01,2,0,1,E,559,P
+8171,8729_02,Europa,False,E/559/P,TRAPPIST-1e,20.0,False,,7759.0,18.0,4925.0,12685.0,Charda Rewmid,False,,8729,02,2,0,0,E,559,P
+8178,8741_01,Europa,True,A/91/P,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,Neutrak Alaring,True,0.0,8741,01,3,0,0,A,91,P
+8179,8741_02,Europa,False,A/91/P,55 Cancri e,49.0,False,0.0,3853.0,0.0,245.0,178.0,Grasath Alaring,True,4276.0,8741,02,3,0,1,A,91,P
+8180,8741_03,Europa,False,A/91/P,TRAPPIST-1e,49.0,False,4.0,44.0,1401.0,1043.0,0.0,Hyaduma Stichseary,False,2492.0,8741,03,3,0,1,A,91,P
+8208,8772_01,Europa,True,B/339/S,55 Cancri e,15.0,False,0.0,0.0,0.0,0.0,0.0,,True,0.0,8772,01,2,0,0,B,339,S
+8209,8772_02,Europa,False,,55 Cancri e,53.0,False,0.0,1127.0,0.0,3939.0,,Naosura Motled,False,,8772,02,2,0,0,,,
+8250,8816_01,Europa,True,B/340/S,TRAPPIST-1e,48.0,False,0.0,0.0,0.0,0.0,,Murzima Diouselt,True,,8816,01,5,0,0,B,340,S
+8252,8816_03,Europa,True,B/340/S,55 Cancri e,15.0,False,0.0,0.0,0.0,0.0,0.0,Merops Diouselt,True,0.0,8816,03,5,0,0,B,340,S
+8253,8816_04,Europa,True,B/340/S,55 Cancri e,29.0,False,0.0,0.0,0.0,0.0,0.0,Astab Diouselt,True,0.0,8816,04,5,0,0,B,340,S
+8254,8816_05,Europa,False,B/340/S,TRAPPIST-1e,64.0,,0.0,1770.0,0.0,4111.0,180.0,Terops Diouselt,False,6061.0,8816,05,5,0,1,B,340,S
+8264,8826_01,Europa,False,C/290/P,55 Cancri e,13.0,False,1212.0,4485.0,0.0,4016.0,57.0,Marin Hednigic,False,9770.0,8826,01,3,0,1,C,290,P
+8265,8826_02,Europa,False,C/290/P,55 Cancri e,25.0,False,1369.0,310.0,3.0,4502.0,377.0,Nusakab Hednigic,False,6561.0,8826,02,3,0,1,C,290,P
+8266,8826_03,Europa,False,C/290/P,TRAPPIST-1e,46.0,False,1384.0,229.0,0.0,1572.0,1.0,Aston Hednigic,False,3186.0,8826,03,3,0,1,C,290,P
+8299,8862_01,Europa,False,C/329/S,55 Cancri e,34.0,False,0.0,3126.0,0.0,112.0,15.0,Pharmus Myling,True,3253.0,8862,01,5,0,1,C,329,S
+8300,8862_02,Europa,False,C/329/S,PSO J318.5-22,38.0,True,0.0,2191.0,863.0,207.0,6262.0,Menkin Cluted,False,9523.0,8862,02,5,0,1,C,329,S
+8301,8862_03,Europa,True,C/329/S,TRAPPIST-1e,,False,0.0,0.0,0.0,0.0,0.0,Alchib Myling,True,0.0,8862,03,5,0,0,C,329,S
+8302,8862_04,Europa,True,C/329/S,55 Cancri e,28.0,False,0.0,0.0,0.0,0.0,0.0,Alramix Myling,True,0.0,8862,04,5,0,0,C,329,S
+8303,8862_05,Europa,True,C/329/S,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,Prope Myling,True,0.0,8862,05,5,0,0,C,329,S
+8307,8867_01,Europa,True,B/286/P,55 Cancri e,30.0,False,0.0,0.0,0.0,0.0,0.0,Sollum Ambleetive,True,0.0,8867,01,2,0,0,B,286,P
+8308,8867_02,Europa,True,B/286/P,55 Cancri e,38.0,False,0.0,0.0,0.0,0.0,0.0,Alrairk Ambleetive,True,0.0,8867,02,2,0,0,B,286,P
+8364,8945_01,Europa,False,D/270/S,TRAPPIST-1e,43.0,False,,1632.0,346.0,957.0,128.0,Maham Cralinal,False,,8945,01,2,0,0,D,270,S
+8365,8945_02,Europa,False,D/270/S,TRAPPIST-1e,21.0,,3036.0,32.0,0.0,2.0,416.0,Zinonon Cralinal,False,3486.0,8945,02,2,0,1,D,270,S
+8367,8948_01,Europa,False,B/342/S,TRAPPIST-1e,57.0,,0.0,13.0,0.0,52.0,11325.0,Sterfik Hetforhaft,False,11390.0,8948,01,2,0,1,B,342,S
+8368,8948_02,Europa,False,B/342/S,55 Cancri e,18.0,False,0.0,4715.0,0.0,36.0,995.0,Hadirah Hetforhaft,True,5746.0,8948,02,2,0,1,B,342,S
+8415,8989_01,Europa,False,B/291/P,TRAPPIST-1e,17.0,False,0.0,366.0,23492.0,356.0,3.0,,True,24217.0,8989,01,4,0,1,B,291,P
+8416,8989_02,Europa,True,B/291/P,55 Cancri e,16.0,False,0.0,0.0,0.0,0.0,0.0,Dyonon Invebodene,True,0.0,8989,02,4,0,0,B,291,P
+8417,8989_03,Europa,True,B/291/P,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,Graston Invebodene,True,0.0,8989,03,4,0,0,B,291,P
+8418,8989_04,Europa,False,B/291/P,55 Cancri e,29.0,False,80.0,3707.0,0.0,1465.0,1320.0,Minon Invebodene,False,6572.0,8989,04,4,0,1,B,291,P
+8457,9034_01,Europa,True,D/288/P,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,Marfar Crakete,True,0.0,9034,01,5,0,0,D,288,P
+8458,9034_02,Europa,True,D/288/P,TRAPPIST-1e,43.0,False,0.0,0.0,0.0,0.0,0.0,Errairk Crakete,True,0.0,9034,02,5,0,0,D,288,P
+8459,9034_03,Europa,False,D/288/P,55 Cancri e,27.0,False,0.0,984.0,0.0,13995.0,312.0,Phecca Headmish,False,15291.0,9034,03,5,0,1,D,288,P
+8460,9034_04,Europa,False,D/288/P,TRAPPIST-1e,60.0,False,0.0,,947.0,668.0,1.0,,True,,9034,04,5,0,0,D,288,P
+8461,9034_05,Europa,False,D/288/P,TRAPPIST-1e,33.0,False,0.0,1876.0,0.0,1432.0,14.0,Mothab Crakete,False,3322.0,9034,05,5,0,1,D,288,P
+8469,9046_01,Europa,True,C/335/S,55 Cancri e,25.0,False,0.0,0.0,0.0,0.0,0.0,Alphah Cratrave,True,0.0,9046,01,2,0,0,C,335,S
+8470,9046_02,Europa,False,C/335/S,TRAPPIST-1e,25.0,False,6899.0,265.0,0.0,2234.0,2090.0,Quarke Cratrave,False,11488.0,9046,02,2,0,1,C,335,S
+8475,9057_01,Europa,False,,55 Cancri e,36.0,True,132.0,3479.0,0.0,3786.0,0.0,Coxan Statch,False,7397.0,9057,01,2,0,1,,,
+8476,9057_02,Europa,True,B/296/P,TRAPPIST-1e,55.0,False,0.0,0.0,0.0,0.0,0.0,Sitron Statch,True,0.0,9057,02,2,0,0,B,296,P
+8483,9069_01,Europa,True,B/297/P,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,Azhat Brakeng,True,0.0,9069,01,5,0,0,B,297,P
+8484,9069_02,Europa,True,B/297/P,55 Cancri e,26.0,False,0.0,0.0,0.0,0.0,0.0,Hekab Brakeng,True,0.0,9069,02,5,0,0,B,297,P
+8485,9069_03,Europa,True,,55 Cancri e,25.0,False,0.0,0.0,0.0,0.0,0.0,Bath Brakeng,True,0.0,9069,03,5,0,0,,,
+8486,9069_04,Europa,False,B/297/P,TRAPPIST-1e,44.0,False,0.0,4313.0,0.0,568.0,7.0,Cheleon Brakeng,True,4888.0,9069,04,5,0,1,B,297,P
+8487,9069_05,Europa,False,B/297/P,55 Cancri e,29.0,False,0.0,12563.0,0.0,3.0,5057.0,Mirfark Taketiatim,False,17623.0,9069,05,5,0,1,B,297,P
+8492,9073_01,Europa,False,A/107/S,TRAPPIST-1e,13.0,False,24.0,838.0,1069.0,1376.0,181.0,Marazha Shricatory,False,3488.0,9073,01,2,0,1,A,107,S
+8493,9073_02,Europa,True,B/347/S,55 Cancri e,53.0,False,0.0,0.0,,0.0,0.0,Wimpha Shricatory,True,,9073,02,2,0,0,B,347,S
+8516,9085_01,Europa,False,A/95/P,55 Cancri e,70.0,False,0.0,2113.0,0.0,1972.0,51.0,,False,4136.0,9085,01,3,0,1,A,95,P
+8517,9085_02,Europa,False,A/95/P,55 Cancri e,30.0,False,11.0,495.0,0.0,2049.0,2064.0,Sularon Hometerval,False,4619.0,9085,02,3,0,1,A,95,P
+8518,9085_03,Europa,True,A/95/P,TRAPPIST-1e,57.0,False,0.0,0.0,0.0,0.0,0.0,Atrix Hometerval,True,0.0,9085,03,3,0,0,A,95,P
+8552,9131_01,Europa,False,C/303/P,55 Cancri e,33.0,False,0.0,1961.0,0.0,226.0,1077.0,Dirk Wirybody,False,3264.0,9131,01,2,0,1,C,303,P
+8553,9131_02,Europa,True,C/303/P,TRAPPIST-1e,23.0,False,0.0,0.0,0.0,0.0,0.0,Grafirk Wirybody,True,0.0,9131,02,2,0,0,C,303,P
+8566,9149_01,Europa,True,B/350/S,55 Cancri e,37.0,False,0.0,0.0,0.0,,0.0,Canonon Dompreced,True,,9149,01,2,0,0,B,350,S
+8567,9149_02,Europa,False,B/350/S,55 Cancri e,22.0,False,0.0,36.0,1.0,3761.0,4521.0,Meron Dompreced,False,8319.0,9149,02,2,0,1,B,350,S
+8588,9168_01,Europa,False,C/338/S,55 Cancri e,36.0,False,23.0,14773.0,0.0,1159.0,7819.0,Hadirk Cassiding,False,23774.0,9168,01,2,0,1,C,338,S
+8589,9168_02,Europa,True,C/338/S,TRAPPIST-1e,41.0,False,0.0,0.0,0.0,0.0,0.0,Algiedi Cassiding,True,0.0,9168,02,2,0,0,C,338,S
+8614,9194_02,Europa,False,E/603/S,TRAPPIST-1e,32.0,True,1003.0,909.0,0.0,0.0,15.0,Tachba Subwor,False,1927.0,9194,02,2,0,1,E,603,S
+8617,9196_01,Europa,False,C/339/S,TRAPPIST-1e,40.0,False,0.0,1674.0,0.0,269.0,4.0,Tabdhib Poustive,True,1947.0,9196,01,3,0,1,C,339,S
+8618,9196_02,Europa,False,C/339/S,TRAPPIST-1e,31.0,False,1.0,104.0,1338.0,698.0,126.0,Majorab Poustive,True,2267.0,9196,02,3,0,1,C,339,S
+8619,9196_03,Europa,False,C/339/S,TRAPPIST-1e,23.0,False,381.0,794.0,52.0,654.0,1317.0,Chellus Poustive,False,3198.0,9196,03,3,0,1,C,339,S
+8620,9197_01,Europa,,C/308/P,55 Cancri e,44.0,False,0.0,0.0,0.0,0.0,0.0,Bellus Platch,True,0.0,9197,01,4,0,0,C,308,P
+8621,9197_02,Europa,False,C/308/P,,41.0,True,0.0,7964.0,0.0,3238.0,5839.0,Aludram Platch,False,17041.0,9197,02,4,0,1,C,308,P
+8622,9197_03,Europa,False,C/308/P,TRAPPIST-1e,31.0,False,0.0,4634.0,8.0,616.0,0.0,Pheino Platch,True,5258.0,9197,03,4,0,1,C,308,P
+8623,9197_04,Europa,False,C/308/P,55 Cancri e,30.0,False,1569.0,,0.0,,2252.0,Phecca Platch,False,,9197,04,4,0,0,C,308,P
+8628,9205_01,Europa,True,B/300/P,55 Cancri e,37.0,False,0.0,0.0,0.0,0.0,0.0,Thaldah Brakeng,True,0.0,9205,01,3,0,0,B,300,P
+8629,9205_02,Europa,True,B/300/P,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,,True,0.0,9205,02,3,0,0,B,300,P
+8630,9205_03,Europa,True,B/300/P,TRAPPIST-1e,52.0,,0.0,0.0,0.0,0.0,0.0,Propent Brakeng,True,0.0,9205,03,3,0,0,B,300,P
+8669,9252_01,Europa,False,B/301/P,55 Cancri e,26.0,False,0.0,8160.0,205.0,0.0,438.0,Alchium Stranbeate,True,8803.0,9252,01,2,0,1,B,301,P
+8670,9252_02,Europa,True,B/301/P,55 Cancri e,19.0,False,0.0,0.0,0.0,0.0,0.0,Muonon Stranbeate,True,0.0,9252,02,2,0,0,B,301,P
+8678,9267_01,Europa,True,E/607/S,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,Arraid Opshaft,True,0.0,9267,01,2,0,0,E,607,S
+8679,9267_02,Europa,True,E/607/S,TRAPPIST-1e,20.0,False,0.0,0.0,0.0,0.0,0.0,Sabi Opshaft,True,0.0,9267,02,2,0,0,E,607,S
+8685,9275_01,Europa,False,A/97/P,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,Polaton Conable,True,0.0,9275,01,3,0,0,A,97,P
+8686,9275_02,Europa,False,A/97/P,TRAPPIST-1e,32.0,False,1.0,1146.0,0.0,50.0,34.0,Diram Conable,False,1231.0,9275,02,3,0,1,A,97,P
+8687,9275_03,Europa,,A/97/P,TRAPPIST-1e,30.0,False,0.0,3208.0,0.0,2.0,330.0,Atlasym Conable,True,3540.0,9275,03,3,0,1,A,97,P
+8691,9280_01,Europa,False,E/608/S,55 Cancri e,32.0,False,0.0,1049.0,0.0,353.0,3235.0,Celeon Hontichre,False,4637.0,9280,01,2,0,1,E,608,S
+8692,9280_02,Europa,False,E/608/S,TRAPPIST-1e,44.0,False,126.0,4688.0,0.0,0.0,12.0,Propsh Hontichre,True,4826.0,9280,02,2,0,1,E,608,S
